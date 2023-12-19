@@ -1,0 +1,678 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Narratives | Silas Bergen</title>
+    <link>https://example.com/narratives/</link>
+      <atom:link href="https://example.com/narratives/index.xml" rel="self" type="application/rss+xml" />
+    <description>Narratives</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Tue, 19 Dec 2023 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://example.com/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <title>Narratives</title>
+      <link>https://example.com/narratives/</link>
+    </image>
+    
+    <item>
+      <title>Criterion 1: Teaching Effectiveness</title>
+      <link>https://example.com/narratives/crit1/</link>
+      <pubDate>Tue, 19 Dec 2023 00:00:00 +0000</pubDate>
+      <guid>https://example.com/narratives/crit1/</guid>
+      <description>&lt;figure&gt;
+&lt;img src=&#34;../../media/image1.png&#34; width = &#34;500&#34;&gt;
+&lt;figcaption&gt; &lt;i&gt; Discussing visualizations in DSCI 310: data visualization; Fall 2022&lt;/i&gt;  &lt;/figcaption&gt;
+&lt;/figure&gt; 
+&lt;p&gt;During my time as associate professor I taught the following courses:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;FIN 335 &amp;ndash; Forecasting methods&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;DSCI 210 &amp;ndash; Data science&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;DSCI 310 &amp;ndash; Data visualization&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;STAT 110 &amp;ndash; Fundamentals of Statistics&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;STAT 303 &amp;ndash; Introduction to Engineering Statistics&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;STAT 360 &amp;ndash; Regression analysis&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;STAT 370 &amp;ndash; Statistical consulting and communication&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;STAT 380 &amp;ndash; Advanced statistical modeling&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;STAT 405 &amp;ndash; Biostatistics&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;STAT 450 &amp;ndash; Mathematical Statistics I&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;STAT 460 &amp;ndash; Mathematical Statistics II&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;The following are ways in which I demonstrated &lt;em&gt;Teaching Effectiveness&lt;/em&gt;
+during the past five years:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;#sec1&#34;&gt;I developed high-quality activities and projects for DSCI 210: Data
+Science;&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;#sec2&#34;&gt;I developed rubrics to evaluate presentations, visual aids, written
+reports, and client meetings for STAT 370: Statistical Consulting
+and Communication;&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;#sec3&#34;&gt;I developed a successful and high-quality online learning experience
+for STAT 301: Statistical Thinking for Healthcare;&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;#sec4&#34;&gt;I improved and revitalized the content of and assignment structure
+in DSCI 310: Data visualization;&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;#sec5&#34;&gt;I created a suite of Colab notebooks, activities, and assignments
+for FIN 335: Forecasting;&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;#sec6&#34;&gt;I proposed and developed a brand new course &amp;ndash; STAT 380: Advanced
+statistical modeling;&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;#sec7&#34;&gt;I created a suite of Colab notebooks, activities, and assignments
+for STAT 360: Regression analysis;&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;#sec8&#34;&gt;I continued a record of being an enthusiastic, helpful, and clear
+instructor in all my courses.&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;a name=&#34;sec1&#34;&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;h2 id=&#34;i-developed-high-quality-activities-and-projects-for-dsci-210-data-science&#34;&gt;I developed high-quality activities and projects for DSCI 210: Data Science&lt;/h2&gt;
+&lt;p&gt;I taught DSCI 210 for my first time in Fall 2019 and Spring 2020. I
+inherited a quality curriculum outline with solid content from my
+colleague Dr. Todd Iverson. One area where I saw room for improvement
+was with in-class activities and class projects.&lt;/p&gt;
+&lt;h3 id=&#34;activities&#34;&gt;Activities&lt;/h3&gt;
+&lt;p&gt;Building upon Dr. Iverson&amp;rsquo;s content, I developed a suite of near-daily
+activities to illustrate many of the concepts he had brought into the
+course. Many of these activities drew from data brought to the
+Statistical Consulting Center, which I had been directing for a couple
+years. Here are some examples.&lt;/p&gt;
+&lt;h4 id=&#34;activity-example-1-wsu-vehicle-requests&#34;&gt;Activity Example 1: WSU vehicle requests&lt;/h4&gt;
+&lt;p&gt;The screenshot below shows data on requests for WSU vehicles:&lt;/p&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;../../media/image2.png&#34; alt=&#34;Graphical user interface, application, table, Excel Description
+automatically generated&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+{width=&amp;ldquo;6.5in&amp;rdquo;
+height=&amp;ldquo;3.0868055555555554in&amp;rdquo;}&lt;/p&gt;
+&lt;p&gt;Some of the tasks students had to do:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;Clean &amp;ldquo;Destination City,&amp;rdquo; which was very messy as requesting parties
+could just type in their destination resulting in many variants of
+the same place (e.g. St. Paul; St paul; st paul; ST Paul St
+Paul/MPLS).&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Pull off number of passengers, which is embedded in the Vehicle(s)
+field.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Compute average trip length for each vehicle, which requires
+differencing Departure from Return.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Find number of vehicles used for each trip, which required splitting
+the Vehicle(s) column when it contained multiple vehicles.&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h4 id=&#34;activity-example-2-trout-spawning-data&#34;&gt;Activity Example 2: trout spawning data&lt;/h4&gt;
+&lt;p&gt;The data below came from a consulting client, measuring redds (spawning
+nests) of stream trout.&lt;/p&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;../../media/image3.png&#34; alt=&#34;Graphical user interface Description automatically generated with low
+confidence&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;p&gt;From a data science perspective, there are many issues with this data
+that students had to grapple with including:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;Highlighting indicating grouping status;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Different sections of streams contained in different spreadsheets;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Bold lines indicating 1000-yard segments;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;One separate Excel file for each of 4 different years.&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h4 id=&#34;activity-example-3-rape-myth-agreement&#34;&gt;Activity Example 3: rape myth agreement&lt;/h4&gt;
+&lt;p&gt;This data set also came from a consulting client working on a
+counsellor&amp;rsquo;s education master&amp;rsquo;s thesis. She wanted to compare rape myth
+belief as measured by the Illinois Rape Myth Acceptance Scale before and
+after a training on gender-based violence among student athletes. The
+raw data and the clean data are shown below:&lt;/p&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;../../media/image4.png&#34; alt=&#34;Table Description automatically
+generated&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;p&gt;Students needed to recode all of the Likert-scale items to come up with
+a single score for each student, then match the scores on the pre- and
+post-training data to develop the clean data set on the right.&lt;/p&gt;
+&lt;h3 id=&#34;projects&#34;&gt;Projects&lt;/h3&gt;
+&lt;p&gt;Along with the in-class activities, I developed several in-class
+projects that required substantial application of the DSCI 210 content.&lt;/p&gt;
+&lt;h4 id=&#34;project-example-1-covid-19-trends&#34;&gt;Project example 1: COVID-19 trends&lt;/h4&gt;
+&lt;p&gt;This project required students to pull data from a Github repository,
+clean it, and visualize it. This was a final project which required a
+substantial amount of coding, cleaning, and visualizing with R:&lt;/p&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;../../media/image5.png&#34; alt=&#34;Table Description automatically
+generated&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;h4 id=&#34;project-example-2-mudac-2020&#34;&gt;Project example 2: MUDAC 2020&lt;/h4&gt;
+&lt;p&gt;This final project build on MUDAC 2020, which focused on understanding
+whether various motions made during civil rights trials could predict
+the outcome of the trial. Some of the questions students had to answer
+with this data involved whether filing rates differed by district, and
+how the prevalence and frequency of motions impacted likelihood of cases
+being settled or taken to trial. Students had to use association rules,
+a recently learned technique, to analyze the former.&lt;/p&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;../../media/image6.png&#34; alt=&#34;&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;h3 id=&#34;feedback&#34;&gt;Feedback&lt;/h3&gt;
+&lt;p&gt;Student feedback on the activities and project was very positive. Below
+are student responses to the statement &amp;ldquo;The in-class activities helped
+me to understand the course material,&amp;rdquo; combined across both Fall 2019
+and Spring 2020 semesters:&lt;/p&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;../../media/image7.png&#34; alt=&#34;Chart, histogram Description automatically
+generated&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;p&gt;Additionally, students referenced the activities and projects when asked
+&amp;ldquo;The thing I liked MOST about the course was&amp;hellip;&amp;rdquo;&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&lt;em&gt;In class group activities&lt;/em&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&lt;em&gt;The challenging homework assignments. Although they were very frustrating at times, I always felt accomplished when I finished. Also, I really enjoyed the in-class activities.&lt;/em&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&lt;em&gt;Using real world data and tools such as Open Refine&lt;/em&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&lt;em&gt;All the in class examples and activities made sure I understood the material.&lt;/em&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&lt;em&gt;In-class activity because that way you could practice the topics just discussed in class which will help to know the content better.&lt;/em&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&lt;em&gt;Small sections, with lots of in-class exercises to reinforce concepts.&lt;/em&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&lt;em&gt;Making the COVID graphs in R was really cool, I liked using real data to get my results.&lt;/em&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&lt;em&gt;I enjoyed the topic and the practice with the different applications.&lt;/em&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;One student reached out to me via email at end of Spring 2020 with this
+feedback:&lt;/p&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;../../media/image8.png&#34; alt=&#34;&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;p&gt;I received additional feedback from Dr. Iverson when he taught DSCI 210
+in Fall 2020, after I passed along all my activities and projects. The
+following comments are rare shreds of praise from him, which I quickly
+screenshotted from our Microsoft Teams chat before he could delete them.&lt;/p&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;../../media/image9.png&#34; alt=&#34;Graphical user interface, text, application, email Description
+automatically
+generated&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;../../media/image10.png&#34; alt=&#34;Graphical user interface, text, application Description automatically
+generated&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;../../media/image11.png&#34; alt=&#34;Graphical user interface, text, application, email Description
+automatically generated&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;h2 id=&#34;i-developed-rubrics-to-evaluate-presentations-visual-aids-written-reports-and-client-meetings-for-stat-370-statistical-consulting-and-communication&#34;&gt;I developed rubrics to evaluate presentations, visual aids, written reports, and client meetings for STAT 370: Statistical Consulting and Communication.&lt;/h2&gt;
+&lt;p&gt;As associate professor, I taught STAT 370 four times (Fall 2019, 2021,
+2022, 2023). This course requires students to write frequent reports and
+design PowerPoints to accompany their oral presentations. There was no
+consistent way of evaluating these so I developed two rubrics that I
+felt were successful in distinguishing between various qualities of
+student reports and presentation slides.&lt;/p&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;../../media/image12.png&#34; alt=&#34;Table Description automatically
+generated&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;../../media/image13.png&#34; alt=&#34;&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;p&gt;As the number of clients we served in the course continued to increase,
+I also wanted a way to help students understand the components of a
+leading a quality statistical consulting meeting. Accordingly, brand new
+in Fall 2023, I developed a &amp;ldquo;client meeting&amp;rdquo; rubric that I used to hold
+students accountable for preparing and leading professional, helpful
+meetings with clients. Each student was evaluated with this rubric four
+times in Fall 2023:&lt;/p&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;&lt;strong&gt;30 points total&lt;/strong&gt;&lt;/th&gt;
+&lt;th&gt;Excellent (10 points)&lt;/th&gt;
+&lt;th&gt;Poor (1 point)&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;Professionalism&lt;/td&gt;
+&lt;td&gt;Student demonstrated high professionalism throughout and had a pleasant demeanor. Nonverbal cues were entirely professional.&lt;/td&gt;
+&lt;td&gt;Student appeared disinterested in the client, perhaps sounding condescending and irritated. The student&amp;rsquo;s nonverbal cues were highly unprofessional.&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Preparation&lt;/td&gt;
+&lt;td&gt;Student was very well-prepared. Student demonstrated they had reviewed all relevant information before the meeting and had prepared questions regarding the material, if applicable.&lt;/td&gt;
+&lt;td&gt;Student clearly had not reviewed the materials the client provided before the meeting. Student seemed disoriented during the meeting.&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Information gathering&lt;/td&gt;
+&lt;td&gt;Student asked pertinent questions and fully gathered all information needed to advise the client on next steps. The student made sure they understood the client&amp;rsquo;s research questions, data, etc.&lt;/td&gt;
+&lt;td&gt;Student had a difficult time asking questions and ended the meeting before fully understanding the client&amp;rsquo;s research questions, data, etc.&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;p&gt;The following are comments from clients served by the students taking
+STAT 370, as recorded by a Consulting Feedback Survey I sent the clients
+following the conclusion of their collaboration with our class, which I
+offer to demonstrate the high standard students were held to by these
+rubrics:&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&lt;em&gt;I really appreciated the opportunity to work with the students to obtain a statistical analysis of my data. It felt like a mutually beneficial experience for myself and the student. The completed report was very well done and easy to understand.&lt;/em&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&lt;em&gt;I was blown away by the student&#39;s knowledge and professionalism. This seems to be an extremely valuable, applied learning project.&lt;/em&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&lt;em&gt;Very impressed with the work done by these students! Very happy to have had the opportunity to collaborate with them.&lt;/em&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&lt;em&gt;It was very easy to get connected with SCC and schedule a time to meet with the class. Kristin provided us exactly what we were looking for to bring back to our task force. I liked being able to go see her presentation to the class and getting the data from her PowerPoint sent to our group. Thank you for providing this experience for your students and this resource for campus!&lt;/em&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&lt;em&gt;When we started and were asked questions about what we wanted to find out from the data, we were all over the place because we were not clear. Then as we started writing out the manuscript, we kept going back to the statistician to ask for further information. I am truly grateful that the student was really patient with us.&lt;/em&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&lt;em&gt;We had a great experience! The class was extremely helpful.&lt;/em&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&lt;em&gt;It was extremely helpful to have assistance with the statistical analysis of the data for our project. Much appreciated your services!&lt;/em&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;h2 id=&#34;i-developed-a-successful-and-high-quality-online-learning-experience-for-stat-301-statistical-thinking-for-healthcare&#34;&gt;I developed a successful and high-quality online learning experience for STAT 301: Statistical Thinking for Healthcare.&lt;/h2&gt;
+&lt;p&gt;In Summer 2021 I taught STAT 301 for the first time. I spent a lot of
+effort developing and organizing the course which included finding much
+health-care related content and examples. I have taught the course 5
+times. In course evaluations, 44 of 49 students who completed
+evaluations across my 5 offerings rated the course as &amp;ldquo;Good&amp;rdquo; or
+&amp;ldquo;Excellent.&amp;rdquo; The following are comments from students on the course
+evaluations:&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&lt;em&gt;I really appreciated that Professor Bergen seemed to care about the students. I struggled with the course but he never made me feel bad for seeking out help.&lt;/em&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&lt;em&gt;It was a great class and I learned a lot about Statistics for Health care&lt;/em&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&lt;em&gt;I surprisingly enjoyed the content. The professor was clear and a taught the material well. I thought the course layout on the d2l site was the best I&#39;ve experienced with being an online course. I really like the interactive lecture videos.&lt;/em&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&lt;em&gt;Useful knowledge that I will take with me if I need to interpret research articles.&lt;/em&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&lt;em&gt;Prof. Bergen made it health care related and kept it interesting&lt;/em&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&lt;em&gt;I learned so much!&lt;/em&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&lt;em&gt;The lectures were very precise and clear (and inclusive, made me happy to learn from you)&lt;/em&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&lt;em&gt;I enjoyed the course. It offered a good challenge while still making enough sense to get good grades.&lt;/em&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&lt;em&gt;I appreciate the comic relief the instructor added to his earlier lectures. I also appreciate that the lectures are all pretty short, no hour long videos to trudge through. I really appreciated having the tutorial videos to follow the instructor for the HW or the practice HW questions. I&#39;m a visual learner, so seeing instructor type words for answers, seeing what vocabulary he used, how sentences were arranged, REALLY helped me do it myself. Wording is so important in this class, so I needed lots of demonstrations to follow and try to emulate. Also, seeing how he navigated through the JMP program was SO helpful. I also really liked that this was an online course so I could go rewatch lectures, re-do practice quizzes over and over. I cannot stress how beneficial that was for me to develop confidence and some mastery on the material. I think you should keep all lecture videos available to students, regardless if the class is in-person or online. Infinite practice quizzes is gold - don&#39;t get rid of that. Thank you to the professor for sharing parts of his life when creating lectures (btw, you never told us if the guy really stole your bike or not!) and contemporary statistical studies that are recent within the last 5 years. It definitely illustrates how readily applicable statistics is to everyday life and working in healthcare. Excellent class, one of my favorites by far. Thank you!&lt;/em&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&lt;em&gt;Great course with valuable information.&lt;/em&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&lt;em&gt;This course made me work for my grade but I learned a lot!&lt;/em&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&lt;em&gt;I really appreciate the fact that he seemed to care about our success.&lt;/em&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;The following are emails I received from students following the
+conclusion of the course:&lt;/p&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;../../media/image14.png&#34; alt=&#34;Text, application Description automatically generated with medium
+confidence&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;../../media/image15.png&#34; alt=&#34;&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;../../media/image16.png&#34; alt=&#34;&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;../../media/image17.png&#34; alt=&#34;A close up of text Description automatically
+generated&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;#top&#34;&gt;Back to top&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

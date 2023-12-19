@@ -1,0 +1,1785 @@
+<!DOCTYPE html>
+<!-- This site was created with Hugo Blox. https://hugoblox.com -->
+<!-- Last Published: December 19, 2023 --><html lang="en-us" >
+
+
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+  
+  
+  
+    <meta name="generator" content="Hugo Blox Builder 5.9.6" />
+  
+
+  
+  
+
+
+
+
+
+
+
+
+
+
+
+
+  
+  
+
+
+
+
+
+
+
+
+
+
+  
+
+
+
+
+
+
+
+  
+  
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+  
+
+  
+  
+  
+    
+      
+      <link rel="preload" as="style" href="https://fonts.googleapis.com/css2?family=Montserrat:wght@400;700&family=Roboto+Mono&family=Roboto:wght@400;700&display=swap">
+      <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Montserrat:wght@400;700&family=Roboto+Mono&family=Roboto:wght@400;700&display=swap" media="print" onload="this.media='all'">
+    
+  
+
+  
+  
+
+  
+  
+
+  
+
+  <link rel="stylesheet" href="/css/vendor-bundle.min.047268c6dd09ad74ba54a0ba71837064.css" media="print" onload="this.media='all'">
+
+  
+  
+  
+    
+    
+
+    
+    
+    
+    
+      
+      
+    
+    
+    
+
+    
+    
+    
+      <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/leaflet@1.7.1/dist/leaflet.min.css" integrity="" crossorigin="anonymous" media="print" onload="this.media='all'">
+    
+
+    
+
+    
+    
+      
+      
+
+      
+      
+
+      
+    
+      
+      
+
+      
+      
+
+      
+    
+      
+      
+
+      
+      
+
+      
+    
+      
+      
+
+      
+      
+
+      
+    
+      
+      
+
+      
+      
+
+      
+    
+      
+      
+
+      
+      
+
+      
+    
+      
+      
+
+      
+      
+
+      
+    
+      
+      
+
+      
+      
+
+      
+    
+      
+      
+
+      
+      
+
+      
+    
+      
+      
+
+      
+      
+
+      
+    
+      
+      
+
+      
+      
+        
+      
+
+      
+    
+      
+      
+
+      
+      
+
+      
+    
+      
+      
+
+      
+      
+
+      
+    
+  
+
+  
+  
+  
+  
+  
+  
+  <link rel="stylesheet" href="/css/wowchemy.32e2e32cf1a4c1ea152e519f8b1fda79.css" />
+
+  
+  
+  
+
+  
+  
+  
+  
+  
+  
+  
+    
+    
+    <link rel="stylesheet" href="/css/libs/chroma/github-light.min.css" title="hl-light" media="print" onload="this.media='all'" >
+    <link rel="stylesheet" href="/css/libs/chroma/dracula.min.css" title="hl-dark" media="print" onload="this.media='all'" disabled>
+  
+
+  
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+  
+  
+
+
+
+
+
+
+  <meta name="author" content="Silas Bergen" />
+
+
+
+
+
+  
+
+<meta name="description" content="Discussing visualizations in DSCI 310: data visualization; Fall 2022 During my time as associate professor I taught the following courses:
+FIN 335 &ndash; Forecasting methods
+DSCI 210 &ndash; Data science" />
+
+
+
+<link rel="alternate" hreflang="en-us" href="https://example.com/narratives/crit1/" />
+<link rel="canonical" href="https://example.com/narratives/crit1/" />
+
+
+
+  <link rel="manifest" href="/manifest.webmanifest" />
+
+
+
+<link rel="icon" type="image/png" href="/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_32x32_fill_lanczos_center_3.png" />
+<link rel="apple-touch-icon" type="image/png" href="/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_180x180_fill_lanczos_center_3.png" />
+
+<meta name="theme-color" content="#1565c0" />
+
+
+
+
+
+
+
+
+
+
+  
+  
+
+
+
+
+
+
+<meta property="twitter:card" content="summary" />
+
+  <meta property="twitter:site" content="@GetResearchDev" />
+  <meta property="twitter:creator" content="@GetResearchDev" />
+<meta property="twitter:image" content="https://example.com/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png" />
+
+
+
+  
+
+<meta property="og:type" content="website" />
+<meta property="og:site_name" content="Silas Bergen" />
+<meta property="og:url" content="https://example.com/narratives/crit1/" />
+<meta property="og:title" content="Criterion 1: Teaching Effectiveness | Silas Bergen" />
+<meta property="og:description" content="Discussing visualizations in DSCI 310: data visualization; Fall 2022 During my time as associate professor I taught the following courses:
+FIN 335 &ndash; Forecasting methods
+DSCI 210 &ndash; Data science" /><meta property="og:image" content="https://example.com/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png" /><meta property="og:locale" content="en-us" />
+
+  
+    <meta
+      property="article:published_time"
+      content="2023-12-19T00:00:00&#43;00:00"
+    />
+  
+  
+    <meta property="article:modified_time" content="2023-12-19T00:00:00&#43;00:00">
+  
+
+
+
+
+
+
+
+  
+
+
+
+
+  
+  
+  
+
+  
+  
+
+  
+
+
+  
+  <title>Criterion 1: Teaching Effectiveness | Silas Bergen</title>
+
+  
+  
+  
+  
+
+
+
+
+
+
+
+
+
+
+
+</head>
+
+
+<body id="top" data-spy="scroll" data-offset="70" data-target="#TableOfContents" class="page-wrapper   " data-wc-page-id="dc213bbc1ae67029126f8592d8342a3a" >
+
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  <script src="/js/wowchemy-init.min.3a6bdbdff5d8a89d6e651adb3deec035.js"></script>
+
+  
+
+
+<aside class="search-modal" id="search">
+  <div class="container">
+    <section class="search-header">
+
+      <div class="row no-gutters justify-content-between mb-3">
+        <div class="col-6">
+          <h1>Search</h1>
+        </div>
+        <div class="col-6 col-search-close">
+          <a class="js-search" href="#" aria-label="Close"><i class="fas fa-times-circle text-muted" aria-hidden="true"></i></a>
+        </div>
+      </div>
+
+      <div id="search-box">
+        
+        <input name="q" id="search-query" placeholder="Search..." autocapitalize="off"
+        autocomplete="off" autocorrect="off" spellcheck="false" type="search" class="form-control"
+        aria-label="Search...">
+        
+      </div>
+
+      
+      
+
+      
+
+    </section>
+    <section class="section-search-results">
+
+      <div id="search-hits">
+        
+      </div>
+
+    </section>
+  </div>
+</aside>
+
+
+
+  <div class="page-header header--fixed">
+  
+  
+  
+  
+  
+
+
+
+
+
+
+
+
+
+
+
+
+<header>
+  <nav class="navbar navbar-expand-lg navbar-light compensate-for-scrollbar" id="navbar-main">
+    <div class="container-xl">
+
+      
+
+      
+      <button type="button" class="navbar-toggler" data-toggle="collapse"
+              data-target="#navbar-content" aria-controls="navbar-content" aria-expanded="false" aria-label="Toggle navigation">
+      <span><i class="fas fa-bars"></i></span>
+      </button>
+      
+
+      
+
+      
+      
+      <div class="navbar-collapse main-menu-item collapse justify-content-start" id="navbar-content">
+
+        
+        <ul class="navbar-nav d-md-inline-flex">
+          
+
+          
+
+          
+          
+          
+            
+          
+
+          
+
+          
+          
+          
+          
+
+          
+            
+              
+              
+            
+            
+              
+              
+              
+                
+              
+              
+            
+          
+
+          <li class="nav-item">
+            <a class="nav-link " href="/#about"><span>Home</span></a>
+          </li>
+
+          
+          
+
+          
+
+          
+          
+          
+            
+          
+
+          
+
+          
+          
+          
+          
+
+          
+            
+              
+              
+            
+            
+          
+
+          <li class="nav-item">
+            <a class="nav-link  active" href="/narratives/crit1"><span>Criterion 1</span></a>
+          </li>
+
+          
+          
+
+          
+
+          
+          
+          
+            
+          
+
+          
+
+          
+          
+          
+          
+
+          
+            
+              
+              
+            
+            
+              
+              
+              
+                
+              
+              
+            
+          
+
+          <li class="nav-item">
+            <a class="nav-link " href="/#projects"><span>Projects</span></a>
+          </li>
+
+          
+          
+
+          
+
+          
+          
+          
+            
+          
+
+          
+
+          
+          
+          
+          
+
+          
+            
+              
+              
+            
+            
+              
+              
+              
+                
+              
+              
+            
+          
+
+          <li class="nav-item">
+            <a class="nav-link " href="/#talks"><span>Talks</span></a>
+          </li>
+
+          
+          
+
+          
+
+          
+          
+          
+            
+          
+
+          
+
+          
+          
+          
+          
+
+          
+            
+              
+              
+            
+            
+              
+              
+              
+                
+              
+              
+            
+          
+
+          <li class="nav-item">
+            <a class="nav-link " href="/#featured"><span>Publications</span></a>
+          </li>
+
+          
+          
+
+          
+
+          
+          
+          
+            
+          
+
+          
+
+          
+          
+          
+          
+
+          
+            
+              
+              
+            
+            
+              
+              
+              
+                
+              
+              
+            
+          
+
+          <li class="nav-item">
+            <a class="nav-link " href="/#contact"><span>Contact</span></a>
+          </li>
+
+          
+          
+
+          
+
+          
+          
+          
+            
+          
+
+          
+
+          
+          
+          
+          
+
+          
+            
+              
+              
+            
+            
+          
+
+          <li class="nav-item">
+            <a class="nav-link " href="/uploads/Bergen-CV-noemail.pdf"><span>CV</span></a>
+          </li>
+
+          
+          
+
+        
+
+          
+        </ul>
+      </div>
+
+      <ul class="nav-icons navbar-nav flex-row ml-auto d-flex pl-md-2">
+
+        
+        
+
+        
+        
+        
+
+        
+        
+        
+
+        
+        
+
+      </ul>
+
+    </div>
+  </nav>
+</header>
+
+
+  </div>
+
+  <div class="page-body">
+    
+    
+    
+
+    <article class="article">
+
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+
+  
+  
+  
+<div class="article-container pt-3">
+  <h1>Criterion 1: Teaching Effectiveness</h1>
+
+  
+
+  
+    
+
+
+<div class="article-metadata">
+
+  
+  
+
+  
+  <span class="article-date">
+    
+    
+      
+    
+    Dec 19, 2023
+  </span>
+  
+
+  
+
+  
+
+  
+  
+  
+  
+
+  
+  
+
+</div>
+
+    
+
+
+
+
+
+  
+</div>
+
+
+
+  <div class="article-container">
+
+    <div class="article-style">
+      <figure>
+<img src="../../media/image1.png" width = "500">
+<figcaption> <i> Discussing visualizations in DSCI 310: data visualization; Fall 2022</i>  </figcaption>
+</figure> 
+<p>During my time as associate professor I taught the following courses:</p>
+<ul>
+<li>
+<p>FIN 335 &ndash; Forecasting methods</p>
+</li>
+<li>
+<p>DSCI 210 &ndash; Data science</p>
+</li>
+<li>
+<p>DSCI 310 &ndash; Data visualization</p>
+</li>
+<li>
+<p>STAT 110 &ndash; Fundamentals of Statistics</p>
+</li>
+<li>
+<p>STAT 303 &ndash; Introduction to Engineering Statistics</p>
+</li>
+<li>
+<p>STAT 360 &ndash; Regression analysis</p>
+</li>
+<li>
+<p>STAT 370 &ndash; Statistical consulting and communication</p>
+</li>
+<li>
+<p>STAT 380 &ndash; Advanced statistical modeling</p>
+</li>
+<li>
+<p>STAT 405 &ndash; Biostatistics</p>
+</li>
+<li>
+<p>STAT 450 &ndash; Mathematical Statistics I</p>
+</li>
+<li>
+<p>STAT 460 &ndash; Mathematical Statistics II</p>
+</li>
+</ul>
+<p>The following are ways in which I demonstrated <em>Teaching Effectiveness</em>
+during the past five years:</p>
+<ul>
+<li>
+<p><a href="#sec1">I developed high-quality activities and projects for DSCI 210: Data
+Science;</a></p>
+</li>
+<li>
+<p><a href="#sec2">I developed rubrics to evaluate presentations, visual aids, written
+reports, and client meetings for STAT 370: Statistical Consulting
+and Communication;</a></p>
+</li>
+<li>
+<p><a href="#sec3">I developed a successful and high-quality online learning experience
+for STAT 301: Statistical Thinking for Healthcare;</a></p>
+</li>
+<li>
+<p><a href="#sec4">I improved and revitalized the content of and assignment structure
+in DSCI 310: Data visualization;</a></p>
+</li>
+<li>
+<p><a href="#sec5">I created a suite of Colab notebooks, activities, and assignments
+for FIN 335: Forecasting;</a></p>
+</li>
+<li>
+<p><a href="#sec6">I proposed and developed a brand new course &ndash; STAT 380: Advanced
+statistical modeling;</a></p>
+</li>
+<li>
+<p><a href="#sec7">I created a suite of Colab notebooks, activities, and assignments
+for STAT 360: Regression analysis;</a></p>
+</li>
+<li>
+<p><a href="#sec8">I continued a record of being an enthusiastic, helpful, and clear
+instructor in all my courses.</a></p>
+</li>
+</ul>
+<p><a name="sec1"></a></p>
+<h2 id="i-developed-high-quality-activities-and-projects-for-dsci-210-data-science">I developed high-quality activities and projects for DSCI 210: Data Science</h2>
+<p>I taught DSCI 210 for my first time in Fall 2019 and Spring 2020. I
+inherited a quality curriculum outline with solid content from my
+colleague Dr. Todd Iverson. One area where I saw room for improvement
+was with in-class activities and class projects.</p>
+<h3 id="activities">Activities</h3>
+<p>Building upon Dr. Iverson&rsquo;s content, I developed a suite of near-daily
+activities to illustrate many of the concepts he had brought into the
+course. Many of these activities drew from data brought to the
+Statistical Consulting Center, which I had been directing for a couple
+years. Here are some examples.</p>
+<h4 id="activity-example-1-wsu-vehicle-requests">Activity Example 1: WSU vehicle requests</h4>
+<p>The screenshot below shows data on requests for WSU vehicles:</p>
+<p>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<figure  >
+  <div class="d-flex justify-content-center">
+    <div class="w-100" ><img src="../../media/image2.png" alt="Graphical user interface, application, table, Excel Description
+automatically generated" loading="lazy" data-zoomable /></div>
+  </div></figure>
+{width=&ldquo;6.5in&rdquo;
+height=&ldquo;3.0868055555555554in&rdquo;}</p>
+<p>Some of the tasks students had to do:</p>
+<ul>
+<li>
+<p>Clean &ldquo;Destination City,&rdquo; which was very messy as requesting parties
+could just type in their destination resulting in many variants of
+the same place (e.g. St. Paul; St paul; st paul; ST Paul St
+Paul/MPLS).</p>
+</li>
+<li>
+<p>Pull off number of passengers, which is embedded in the Vehicle(s)
+field.</p>
+</li>
+<li>
+<p>Compute average trip length for each vehicle, which requires
+differencing Departure from Return.</p>
+</li>
+<li>
+<p>Find number of vehicles used for each trip, which required splitting
+the Vehicle(s) column when it contained multiple vehicles.</p>
+</li>
+</ul>
+<h4 id="activity-example-2-trout-spawning-data">Activity Example 2: trout spawning data</h4>
+<p>The data below came from a consulting client, measuring redds (spawning
+nests) of stream trout.</p>
+<p>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<figure  >
+  <div class="d-flex justify-content-center">
+    <div class="w-100" ><img src="../../media/image3.png" alt="Graphical user interface Description automatically generated with low
+confidence" loading="lazy" data-zoomable /></div>
+  </div></figure>
+</p>
+<p>From a data science perspective, there are many issues with this data
+that students had to grapple with including:</p>
+<ul>
+<li>
+<p>Highlighting indicating grouping status;</p>
+</li>
+<li>
+<p>Different sections of streams contained in different spreadsheets;</p>
+</li>
+<li>
+<p>Bold lines indicating 1000-yard segments;</p>
+</li>
+<li>
+<p>One separate Excel file for each of 4 different years.</p>
+</li>
+</ul>
+<h4 id="activity-example-3-rape-myth-agreement">Activity Example 3: rape myth agreement</h4>
+<p>This data set also came from a consulting client working on a
+counsellor&rsquo;s education master&rsquo;s thesis. She wanted to compare rape myth
+belief as measured by the Illinois Rape Myth Acceptance Scale before and
+after a training on gender-based violence among student athletes. The
+raw data and the clean data are shown below:</p>
+<p>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<figure  >
+  <div class="d-flex justify-content-center">
+    <div class="w-100" ><img src="../../media/image4.png" alt="Table Description automatically
+generated" loading="lazy" data-zoomable /></div>
+  </div></figure>
+</p>
+<p>Students needed to recode all of the Likert-scale items to come up with
+a single score for each student, then match the scores on the pre- and
+post-training data to develop the clean data set on the right.</p>
+<h3 id="projects">Projects</h3>
+<p>Along with the in-class activities, I developed several in-class
+projects that required substantial application of the DSCI 210 content.</p>
+<h4 id="project-example-1-covid-19-trends">Project example 1: COVID-19 trends</h4>
+<p>This project required students to pull data from a Github repository,
+clean it, and visualize it. This was a final project which required a
+substantial amount of coding, cleaning, and visualizing with R:</p>
+<p>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<figure  >
+  <div class="d-flex justify-content-center">
+    <div class="w-100" ><img src="../../media/image5.png" alt="Table Description automatically
+generated" loading="lazy" data-zoomable /></div>
+  </div></figure>
+</p>
+<h4 id="project-example-2-mudac-2020">Project example 2: MUDAC 2020</h4>
+<p>This final project build on MUDAC 2020, which focused on understanding
+whether various motions made during civil rights trials could predict
+the outcome of the trial. Some of the questions students had to answer
+with this data involved whether filing rates differed by district, and
+how the prevalence and frequency of motions impacted likelihood of cases
+being settled or taken to trial. Students had to use association rules,
+a recently learned technique, to analyze the former.</p>
+<p>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<figure  >
+  <div class="d-flex justify-content-center">
+    <div class="w-100" ><img src="../../media/image6.png" alt="" loading="lazy" data-zoomable /></div>
+  </div></figure>
+</p>
+<h3 id="feedback">Feedback</h3>
+<p>Student feedback on the activities and project was very positive. Below
+are student responses to the statement &ldquo;The in-class activities helped
+me to understand the course material,&rdquo; combined across both Fall 2019
+and Spring 2020 semesters:</p>
+<p>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<figure  >
+  <div class="d-flex justify-content-center">
+    <div class="w-100" ><img src="../../media/image7.png" alt="Chart, histogram Description automatically
+generated" loading="lazy" data-zoomable /></div>
+  </div></figure>
+</p>
+<p>Additionally, students referenced the activities and projects when asked
+&ldquo;The thing I liked MOST about the course was&hellip;&rdquo;</p>
+<blockquote>
+<p><em>In class group activities</em></p>
+</blockquote>
+<blockquote>
+<p><em>The challenging homework assignments. Although they were very frustrating at times, I always felt accomplished when I finished. Also, I really enjoyed the in-class activities.</em></p>
+</blockquote>
+<blockquote>
+<p><em>Using real world data and tools such as Open Refine</em></p>
+</blockquote>
+<blockquote>
+<p><em>All the in class examples and activities made sure I understood the material.</em></p>
+</blockquote>
+<blockquote>
+<p><em>In-class activity because that way you could practice the topics just discussed in class which will help to know the content better.</em></p>
+</blockquote>
+<blockquote>
+<p><em>Small sections, with lots of in-class exercises to reinforce concepts.</em></p>
+</blockquote>
+<blockquote>
+<p><em>Making the COVID graphs in R was really cool, I liked using real data to get my results.</em></p>
+</blockquote>
+<blockquote>
+<p><em>I enjoyed the topic and the practice with the different applications.</em></p>
+</blockquote>
+<p>One student reached out to me via email at end of Spring 2020 with this
+feedback:</p>
+<p>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<figure  >
+  <div class="d-flex justify-content-center">
+    <div class="w-100" ><img src="../../media/image8.png" alt="" loading="lazy" data-zoomable /></div>
+  </div></figure>
+</p>
+<p>I received additional feedback from Dr. Iverson when he taught DSCI 210
+in Fall 2020, after I passed along all my activities and projects. The
+following comments are rare shreds of praise from him, which I quickly
+screenshotted from our Microsoft Teams chat before he could delete them.</p>
+<p>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<figure  >
+  <div class="d-flex justify-content-center">
+    <div class="w-100" ><img src="../../media/image9.png" alt="Graphical user interface, text, application, email Description
+automatically
+generated" loading="lazy" data-zoomable /></div>
+  </div></figure>
+</p>
+<p>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<figure  >
+  <div class="d-flex justify-content-center">
+    <div class="w-100" ><img src="../../media/image10.png" alt="Graphical user interface, text, application Description automatically
+generated" loading="lazy" data-zoomable /></div>
+  </div></figure>
+</p>
+<p>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<figure  >
+  <div class="d-flex justify-content-center">
+    <div class="w-100" ><img src="../../media/image11.png" alt="Graphical user interface, text, application, email Description
+automatically generated" loading="lazy" data-zoomable /></div>
+  </div></figure>
+</p>
+<h2 id="i-developed-rubrics-to-evaluate-presentations-visual-aids-written-reports-and-client-meetings-for-stat-370-statistical-consulting-and-communication">I developed rubrics to evaluate presentations, visual aids, written reports, and client meetings for STAT 370: Statistical Consulting and Communication.</h2>
+<p>As associate professor, I taught STAT 370 four times (Fall 2019, 2021,
+2022, 2023). This course requires students to write frequent reports and
+design PowerPoints to accompany their oral presentations. There was no
+consistent way of evaluating these so I developed two rubrics that I
+felt were successful in distinguishing between various qualities of
+student reports and presentation slides.</p>
+<p>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<figure  >
+  <div class="d-flex justify-content-center">
+    <div class="w-100" ><img src="../../media/image12.png" alt="Table Description automatically
+generated" loading="lazy" data-zoomable /></div>
+  </div></figure>
+</p>
+<p>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<figure  >
+  <div class="d-flex justify-content-center">
+    <div class="w-100" ><img src="../../media/image13.png" alt="" loading="lazy" data-zoomable /></div>
+  </div></figure>
+</p>
+<p>As the number of clients we served in the course continued to increase,
+I also wanted a way to help students understand the components of a
+leading a quality statistical consulting meeting. Accordingly, brand new
+in Fall 2023, I developed a &ldquo;client meeting&rdquo; rubric that I used to hold
+students accountable for preparing and leading professional, helpful
+meetings with clients. Each student was evaluated with this rubric four
+times in Fall 2023:</p>
+<table>
+<thead>
+<tr>
+<th><strong>30 points total</strong></th>
+<th>Excellent (10 points)</th>
+<th>Poor (1 point)</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Professionalism</td>
+<td>Student demonstrated high professionalism throughout and had a pleasant demeanor. Nonverbal cues were entirely professional.</td>
+<td>Student appeared disinterested in the client, perhaps sounding condescending and irritated. The student&rsquo;s nonverbal cues were highly unprofessional.</td>
+</tr>
+<tr>
+<td>Preparation</td>
+<td>Student was very well-prepared. Student demonstrated they had reviewed all relevant information before the meeting and had prepared questions regarding the material, if applicable.</td>
+<td>Student clearly had not reviewed the materials the client provided before the meeting. Student seemed disoriented during the meeting.</td>
+</tr>
+<tr>
+<td>Information gathering</td>
+<td>Student asked pertinent questions and fully gathered all information needed to advise the client on next steps. The student made sure they understood the client&rsquo;s research questions, data, etc.</td>
+<td>Student had a difficult time asking questions and ended the meeting before fully understanding the client&rsquo;s research questions, data, etc.</td>
+</tr>
+</tbody>
+</table>
+<p>The following are comments from clients served by the students taking
+STAT 370, as recorded by a Consulting Feedback Survey I sent the clients
+following the conclusion of their collaboration with our class, which I
+offer to demonstrate the high standard students were held to by these
+rubrics:</p>
+<blockquote>
+<p><em>I really appreciated the opportunity to work with the students to obtain a statistical analysis of my data. It felt like a mutually beneficial experience for myself and the student. The completed report was very well done and easy to understand.</em></p>
+</blockquote>
+<blockquote>
+<p><em>I was blown away by the student's knowledge and professionalism. This seems to be an extremely valuable, applied learning project.</em></p>
+</blockquote>
+<blockquote>
+<p><em>Very impressed with the work done by these students! Very happy to have had the opportunity to collaborate with them.</em></p>
+</blockquote>
+<blockquote>
+<p><em>It was very easy to get connected with SCC and schedule a time to meet with the class. Kristin provided us exactly what we were looking for to bring back to our task force. I liked being able to go see her presentation to the class and getting the data from her PowerPoint sent to our group. Thank you for providing this experience for your students and this resource for campus!</em></p>
+</blockquote>
+<blockquote>
+<p><em>When we started and were asked questions about what we wanted to find out from the data, we were all over the place because we were not clear. Then as we started writing out the manuscript, we kept going back to the statistician to ask for further information. I am truly grateful that the student was really patient with us.</em></p>
+</blockquote>
+<blockquote>
+<p><em>We had a great experience! The class was extremely helpful.</em></p>
+</blockquote>
+<blockquote>
+<p><em>It was extremely helpful to have assistance with the statistical analysis of the data for our project. Much appreciated your services!</em></p>
+</blockquote>
+<h2 id="i-developed-a-successful-and-high-quality-online-learning-experience-for-stat-301-statistical-thinking-for-healthcare">I developed a successful and high-quality online learning experience for STAT 301: Statistical Thinking for Healthcare.</h2>
+<p>In Summer 2021 I taught STAT 301 for the first time. I spent a lot of
+effort developing and organizing the course which included finding much
+health-care related content and examples. I have taught the course 5
+times. In course evaluations, 44 of 49 students who completed
+evaluations across my 5 offerings rated the course as &ldquo;Good&rdquo; or
+&ldquo;Excellent.&rdquo; The following are comments from students on the course
+evaluations:</p>
+<blockquote>
+<p><em>I really appreciated that Professor Bergen seemed to care about the students. I struggled with the course but he never made me feel bad for seeking out help.</em></p>
+</blockquote>
+<blockquote>
+<p><em>It was a great class and I learned a lot about Statistics for Health care</em></p>
+</blockquote>
+<blockquote>
+<p><em>I surprisingly enjoyed the content. The professor was clear and a taught the material well. I thought the course layout on the d2l site was the best I've experienced with being an online course. I really like the interactive lecture videos.</em></p>
+</blockquote>
+<blockquote>
+<p><em>Useful knowledge that I will take with me if I need to interpret research articles.</em></p>
+</blockquote>
+<blockquote>
+<p><em>Prof. Bergen made it health care related and kept it interesting</em></p>
+</blockquote>
+<blockquote>
+<p><em>I learned so much!</em></p>
+</blockquote>
+<blockquote>
+<p><em>The lectures were very precise and clear (and inclusive, made me happy to learn from you)</em></p>
+</blockquote>
+<blockquote>
+<p><em>I enjoyed the course. It offered a good challenge while still making enough sense to get good grades.</em></p>
+</blockquote>
+<blockquote>
+<p><em>I appreciate the comic relief the instructor added to his earlier lectures. I also appreciate that the lectures are all pretty short, no hour long videos to trudge through. I really appreciated having the tutorial videos to follow the instructor for the HW or the practice HW questions. I'm a visual learner, so seeing instructor type words for answers, seeing what vocabulary he used, how sentences were arranged, REALLY helped me do it myself. Wording is so important in this class, so I needed lots of demonstrations to follow and try to emulate. Also, seeing how he navigated through the JMP program was SO helpful. I also really liked that this was an online course so I could go rewatch lectures, re-do practice quizzes over and over. I cannot stress how beneficial that was for me to develop confidence and some mastery on the material. I think you should keep all lecture videos available to students, regardless if the class is in-person or online. Infinite practice quizzes is gold - don't get rid of that. Thank you to the professor for sharing parts of his life when creating lectures (btw, you never told us if the guy really stole your bike or not!) and contemporary statistical studies that are recent within the last 5 years. It definitely illustrates how readily applicable statistics is to everyday life and working in healthcare. Excellent class, one of my favorites by far. Thank you!</em></p>
+</blockquote>
+<blockquote>
+<p><em>Great course with valuable information.</em></p>
+</blockquote>
+<blockquote>
+<p><em>This course made me work for my grade but I learned a lot!</em></p>
+</blockquote>
+<blockquote>
+<p><em>I really appreciate the fact that he seemed to care about our success.</em></p>
+</blockquote>
+<p>The following are emails I received from students following the
+conclusion of the course:</p>
+<p>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<figure  >
+  <div class="d-flex justify-content-center">
+    <div class="w-100" ><img src="../../media/image14.png" alt="Text, application Description automatically generated with medium
+confidence" loading="lazy" data-zoomable /></div>
+  </div></figure>
+</p>
+<p>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<figure  >
+  <div class="d-flex justify-content-center">
+    <div class="w-100" ><img src="../../media/image15.png" alt="" loading="lazy" data-zoomable /></div>
+  </div></figure>
+</p>
+<p>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<figure  >
+  <div class="d-flex justify-content-center">
+    <div class="w-100" ><img src="../../media/image16.png" alt="" loading="lazy" data-zoomable /></div>
+  </div></figure>
+</p>
+<p>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<figure  >
+  <div class="d-flex justify-content-center">
+    <div class="w-100" ><img src="../../media/image17.png" alt="A close up of text Description automatically
+generated" loading="lazy" data-zoomable /></div>
+  </div></figure>
+</p>
+<p><a href="#top">Back to top</a></p>
+
+    </div>
+
+    
+
+
+
+
+
+
+
+<div class="share-box">
+  <ul class="share">
+    
+  </ul>
+</div>
+
+
+
+
+
+
+
+
+
+
+
+  
+  
+
+
+
+  
+  
+  
+    
+  
+  
+  
+  <div class="media author-card content-widget-hr">
+    
+      
+      <a href="https://example.com/"><img class="avatar mr-3 avatar-circle" src="/authors/admin/avatar_hue9389a512c78d67ca7d7e467c2ba0821_70870_270x270_fill_q75_lanczos_center.jpg" alt="Silas Bergen"></a>
+    
+
+    <div class="media-body">
+      <h5 class="card-title"><a href="https://example.com/">Silas Bergen</a></h5>
+      <h6 class="card-subtitle">Associate professor of statistics and data science</h6>
+      
+      <ul class="network-icon" aria-hidden="true">
+  
+</ul>
+
+    </div>
+  </div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  </div>
+</article>
+  </div>
+
+  <div class="page-footer">
+    
+    
+    <div class="container">
+      <footer class="site-footer">
+
+  
+
+
+
+
+
+
+
+
+
+
+
+
+  
+  
+  
+  
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+
+
+
+
+
+  <p class="powered-by">
+    
+    
+    
+      
+      
+      
+      
+      
+      
+      Published with <a href="https://hugoblox.com/?utm_campaign=poweredby" target="_blank" rel="noopener">Hugo Blox Builder</a> — the free, <a href="https://github.com/HugoBlox/hugo-blox-builder" target="_blank" rel="noopener">open source</a> website builder that empowers creators.
+    
+  </p>
+</footer>
+
+    </div>
+    
+  </div>
+
+  
+
+
+<script src="/js/vendor-bundle.min.938a3a7554cd9f6602290411f64d2617.js"></script>
+
+
+
+
+  
+
+  
+  
+
+  
+
+
+
+
+
+
+  <script src="https://cdn.jsdelivr.net/npm/leaflet@1.7.1/dist/leaflet.min.js" integrity="" crossorigin="anonymous"></script>
+
+
+
+
+
+
+
+
+  
+  <script id="search-hit-fuse-template" type="text/x-template">
+    <div class="search-hit" id="summary-{{key}}">
+      <div class="search-hit-content">
+        <div class="search-hit-name">
+          <a href="{{relpermalink}}">{{title}}</a>
+          <div class="article-metadata search-hit-type">{{type}}</div>
+          <p class="search-hit-description">{{snippet}}</p>
+        </div>
+      </div>
+    </div>
+  </script>
+  
+    <script src="https://cdn.jsdelivr.net/gh/krisk/Fuse@v3.2.1/dist/fuse.min.js" integrity="sha512-o38bmzBGX+hD3JHWUFCDA09btWaqrNmoJ3RXLlrysA7PP01Kgs4UlE4MhelE1v5dJR3+cxlR4qQlotsW7jKsnw==" crossorigin="anonymous"></script>
+    <script src="https://cdn.jsdelivr.net/gh/julmot/mark.js@8.11.1/dist/jquery.mark.min.js" integrity="sha512-mhbv5DqBMgrWL+32MmsDOt/OAvqr/cHimk6B8y/bx/xS88MVkYGPiVv2ixKVrkywF2qHplNRUvFsAHUdxZ3Krg==" crossorigin="anonymous"></script>
+  
+
+
+
+
+
+
+
+
+
+
+
+
+  
+  
+  
+  
+  
+  
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<script id="page-data" type="application/json">{"use_headroom":true}</script>
+
+
+  <script src="/js/wowchemy-headroom.db4755770454eb63685f8de785c0a172.js" type="module"></script>
+
+
+
+
+
+
+
+
+
+  
+  
+
+
+<script src="/en/js/wowchemy.min.62586ca65ca61821fe707eb9fa6268b7.js"></script>
+
+
+
+  <script src="/js/wowchemy-map.a26e9d2f7238ba5b868384f1c5bc6477.js" type="module"></script>
+
+
+
+
+  
+<div id="modal" class="modal fade" role="dialog">
+  <div class="modal-dialog">
+    <div class="modal-content">
+      <div class="modal-header">
+        <h5 class="modal-title">Cite</h5>
+        <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+          <span aria-hidden="true">&times;</span>
+        </button>
+      </div>
+      <div class="modal-body">
+        
+        <pre><code></code></pre>
+      </div>
+      <div class="modal-footer">
+        <a class="btn btn-outline-primary my-1 js-copy-cite" href="#" target="_blank">
+          <i class="fas fa-copy"></i> Copy
+        </a>
+        <a class="btn btn-outline-primary my-1 js-download-cite" href="#" target="_blank">
+          <i class="fas fa-download"></i> Download
+        </a>
+        <div id="modal-error"></div>
+      </div>
+    </div>
+  </div>
+</div>
+
+
+  <script src="/js/wowchemy-publication.9137013a66774049159934c29c3f0205.js" type="module"></script>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</body>
+</html>
