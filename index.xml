@@ -57,6 +57,7 @@
 &lt;p&gt;STAT 460 &amp;ndash; Mathematical Statistics II&lt;/p&gt;
 &lt;/li&gt;
 &lt;/ul&gt;
+&lt;p&gt;&lt;a name=&#34;list&#34;&gt;&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;The following are ways in which I demonstrated &lt;em&gt;Teaching Effectiveness&lt;/em&gt;
 during the past five years:&lt;/p&gt;
 &lt;ul&gt;
@@ -96,6 +97,7 @@ instructor in all my courses.&lt;/a&gt;&lt;/p&gt;
 &lt;/ul&gt;
 &lt;p&gt;&lt;a name=&#34;sec1&#34;&gt;&lt;/a&gt;&lt;/p&gt;
 &lt;h2 id=&#34;i-developed-high-quality-activities-and-projects-for-dsci-210-data-science&#34;&gt;I developed high-quality activities and projects for DSCI 210: Data Science&lt;/h2&gt;
+&lt;p&gt;&lt;a href=&#34;#list&#34;&gt;Back to top&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;I taught DSCI 210 for my first time in Fall 2019 and Spring 2020. I
 inherited a quality curriculum outline with solid content from my
 colleague Dr. Todd Iverson. One area where I saw room for improvement
@@ -429,7 +431,9 @@ generated&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
 automatically generated&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
   &lt;/div&gt;&lt;/figure&gt;
 &lt;/p&gt;
-&lt;h2 id=&#34;i-developed-rubrics-to-evaluate-presentations-visual-aids-written-reports-and-client-meetings-for-stat-370-statistical-consulting-and-communication&#34;&gt;I developed rubrics to evaluate presentations, visual aids, written reports, and client meetings for STAT 370: Statistical Consulting and Communication.&lt;/h2&gt;
+&lt;h2 id=&#34;i-developed-rubrics-to-evaluate-presentations-visual-aids-written-reports-and-client-meetings-for-stat-370-statistical-consulting-and-communication&#34;&gt;&lt;a name=&#34;sec2&#34;&gt; &lt;/a&gt;
+I developed rubrics to evaluate presentations, visual aids, written reports, and client meetings for STAT 370: Statistical Consulting and Communication.&lt;/h2&gt;
+&lt;p&gt;&lt;a href=&#34;#list&#34;&gt;Back to top&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;As associate professor, I taught STAT 370 four times (Fall 2019, 2021,
 2022, 2023). This course requires students to write frequent reports and
 design PowerPoints to accompany their oral presentations. There was no
@@ -538,7 +542,9 @@ rubrics:&lt;/p&gt;
 &lt;blockquote&gt;
 &lt;p&gt;&lt;em&gt;It was extremely helpful to have assistance with the statistical analysis of the data for our project. Much appreciated your services!&lt;/em&gt;&lt;/p&gt;
 &lt;/blockquote&gt;
+&lt;p&gt;&lt;a name=&#34;sec3&#34;&gt; &lt;/a&gt;&lt;/p&gt;
 &lt;h2 id=&#34;i-developed-a-successful-and-high-quality-online-learning-experience-for-stat-301-statistical-thinking-for-healthcare&#34;&gt;I developed a successful and high-quality online learning experience for STAT 301: Statistical Thinking for Healthcare.&lt;/h2&gt;
+&lt;p&gt;&lt;a href=&#34;#list&#34;&gt;Back to top&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;In Summer 2021 I taught STAT 301 for the first time. I spent a lot of
 effort developing and organizing the course which included finding much
 health-care related content and examples. I have taught the course 5
@@ -670,7 +676,1783 @@ confidence&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
 generated&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
   &lt;/div&gt;&lt;/figure&gt;
 &lt;/p&gt;
-&lt;p&gt;&lt;a href=&#34;#top&#34;&gt;Back to top&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a name=&#34;sec4&#34;&gt; &lt;/a&gt;&lt;/p&gt;
+&lt;h2 id=&#34;i-improved-and-revitalized-the-content-of-and-assignment-structure-in-dsci-310-data-visualization&#34;&gt;I improved and revitalized the content of and assignment structure in DSCI 310: Data visualization&lt;/h2&gt;
+&lt;p&gt;&lt;a href=&#34;#list&#34;&gt;Back to top&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;I taught DSCI 310 the first three times it was ever offered at Winona
+State, each fall 2015-2017. I took a few years off and revisited the
+course in Fall 2021. I have taught the course as Associate professor
+three times: Fall 2021, 22, and 23. The content and structure of the
+course is drastically different now than it was the first three times I
+taught it. There are two major ways the course is improved: increased
+conceptual focus, and regular peer review.&lt;/p&gt;
+&lt;h3 id=&#34;increased-conceptual-focus&#34;&gt;Increased conceptual focus&lt;/h3&gt;
+&lt;p&gt;The first three times I taught the course, the entirety of my notes were
+screenshots of Tableau (a visualization software). The content was
+essentially, &amp;ldquo;How to use Tableau.&amp;rdquo; An example from my Fall 2017 notes:&lt;/p&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;../../media/image18.png&#34; alt=&#34;A screenshot of a computer Description automatically
+generated&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;p&gt;All of the software &amp;ldquo;how to&amp;rdquo; has now been pushed entirely into video
+tutorials for the students to watch, and in its place is a much more
+comprehensive set of PowerPoints on principles of data visualization and
+guidelines for making good graphs. These notes focus much more on
+helping students [design more effective graphs], and contains
+content I have aggregated myself across a variety of sources.&lt;/p&gt;
+&lt;p&gt;My most up-to-date notes include:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.dropbox.com/scl/fi/re5kusptnh67d3kypv2ll/2-grammar-of-graphics.pptx?rlkey=ig76yti8enacaovoz13c28mmo&amp;amp;dl=0&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Grammar of
+graphics&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.dropbox.com/scl/fi/qtp4kipx8icgslaij4bo0/4-visual-perception-part-1-comparing-quantities.pptx?rlkey=c2dfplenqpyas4mr3vo2py40j&amp;amp;dl=0&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Visual principles for comparing
+quantities&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.dropbox.com/scl/fi/0ecrdsl8ojlrgm2kvrraj/5-visual-perception-part-2-grouping-principles.pptx?rlkey=nqtdq2tjn630c1r8d8h482nlw&amp;amp;dl=0&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Principles for visualizing
+groups&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Design considerations&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.dropbox.com/scl/fi/i22r1cnhw9mlnnlsa3trr/6-Design-considerations-color.pptx?rlkey=ponmhz8y4939gj39j516vqg7l&amp;amp;dl=0&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Color&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.dropbox.com/scl/fi/v89g6u74jxmf99jhnc9cx/7-Design-considerations-clutter.pptx?rlkey=o0glmid2bj6ynm232gf2zazzb&amp;amp;dl=0&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Clutter&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.dropbox.com/scl/fi/hcw7tti0dxu2kpqsr88so/8-Design-considerations-focusing-audience-attention.pptx?rlkey=odi1j7ry8newzn1bltemw6pdv&amp;amp;dl=0&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Focusing audience attention with preattentive
+attributes&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;My first few activities in DSCI 310 are completely devoid of software,
+emphasizing &lt;em&gt;design&lt;/em&gt; and &lt;em&gt;principles&lt;/em&gt; over &lt;em&gt;technology&lt;/em&gt;:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.dropbox.com/scl/fi/5qnsngiki42i3wizsii0z/Grammar-of-graphics.docx?rlkey=xxnm0e99m40vj8ju8vwtyocpw&amp;amp;dl=0&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Grammar of graphics
+activity&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.dropbox.com/scl/fi/snh33omgif61tueo90t8a/Gestalt_activity.docx?rlkey=288d5t06si096eupqn7q4n72h&amp;amp;dl=0&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Grouping principles
+activity&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.dropbox.com/scl/fi/h72bakugqcfo8iysjhwkr/Declutter-and-focus.docx?rlkey=0qe79u0gzl3kuxepj4ljpxnt7&amp;amp;dl=0&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Decluttering and focusing
+activity&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;With this redesign, learning Tableau is a medium for achieving the
+learning objective of &lt;em&gt;creating effective graphs&lt;/em&gt; goal rather than the
+goal itself, which results in a much more satisfactory and quality
+class.&lt;/p&gt;
+&lt;h3 id=&#34;regular-peer-review&#34;&gt;Regular peer review&lt;/h3&gt;
+&lt;p&gt;Learning how to be an effective critic of your own work is key to
+improving as a data visualizer. I can critique a student&amp;rsquo;s work until
+I&amp;rsquo;m blue in the face, but to really take the next step a student needs
+to be able to look discerningly at their &lt;em&gt;own&lt;/em&gt; work. How can I, as an
+instructor, help my students be better critics? To this end, beginning
+in Fall 2022, I implemented a peer review system for every major design
+task I assigned students:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;Each student is required to submit a first draft of their assignment
+to &lt;a href=&#34;https://www.crowdgrader.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CrowdGrader&lt;/a&gt;, a website that
+facilitates anonymous peer review.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Each student is assigned a small number (5-6) of their classmates&amp;rsquo;
+first drafts. Students evaluate each draft using a rubric I provide,
+and are also required to provide specific, actionable feedback on
+the draft.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;After receiving their peer feedback, students are allowed to
+incorporate it into a final draft they submit to me for a final
+grade.&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Below is an example of the peer review process.&lt;/p&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;../../media/image19.png&#34; alt=&#34;A diagram of a student Description automatically
+generated&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;p&gt;Not only is the &lt;em&gt;feedback&lt;/em&gt; &lt;em&gt;received&lt;/em&gt; by each student valuable in
+creating an improved final draft, but the student who submits the first
+draft must also &lt;em&gt;provide feedback&lt;/em&gt; for 5-6 peer visualizations, thus
+being exposed to a variety of different visual approaches to the same
+data set while sharpening their critical eye.&lt;/p&gt;
+&lt;p&gt;For each design assignment, I evaluate not only the quality of the final
+drafts, but the quality of feedback each student provides their peers
+during the feedback process. This ensures students provide high-quality
+feedback and are practicing being specific in ways to improve each
+visualization they review.&lt;/p&gt;
+&lt;p&gt;In course evaluations, I asked students two statements regarding the
+peer review process. The responses of 40 students across 2 semesters
+(Fall 2022 and 2023) are summarized in the table below.&lt;/p&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;&lt;/th&gt;
+&lt;th&gt;Strongly agree&lt;/th&gt;
+&lt;th&gt;Agree&lt;/th&gt;
+&lt;th&gt;Disagree&lt;/th&gt;
+&lt;th&gt;Strongly disagree&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;Evaluating peers&#39; visualizations in CrowdGrader helped me improve my ability to effectively critique visualizations.&lt;/td&gt;
+&lt;td&gt;24&lt;/td&gt;
+&lt;td&gt;13&lt;/td&gt;
+&lt;td&gt;3&lt;/td&gt;
+&lt;td&gt;0&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Receiving feedback from my peers via CrowdGrader helped me improve my visualizations.&lt;/td&gt;
+&lt;td&gt;15&lt;/td&gt;
+&lt;td&gt;16&lt;/td&gt;
+&lt;td&gt;9&lt;/td&gt;
+&lt;td&gt;0&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;p&gt;Students also commented on the aspects of evaluating and receiving peer
+feedback they found most helpful:&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Training myself to critique vizzes has been really helpful because I am now more critical of my own vizzes&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;blockquote&gt;
+&lt;p&gt;I liked being able to see things other could improve on because that in turn gave me things to be aware of on my vizzes&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;blockquote&gt;
+&lt;p&gt;It helped to give me more ideas and also see what other people were making mistakes on so I could go back and look at mine more clearly.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;blockquote&gt;
+&lt;p&gt;The descriptions were always very helpful in understanding what other people see when they look at my viz&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Evaluating helped me realize what are good things in a visual so then I could make mine better&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;blockquote&gt;
+&lt;p&gt;The peer reviews helped me see problems with my visualizations that I didn&amp;rsquo;t see.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;blockquote&gt;
+&lt;p&gt;The constant loop of feedback, critique, and ideas that it provided is very nice!&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;blockquote&gt;
+&lt;p&gt;I think having the potential improvements that classmates think we should make is really good and helpful to make adjustments to the visualization.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;The first comment really nails why I think this is such an important
+part of their learning process: learning how to be more critical of
+&lt;em&gt;their own work&lt;/em&gt; is crucial to becoming an effective communicator via
+data visualization. The students&amp;rsquo; feedback and comments on course
+evaluations suggest that students generally bought into the peer review
+process as a helpful way to improve as a data visualizer.&lt;/p&gt;
+&lt;h3 id=&#34;outcomes&#34;&gt;Outcomes&lt;/h3&gt;
+&lt;p&gt;Students have rated the new-and-improved DSCI 310 class very favorably.
+Out of 58 students responding to course evaluations across 3 semesters,
+51/58 (88%) of students have rated the overall quality of the course as
+&amp;ldquo;Excellent&amp;rdquo; or &amp;ldquo;Good.&amp;rdquo;&lt;/p&gt;
+&lt;p&gt;I have seen the overall quality of student work rise since my reworking
+and revisioning of the DSCI 310 course, but it&amp;rsquo;s not just me who thinks
+they are doing quality work. Every year the students participate in the
+Fall Data Challenge as their midterm project. Hosted by the American
+Statistical Association, the Fall Data Challenge is a nationwide
+competition with submissions reviewed by several industry and academic
+professionals. My student groups have won:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;https://thisisstatistics.org/fall-data-challenge-2021-congratulations-to-the-winners/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Fall Data Challenge 2021, Fighting Food
+Insecurity&lt;/a&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;Best visualization: undergraduate division&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Emma Rector, Zeke Woods, Kordale Summers&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;https://thisisstatistics.org/fall-data-challenge-2022-congratulations-to-our-winners/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Fall Data Challenge 2022, After the
+Bell&lt;/a&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;Best overall: undergraduate division&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Rachel Knox, Ben Moonen, Paige Yang&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Best visualization: undergraduate division&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Dan Findell, Abby Smith, Gunner McLeod&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;a name=&#34;sec5&#34;&gt; &lt;/a&gt;&lt;/p&gt;
+&lt;h2 id=&#34;i-created-a-suite-of-colab-notebooks-activities-and-assignments-for-fin-335-forecasting&#34;&gt;I created a suite of Colab notebooks, activities, and assignments for FIN 335: Forecasting&lt;/h2&gt;
+&lt;p&gt;&lt;a href=&#34;#list&#34;&gt;Back to top&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;FIN 335: Forecasting methods has been taught by a faculty from our
+department for several years. I taught it for my first time in Spring
+2022, and again in Spring 2023. A challenge with this course is teaching
+the content to the population of Finance majors who have never been
+exposed to a programming language. To this end, I moved all the content
+delivery to Google Colab notebooks, which allow aggregation of text,
+mathematical formulae, images, R code, and output in one cohesive
+document. I also developed in-class activities and assignments in Google
+Colab.&lt;/p&gt;
+&lt;p&gt;For example, the following plot shows how in a notebook I can write the
+code to create a seasonal plot of a time series; execute the R code to
+produce the plot; and ask questions about the plot which students can
+answer in class as they complete their notes:&lt;/p&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;../../media/image20.png&#34; alt=&#34;A screenshot of a graph Description automatically
+generated&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://colab.research.google.com/drive/1EO1pfDixSh1525PgktHBtmr6wB10uwFK?usp=sharing&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;(Full link to
+notebook&lt;/a&gt;)&lt;/p&gt;
+&lt;p&gt;The same structure can be used for in-class activities, as the example
+below illustrates. I can read in and view a data set; give students
+tasks that involve writing and executing code to analyze the data set,
+and have them interpret their output -- all in one place:&lt;/p&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;../../media/image21.png&#34; alt=&#34;A screenshot of a computer Description automatically
+generated&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;p&gt;(&lt;a href=&#34;https://colab.research.google.com/drive/1EO1pfDixSh1525PgktHBtmr6wB10uwFK?usp=sharing&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Full link to
+notebook&lt;/a&gt;)&lt;/p&gt;
+&lt;p&gt;In course evaluations across the two semesters, 43/48 students rated the
+overall course as &amp;ldquo;Excellent&amp;rdquo; or &amp;ldquo;Good.&amp;rdquo; 49/51 students agreed or
+strongly agreed with the statement &amp;ldquo;The use of Colab notebooks
+facilitated my learning.&amp;rdquo; The following are some comments from students
+on what they liked most about the course:&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Activities really help students learn the material taught in the lecture notebooks.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Running the code and writing some basic scripts is helpful to remembering the different methods and concepts.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Felt like the way we went through notebooks was effective to facilitate learning&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;blockquote&gt;
+&lt;p&gt;The notes were extremely valuable&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;blockquote&gt;
+&lt;p&gt;R language is really helpful for me to forecast data.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;blockquote&gt;
+&lt;p&gt;The use of R and collab notebooks.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Learning to code in R, hands on learning.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;blockquote&gt;
+&lt;p&gt;The thorough explanations of the content we were learning and how the code actually worked&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;blockquote&gt;
+&lt;p&gt;The easy understanding of R coding&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;blockquote&gt;
+&lt;p&gt;The clear connect between in class notebooks, activities and homework&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;blockquote&gt;
+&lt;p&gt;How clear the examples and lectures were.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;blockquote&gt;
+&lt;p&gt;well organized, clear expectations AND no busy work!!&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;blockquote&gt;
+&lt;p&gt;The use of interactive learning.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;&lt;a name=&#34;sec6&#34;&gt; &lt;/a&gt;&lt;/p&gt;
+&lt;h2 id=&#34;i-proposed-and-developed-a-brand-new-course----stat-380-advanced-statistical-modeling&#34;&gt;I proposed and developed a brand new course &amp;ndash; STAT 380: Advanced statistical modeling&lt;/h2&gt;
+&lt;p&gt;&lt;a href=&#34;#list&#34;&gt;Back to top&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Beginning Fall 2021, our STAT subgroup identified a gap in our
+curriculum. Not covered deeply in any of our courses are generalized
+linear models, an important family of models used for modeling
+non-quantitative responses, as well as methods for correlated data. I
+spearheaded a proposal for a new course- STAT 380: Advanced Statistical
+Modeling that filled this curricular gap and developed curriculum for
+and taught this course in its first-ever offering Spring 2023.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;https://drive.google.com/drive/folders/1MtK66qty73rHpOMZsxDqo0Rc6BQYGLB_?usp=sharing&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Colab notebooks of course
+notes&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;https://drive.google.com/drive/folders/11xwTwq3WXOwuq-5ilonlnhMRv6Kq-pLg?usp=sharing&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Colab notebooks of in-class
+activities&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;In course evaluations, 13/16 students rated the class as &amp;ldquo;Excellent&amp;rdquo; or
+&amp;ldquo;Good;&amp;rdquo; 16/16 agreed or strongly agreed that the course was challenging;
+13/16 agreed or strongly agreed that the course colab notebooks provided
+them with what they needed to succeed in the course; and 15/16 agreed or
+strongly agreed that the in-class activities helped them understand the
+course material.&lt;/p&gt;
+&lt;p&gt;We will continue offering this class every other year to provide our
+STAT and DSCI majors with a unique elective covering an important subset
+of methodology previously lacking in our curriculum.&lt;/p&gt;
+&lt;p&gt;&lt;a name=&#34;sec7&#34;&gt; &lt;/a&gt;&lt;/p&gt;
+&lt;h2 id=&#34;i-created-a-suite-of-colab-notebooks-activities-and-assignments-for-stat-360-regression-analysis&#34;&gt;I created a suite of Colab notebooks, activities, and assignments for STAT 360: Regression analysis&lt;/h2&gt;
+&lt;p&gt;&lt;a href=&#34;#list&#34;&gt;Back to top&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;STAT 360: Regression analysis is an important core course in our
+curriculum and Fall 2023 was the first semester I&amp;rsquo;ve ever taught it.
+Once again, I moved all the content (course notes, in-class activities,
+and homework assignments) entirely into Google Colab notebooks. The
+following are comments from students on their experience using Colab:&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Easy to keep the notebooks organized and all in one place. I also liked sticking to one coding langauge for the whole class. Classes like DSCI 210 and 325 were hard for me because we would switch programs and syntaxes often.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;blockquote&gt;
+&lt;p&gt;I really like how easy it is! Colab is easy to understand, and is very well structured.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;blockquote&gt;
+&lt;p&gt;I feel like my knowledge of the subject is a lot stronger. By using colab I was very conscious about what I was doing instead of just clicking buttons.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Colab is clean looking and intuitive compared to R studio or Python.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Colab was fun to learn. Had not used it before.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;blockquote&gt;
+&lt;p&gt;made note taking easy and lectures enjoyable&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;blockquote&gt;
+&lt;p&gt;It was an easy-to-learn software due to all the online forums with tips and how-to&#39;s&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;&lt;a name=&#34;sec8&#34;&gt; &lt;/a&gt;&lt;/p&gt;
+&lt;h2 id=&#34;i-continued-a-record-of-being-a-clear-enthusiastic-and-helpful-instructor-in-all-my-courses&#34;&gt;I continued a record of being a clear, enthusiastic, and helpful instructor in all my courses.&lt;/h2&gt;
+&lt;p&gt;&lt;a href=&#34;#list&#34;&gt;Back to top&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;It is very important that I create a classroom environment where
+students can trust me, where they learn from me, where they respect me,
+and where they know that they can seek out help from me at any time and
+that I want them to learn. To make sure I am succeeding in creating this
+environment, on end-of-term course evaluations I ask all students
+whether they strongly agree, agree, disagree, or strongly disagree with
+the following statements:&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;
+&lt;p&gt;The instructor presents the material in a clear manner.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;The instructor exhibits a genuine enthusiasm and enjoys teaching the
+course.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;The instructor&amp;rsquo;s expectations of the student are clear.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;The instructor is willing/able to provide help outside of class.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;The instructor has a thorough knowledge and understanding of the
+subject matter.&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;The figure below shows results for all courses I taught in the last five
+years; there are a total of &lt;strong&gt;472&lt;/strong&gt; student responses summarized:&lt;/p&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;../../media/image22.png&#34; alt=&#34;A graph of different sizes and numbers Description automatically
+generated with medium
+confidence&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;p&gt;I am pleased to see that the responses on the five items continue to be
+very positive, as I see these as some of the most important qualities of
+an effective teacher.&lt;/p&gt;
+&lt;p&gt;The plot below summarizes students&amp;rsquo; responses to the question &lt;em&gt;Which
+word best describes your overall evaluation of the instructor&amp;rsquo;s
+teaching?&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;../../media/image23.png&#34; alt=&#34;A graph of a number of people Description automatically generated with
+medium confidence&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;p&gt;Of the &lt;strong&gt;472&lt;/strong&gt; responses, &lt;strong&gt;423/472 = 90&lt;/strong&gt;% used either &amp;ldquo;excellent&amp;rdquo; or
+&amp;ldquo;good&amp;rdquo; to describe their overall evaluation of my teaching.&lt;/p&gt;
+&lt;p&gt;To conclude my report on Criterion 1, I include comments from students
+taken across the past several years&amp;rsquo; course evaluations.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;The thing I liked most about this course was&amp;hellip;&lt;/strong&gt;&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&lt;em&gt;Professor was accessible in person and even online. It is so cool that Professor Bergen uses teams and chats with you. He gets back to us really quick.&lt;/em&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&lt;em&gt;The professor made class very enjoyable, and I look forward to more DSCI in the future. Learning R was something I was excited to do in this course.&lt;/em&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&lt;em&gt;Professor Bergen - he made the class fun and enjoyable!&lt;/em&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&lt;em&gt;All of the effort my professor put into helping me to the best of my ability... he gave us MANY tools to help us do great&lt;/em&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&lt;em&gt;The enthusiasm that was brought by the professor.&lt;/em&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&lt;em&gt;Professor Bergen, guy is a straight G.&lt;/em&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&lt;em&gt;Silas&amp;rsquo;s nerdy humor&lt;/em&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&lt;em&gt;I really appreciated that Professor Bergen seemed to care about the students. I struggled with the course but he never made me feel bad for seeking out help.&lt;/em&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&lt;em&gt;The professors speaking voice, tone and pace in videos as was clear and energetic.&lt;/em&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&lt;em&gt;Professor Bergen genuinely made the class enjoyable and was very educated on the material.&lt;/em&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&lt;em&gt;I enjoyed this course a lot. The atmosphere of the classroom was great, the pace of the material was appropriate, and I learned a lot. The professor did a great job of being organized, communicating expectations, and appropriately challenging the students.&lt;/em&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&lt;em&gt;I really enjoyed the different data sets that you chose. I thought they were interesting!&lt;/em&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&lt;em&gt;Wonderful course taught by a great professor&lt;/em&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&lt;em&gt;The professor was very understanding and explained things well&lt;/em&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;&lt;a href=&#34;#list&#34;&gt;Back to top&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Criterion 2: Scholarly or creative achievement or research</title>
+      <link>./narratives/crit2/</link>
+      <pubDate>Tue, 19 Dec 2023 00:00:00 +0000</pubDate>
+      <guid>./narratives/crit2/</guid>
+      <description>&lt;p&gt;During my time as associate professor I taught the following courses:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;FIN 335 &amp;ndash; Forecasting methods&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;DSCI 210 &amp;ndash; Data science&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;DSCI 310 &amp;ndash; Data visualization&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;STAT 110 &amp;ndash; Fundamentals of Statistics&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;STAT 303 &amp;ndash; Introduction to Engineering Statistics&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;STAT 360 &amp;ndash; Regression analysis&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;STAT 370 &amp;ndash; Statistical consulting and communication&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;STAT 380 &amp;ndash; Advanced statistical modeling&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;STAT 405 &amp;ndash; Biostatistics&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;STAT 450 &amp;ndash; Mathematical Statistics I&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;STAT 460 &amp;ndash; Mathematical Statistics II&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;a name=&#34;list&#34;&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;The following are ways in which I demonstrated &lt;em&gt;Teaching Effectiveness&lt;/em&gt;
+during the past five years:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;#sec1&#34;&gt;I developed high-quality activities and projects for DSCI 210: Data
+Science;&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;#sec2&#34;&gt;I developed rubrics to evaluate presentations, visual aids, written
+reports, and client meetings for STAT 370: Statistical Consulting
+and Communication;&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;#sec3&#34;&gt;I developed a successful and high-quality online learning experience
+for STAT 301: Statistical Thinking for Healthcare;&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;#sec4&#34;&gt;I improved and revitalized the content of and assignment structure
+in DSCI 310: Data visualization;&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;#sec5&#34;&gt;I created a suite of Colab notebooks, activities, and assignments
+for FIN 335: Forecasting;&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;#sec6&#34;&gt;I proposed and developed a brand new course &amp;ndash; STAT 380: Advanced
+statistical modeling;&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;#sec7&#34;&gt;I created a suite of Colab notebooks, activities, and assignments
+for STAT 360: Regression analysis;&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;#sec8&#34;&gt;I continued a record of being an enthusiastic, helpful, and clear
+instructor in all my courses.&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;a name=&#34;sec1&#34;&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;h2 id=&#34;i-developed-high-quality-activities-and-projects-for-dsci-210-data-science&#34;&gt;I developed high-quality activities and projects for DSCI 210: Data Science&lt;/h2&gt;
+&lt;p&gt;&lt;a href=&#34;#list&#34;&gt;Back to top&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;I taught DSCI 210 for my first time in Fall 2019 and Spring 2020. I
+inherited a quality curriculum outline with solid content from my
+colleague Dr. Todd Iverson. One area where I saw room for improvement
+was with in-class activities and class projects.&lt;/p&gt;
+&lt;h3 id=&#34;activities&#34;&gt;Activities&lt;/h3&gt;
+&lt;p&gt;Building upon Dr. Iverson&amp;rsquo;s content, I developed a suite of near-daily
+activities to illustrate many of the concepts he had brought into the
+course. Many of these activities drew from data brought to the
+Statistical Consulting Center, which I had been directing for a couple
+years. Here are some examples.&lt;/p&gt;
+&lt;h4 id=&#34;activity-example-1-wsu-vehicle-requests&#34;&gt;Activity Example 1: WSU vehicle requests&lt;/h4&gt;
+&lt;p&gt;The screenshot below shows data on requests for WSU vehicles:&lt;/p&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;../../media/image2.png&#34; alt=&#34;Graphical user interface, application, table, Excel Description
+automatically generated&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+{width=&amp;ldquo;6.5in&amp;rdquo;
+height=&amp;ldquo;3.0868055555555554in&amp;rdquo;}&lt;/p&gt;
+&lt;p&gt;Some of the tasks students had to do:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;Clean &amp;ldquo;Destination City,&amp;rdquo; which was very messy as requesting parties
+could just type in their destination resulting in many variants of
+the same place (e.g. St. Paul; St paul; st paul; ST Paul St
+Paul/MPLS).&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Pull off number of passengers, which is embedded in the Vehicle(s)
+field.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Compute average trip length for each vehicle, which requires
+differencing Departure from Return.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Find number of vehicles used for each trip, which required splitting
+the Vehicle(s) column when it contained multiple vehicles.&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h4 id=&#34;activity-example-2-trout-spawning-data&#34;&gt;Activity Example 2: trout spawning data&lt;/h4&gt;
+&lt;p&gt;The data below came from a consulting client, measuring redds (spawning
+nests) of stream trout.&lt;/p&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;../../media/image3.png&#34; alt=&#34;Graphical user interface Description automatically generated with low
+confidence&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;p&gt;From a data science perspective, there are many issues with this data
+that students had to grapple with including:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;Highlighting indicating grouping status;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Different sections of streams contained in different spreadsheets;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Bold lines indicating 1000-yard segments;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;One separate Excel file for each of 4 different years.&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h4 id=&#34;activity-example-3-rape-myth-agreement&#34;&gt;Activity Example 3: rape myth agreement&lt;/h4&gt;
+&lt;p&gt;This data set also came from a consulting client working on a
+counsellor&amp;rsquo;s education master&amp;rsquo;s thesis. She wanted to compare rape myth
+belief as measured by the Illinois Rape Myth Acceptance Scale before and
+after a training on gender-based violence among student athletes. The
+raw data and the clean data are shown below:&lt;/p&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;../../media/image4.png&#34; alt=&#34;Table Description automatically
+generated&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;p&gt;Students needed to recode all of the Likert-scale items to come up with
+a single score for each student, then match the scores on the pre- and
+post-training data to develop the clean data set on the right.&lt;/p&gt;
+&lt;h3 id=&#34;projects&#34;&gt;Projects&lt;/h3&gt;
+&lt;p&gt;Along with the in-class activities, I developed several in-class
+projects that required substantial application of the DSCI 210 content.&lt;/p&gt;
+&lt;h4 id=&#34;project-example-1-covid-19-trends&#34;&gt;Project example 1: COVID-19 trends&lt;/h4&gt;
+&lt;p&gt;This project required students to pull data from a Github repository,
+clean it, and visualize it. This was a final project which required a
+substantial amount of coding, cleaning, and visualizing with R:&lt;/p&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;../../media/image5.png&#34; alt=&#34;Table Description automatically
+generated&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;h4 id=&#34;project-example-2-mudac-2020&#34;&gt;Project example 2: MUDAC 2020&lt;/h4&gt;
+&lt;p&gt;This final project build on MUDAC 2020, which focused on understanding
+whether various motions made during civil rights trials could predict
+the outcome of the trial. Some of the questions students had to answer
+with this data involved whether filing rates differed by district, and
+how the prevalence and frequency of motions impacted likelihood of cases
+being settled or taken to trial. Students had to use association rules,
+a recently learned technique, to analyze the former.&lt;/p&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;../../media/image6.png&#34; alt=&#34;&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;h3 id=&#34;feedback&#34;&gt;Feedback&lt;/h3&gt;
+&lt;p&gt;Student feedback on the activities and project was very positive. Below
+are student responses to the statement &amp;ldquo;The in-class activities helped
+me to understand the course material,&amp;rdquo; combined across both Fall 2019
+and Spring 2020 semesters:&lt;/p&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;../../media/image7.png&#34; alt=&#34;Chart, histogram Description automatically
+generated&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;p&gt;Additionally, students referenced the activities and projects when asked
+&amp;ldquo;The thing I liked MOST about the course was&amp;hellip;&amp;rdquo;&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&lt;em&gt;In class group activities&lt;/em&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&lt;em&gt;The challenging homework assignments. Although they were very frustrating at times, I always felt accomplished when I finished. Also, I really enjoyed the in-class activities.&lt;/em&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&lt;em&gt;Using real world data and tools such as Open Refine&lt;/em&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&lt;em&gt;All the in class examples and activities made sure I understood the material.&lt;/em&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&lt;em&gt;In-class activity because that way you could practice the topics just discussed in class which will help to know the content better.&lt;/em&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&lt;em&gt;Small sections, with lots of in-class exercises to reinforce concepts.&lt;/em&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&lt;em&gt;Making the COVID graphs in R was really cool, I liked using real data to get my results.&lt;/em&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&lt;em&gt;I enjoyed the topic and the practice with the different applications.&lt;/em&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;One student reached out to me via email at end of Spring 2020 with this
+feedback:&lt;/p&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;../../media/image8.png&#34; alt=&#34;&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;p&gt;I received additional feedback from Dr. Iverson when he taught DSCI 210
+in Fall 2020, after I passed along all my activities and projects. The
+following comments are rare shreds of praise from him, which I quickly
+screenshotted from our Microsoft Teams chat before he could delete them.&lt;/p&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;../../media/image9.png&#34; alt=&#34;Graphical user interface, text, application, email Description
+automatically
+generated&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;../../media/image10.png&#34; alt=&#34;Graphical user interface, text, application Description automatically
+generated&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;../../media/image11.png&#34; alt=&#34;Graphical user interface, text, application, email Description
+automatically generated&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;h2 id=&#34;i-developed-rubrics-to-evaluate-presentations-visual-aids-written-reports-and-client-meetings-for-stat-370-statistical-consulting-and-communication&#34;&gt;&lt;a name=&#34;sec2&#34;&gt; &lt;/a&gt;
+I developed rubrics to evaluate presentations, visual aids, written reports, and client meetings for STAT 370: Statistical Consulting and Communication.&lt;/h2&gt;
+&lt;p&gt;&lt;a href=&#34;#list&#34;&gt;Back to top&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;As associate professor, I taught STAT 370 four times (Fall 2019, 2021,
+2022, 2023). This course requires students to write frequent reports and
+design PowerPoints to accompany their oral presentations. There was no
+consistent way of evaluating these so I developed two rubrics that I
+felt were successful in distinguishing between various qualities of
+student reports and presentation slides.&lt;/p&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;../../media/image12.png&#34; alt=&#34;Table Description automatically
+generated&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;../../media/image13.png&#34; alt=&#34;&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;p&gt;As the number of clients we served in the course continued to increase,
+I also wanted a way to help students understand the components of a
+leading a quality statistical consulting meeting. Accordingly, brand new
+in Fall 2023, I developed a &amp;ldquo;client meeting&amp;rdquo; rubric that I used to hold
+students accountable for preparing and leading professional, helpful
+meetings with clients. Each student was evaluated with this rubric four
+times in Fall 2023:&lt;/p&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;&lt;strong&gt;30 points total&lt;/strong&gt;&lt;/th&gt;
+&lt;th&gt;Excellent (10 points)&lt;/th&gt;
+&lt;th&gt;Poor (1 point)&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;Professionalism&lt;/td&gt;
+&lt;td&gt;Student demonstrated high professionalism throughout and had a pleasant demeanor. Nonverbal cues were entirely professional.&lt;/td&gt;
+&lt;td&gt;Student appeared disinterested in the client, perhaps sounding condescending and irritated. The student&amp;rsquo;s nonverbal cues were highly unprofessional.&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Preparation&lt;/td&gt;
+&lt;td&gt;Student was very well-prepared. Student demonstrated they had reviewed all relevant information before the meeting and had prepared questions regarding the material, if applicable.&lt;/td&gt;
+&lt;td&gt;Student clearly had not reviewed the materials the client provided before the meeting. Student seemed disoriented during the meeting.&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Information gathering&lt;/td&gt;
+&lt;td&gt;Student asked pertinent questions and fully gathered all information needed to advise the client on next steps. The student made sure they understood the client&amp;rsquo;s research questions, data, etc.&lt;/td&gt;
+&lt;td&gt;Student had a difficult time asking questions and ended the meeting before fully understanding the client&amp;rsquo;s research questions, data, etc.&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;p&gt;The following are comments from clients served by the students taking
+STAT 370, as recorded by a Consulting Feedback Survey I sent the clients
+following the conclusion of their collaboration with our class, which I
+offer to demonstrate the high standard students were held to by these
+rubrics:&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&lt;em&gt;I really appreciated the opportunity to work with the students to obtain a statistical analysis of my data. It felt like a mutually beneficial experience for myself and the student. The completed report was very well done and easy to understand.&lt;/em&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&lt;em&gt;I was blown away by the student&#39;s knowledge and professionalism. This seems to be an extremely valuable, applied learning project.&lt;/em&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&lt;em&gt;Very impressed with the work done by these students! Very happy to have had the opportunity to collaborate with them.&lt;/em&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&lt;em&gt;It was very easy to get connected with SCC and schedule a time to meet with the class. Kristin provided us exactly what we were looking for to bring back to our task force. I liked being able to go see her presentation to the class and getting the data from her PowerPoint sent to our group. Thank you for providing this experience for your students and this resource for campus!&lt;/em&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&lt;em&gt;When we started and were asked questions about what we wanted to find out from the data, we were all over the place because we were not clear. Then as we started writing out the manuscript, we kept going back to the statistician to ask for further information. I am truly grateful that the student was really patient with us.&lt;/em&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&lt;em&gt;We had a great experience! The class was extremely helpful.&lt;/em&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&lt;em&gt;It was extremely helpful to have assistance with the statistical analysis of the data for our project. Much appreciated your services!&lt;/em&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;&lt;a name=&#34;sec3&#34;&gt; &lt;/a&gt;&lt;/p&gt;
+&lt;h2 id=&#34;i-developed-a-successful-and-high-quality-online-learning-experience-for-stat-301-statistical-thinking-for-healthcare&#34;&gt;I developed a successful and high-quality online learning experience for STAT 301: Statistical Thinking for Healthcare.&lt;/h2&gt;
+&lt;p&gt;&lt;a href=&#34;#list&#34;&gt;Back to top&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;In Summer 2021 I taught STAT 301 for the first time. I spent a lot of
+effort developing and organizing the course which included finding much
+health-care related content and examples. I have taught the course 5
+times. In course evaluations, 44 of 49 students who completed
+evaluations across my 5 offerings rated the course as &amp;ldquo;Good&amp;rdquo; or
+&amp;ldquo;Excellent.&amp;rdquo; The following are comments from students on the course
+evaluations:&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&lt;em&gt;I really appreciated that Professor Bergen seemed to care about the students. I struggled with the course but he never made me feel bad for seeking out help.&lt;/em&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&lt;em&gt;It was a great class and I learned a lot about Statistics for Health care&lt;/em&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&lt;em&gt;I surprisingly enjoyed the content. The professor was clear and a taught the material well. I thought the course layout on the d2l site was the best I&#39;ve experienced with being an online course. I really like the interactive lecture videos.&lt;/em&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&lt;em&gt;Useful knowledge that I will take with me if I need to interpret research articles.&lt;/em&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&lt;em&gt;Prof. Bergen made it health care related and kept it interesting&lt;/em&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&lt;em&gt;I learned so much!&lt;/em&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&lt;em&gt;The lectures were very precise and clear (and inclusive, made me happy to learn from you)&lt;/em&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&lt;em&gt;I enjoyed the course. It offered a good challenge while still making enough sense to get good grades.&lt;/em&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&lt;em&gt;I appreciate the comic relief the instructor added to his earlier lectures. I also appreciate that the lectures are all pretty short, no hour long videos to trudge through. I really appreciated having the tutorial videos to follow the instructor for the HW or the practice HW questions. I&#39;m a visual learner, so seeing instructor type words for answers, seeing what vocabulary he used, how sentences were arranged, REALLY helped me do it myself. Wording is so important in this class, so I needed lots of demonstrations to follow and try to emulate. Also, seeing how he navigated through the JMP program was SO helpful. I also really liked that this was an online course so I could go rewatch lectures, re-do practice quizzes over and over. I cannot stress how beneficial that was for me to develop confidence and some mastery on the material. I think you should keep all lecture videos available to students, regardless if the class is in-person or online. Infinite practice quizzes is gold - don&#39;t get rid of that. Thank you to the professor for sharing parts of his life when creating lectures (btw, you never told us if the guy really stole your bike or not!) and contemporary statistical studies that are recent within the last 5 years. It definitely illustrates how readily applicable statistics is to everyday life and working in healthcare. Excellent class, one of my favorites by far. Thank you!&lt;/em&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&lt;em&gt;Great course with valuable information.&lt;/em&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&lt;em&gt;This course made me work for my grade but I learned a lot!&lt;/em&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&lt;em&gt;I really appreciate the fact that he seemed to care about our success.&lt;/em&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;The following are emails I received from students following the
+conclusion of the course:&lt;/p&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;../../media/image14.png&#34; alt=&#34;Text, application Description automatically generated with medium
+confidence&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;../../media/image15.png&#34; alt=&#34;&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;../../media/image16.png&#34; alt=&#34;&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;../../media/image17.png&#34; alt=&#34;A close up of text Description automatically
+generated&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;p&gt;&lt;a name=&#34;sec4&#34;&gt; &lt;/a&gt;&lt;/p&gt;
+&lt;h2 id=&#34;i-improved-and-revitalized-the-content-of-and-assignment-structure-in-dsci-310-data-visualization&#34;&gt;I improved and revitalized the content of and assignment structure in DSCI 310: Data visualization&lt;/h2&gt;
+&lt;p&gt;&lt;a href=&#34;#list&#34;&gt;Back to top&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;I taught DSCI 310 the first three times it was ever offered at Winona
+State, each fall 2015-2017. I took a few years off and revisited the
+course in Fall 2021. I have taught the course as Associate professor
+three times: Fall 2021, 22, and 23. The content and structure of the
+course is drastically different now than it was the first three times I
+taught it. There are two major ways the course is improved: increased
+conceptual focus, and regular peer review.&lt;/p&gt;
+&lt;h3 id=&#34;increased-conceptual-focus&#34;&gt;Increased conceptual focus&lt;/h3&gt;
+&lt;p&gt;The first three times I taught the course, the entirety of my notes were
+screenshots of Tableau (a visualization software). The content was
+essentially, &amp;ldquo;How to use Tableau.&amp;rdquo; An example from my Fall 2017 notes:&lt;/p&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;../../media/image18.png&#34; alt=&#34;A screenshot of a computer Description automatically
+generated&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;p&gt;All of the software &amp;ldquo;how to&amp;rdquo; has now been pushed entirely into video
+tutorials for the students to watch, and in its place is a much more
+comprehensive set of PowerPoints on principles of data visualization and
+guidelines for making good graphs. These notes focus much more on
+helping students [design more effective graphs], and contains
+content I have aggregated myself across a variety of sources.&lt;/p&gt;
+&lt;p&gt;My most up-to-date notes include:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.dropbox.com/scl/fi/re5kusptnh67d3kypv2ll/2-grammar-of-graphics.pptx?rlkey=ig76yti8enacaovoz13c28mmo&amp;amp;dl=0&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Grammar of
+graphics&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.dropbox.com/scl/fi/qtp4kipx8icgslaij4bo0/4-visual-perception-part-1-comparing-quantities.pptx?rlkey=c2dfplenqpyas4mr3vo2py40j&amp;amp;dl=0&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Visual principles for comparing
+quantities&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.dropbox.com/scl/fi/0ecrdsl8ojlrgm2kvrraj/5-visual-perception-part-2-grouping-principles.pptx?rlkey=nqtdq2tjn630c1r8d8h482nlw&amp;amp;dl=0&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Principles for visualizing
+groups&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Design considerations&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.dropbox.com/scl/fi/i22r1cnhw9mlnnlsa3trr/6-Design-considerations-color.pptx?rlkey=ponmhz8y4939gj39j516vqg7l&amp;amp;dl=0&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Color&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.dropbox.com/scl/fi/v89g6u74jxmf99jhnc9cx/7-Design-considerations-clutter.pptx?rlkey=o0glmid2bj6ynm232gf2zazzb&amp;amp;dl=0&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Clutter&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.dropbox.com/scl/fi/hcw7tti0dxu2kpqsr88so/8-Design-considerations-focusing-audience-attention.pptx?rlkey=odi1j7ry8newzn1bltemw6pdv&amp;amp;dl=0&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Focusing audience attention with preattentive
+attributes&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;My first few activities in DSCI 310 are completely devoid of software,
+emphasizing &lt;em&gt;design&lt;/em&gt; and &lt;em&gt;principles&lt;/em&gt; over &lt;em&gt;technology&lt;/em&gt;:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.dropbox.com/scl/fi/5qnsngiki42i3wizsii0z/Grammar-of-graphics.docx?rlkey=xxnm0e99m40vj8ju8vwtyocpw&amp;amp;dl=0&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Grammar of graphics
+activity&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.dropbox.com/scl/fi/snh33omgif61tueo90t8a/Gestalt_activity.docx?rlkey=288d5t06si096eupqn7q4n72h&amp;amp;dl=0&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Grouping principles
+activity&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.dropbox.com/scl/fi/h72bakugqcfo8iysjhwkr/Declutter-and-focus.docx?rlkey=0qe79u0gzl3kuxepj4ljpxnt7&amp;amp;dl=0&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Decluttering and focusing
+activity&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;With this redesign, learning Tableau is a medium for achieving the
+learning objective of &lt;em&gt;creating effective graphs&lt;/em&gt; goal rather than the
+goal itself, which results in a much more satisfactory and quality
+class.&lt;/p&gt;
+&lt;h3 id=&#34;regular-peer-review&#34;&gt;Regular peer review&lt;/h3&gt;
+&lt;p&gt;Learning how to be an effective critic of your own work is key to
+improving as a data visualizer. I can critique a student&amp;rsquo;s work until
+I&amp;rsquo;m blue in the face, but to really take the next step a student needs
+to be able to look discerningly at their &lt;em&gt;own&lt;/em&gt; work. How can I, as an
+instructor, help my students be better critics? To this end, beginning
+in Fall 2022, I implemented a peer review system for every major design
+task I assigned students:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;Each student is required to submit a first draft of their assignment
+to &lt;a href=&#34;https://www.crowdgrader.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CrowdGrader&lt;/a&gt;, a website that
+facilitates anonymous peer review.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Each student is assigned a small number (5-6) of their classmates&amp;rsquo;
+first drafts. Students evaluate each draft using a rubric I provide,
+and are also required to provide specific, actionable feedback on
+the draft.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;After receiving their peer feedback, students are allowed to
+incorporate it into a final draft they submit to me for a final
+grade.&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Below is an example of the peer review process.&lt;/p&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;../../media/image19.png&#34; alt=&#34;A diagram of a student Description automatically
+generated&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;p&gt;Not only is the &lt;em&gt;feedback&lt;/em&gt; &lt;em&gt;received&lt;/em&gt; by each student valuable in
+creating an improved final draft, but the student who submits the first
+draft must also &lt;em&gt;provide feedback&lt;/em&gt; for 5-6 peer visualizations, thus
+being exposed to a variety of different visual approaches to the same
+data set while sharpening their critical eye.&lt;/p&gt;
+&lt;p&gt;For each design assignment, I evaluate not only the quality of the final
+drafts, but the quality of feedback each student provides their peers
+during the feedback process. This ensures students provide high-quality
+feedback and are practicing being specific in ways to improve each
+visualization they review.&lt;/p&gt;
+&lt;p&gt;In course evaluations, I asked students two statements regarding the
+peer review process. The responses of 40 students across 2 semesters
+(Fall 2022 and 2023) are summarized in the table below.&lt;/p&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;&lt;/th&gt;
+&lt;th&gt;Strongly agree&lt;/th&gt;
+&lt;th&gt;Agree&lt;/th&gt;
+&lt;th&gt;Disagree&lt;/th&gt;
+&lt;th&gt;Strongly disagree&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;Evaluating peers&#39; visualizations in CrowdGrader helped me improve my ability to effectively critique visualizations.&lt;/td&gt;
+&lt;td&gt;24&lt;/td&gt;
+&lt;td&gt;13&lt;/td&gt;
+&lt;td&gt;3&lt;/td&gt;
+&lt;td&gt;0&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Receiving feedback from my peers via CrowdGrader helped me improve my visualizations.&lt;/td&gt;
+&lt;td&gt;15&lt;/td&gt;
+&lt;td&gt;16&lt;/td&gt;
+&lt;td&gt;9&lt;/td&gt;
+&lt;td&gt;0&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;p&gt;Students also commented on the aspects of evaluating and receiving peer
+feedback they found most helpful:&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Training myself to critique vizzes has been really helpful because I am now more critical of my own vizzes&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;blockquote&gt;
+&lt;p&gt;I liked being able to see things other could improve on because that in turn gave me things to be aware of on my vizzes&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;blockquote&gt;
+&lt;p&gt;It helped to give me more ideas and also see what other people were making mistakes on so I could go back and look at mine more clearly.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;blockquote&gt;
+&lt;p&gt;The descriptions were always very helpful in understanding what other people see when they look at my viz&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Evaluating helped me realize what are good things in a visual so then I could make mine better&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;blockquote&gt;
+&lt;p&gt;The peer reviews helped me see problems with my visualizations that I didn&amp;rsquo;t see.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;blockquote&gt;
+&lt;p&gt;The constant loop of feedback, critique, and ideas that it provided is very nice!&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;blockquote&gt;
+&lt;p&gt;I think having the potential improvements that classmates think we should make is really good and helpful to make adjustments to the visualization.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;The first comment really nails why I think this is such an important
+part of their learning process: learning how to be more critical of
+&lt;em&gt;their own work&lt;/em&gt; is crucial to becoming an effective communicator via
+data visualization. The students&amp;rsquo; feedback and comments on course
+evaluations suggest that students generally bought into the peer review
+process as a helpful way to improve as a data visualizer.&lt;/p&gt;
+&lt;h3 id=&#34;outcomes&#34;&gt;Outcomes&lt;/h3&gt;
+&lt;p&gt;Students have rated the new-and-improved DSCI 310 class very favorably.
+Out of 58 students responding to course evaluations across 3 semesters,
+51/58 (88%) of students have rated the overall quality of the course as
+&amp;ldquo;Excellent&amp;rdquo; or &amp;ldquo;Good.&amp;rdquo;&lt;/p&gt;
+&lt;p&gt;I have seen the overall quality of student work rise since my reworking
+and revisioning of the DSCI 310 course, but it&amp;rsquo;s not just me who thinks
+they are doing quality work. Every year the students participate in the
+Fall Data Challenge as their midterm project. Hosted by the American
+Statistical Association, the Fall Data Challenge is a nationwide
+competition with submissions reviewed by several industry and academic
+professionals. My student groups have won:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;https://thisisstatistics.org/fall-data-challenge-2021-congratulations-to-the-winners/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Fall Data Challenge 2021, Fighting Food
+Insecurity&lt;/a&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;Best visualization: undergraduate division&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Emma Rector, Zeke Woods, Kordale Summers&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;https://thisisstatistics.org/fall-data-challenge-2022-congratulations-to-our-winners/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Fall Data Challenge 2022, After the
+Bell&lt;/a&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;Best overall: undergraduate division&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Rachel Knox, Ben Moonen, Paige Yang&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Best visualization: undergraduate division&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Dan Findell, Abby Smith, Gunner McLeod&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;a name=&#34;sec5&#34;&gt; &lt;/a&gt;&lt;/p&gt;
+&lt;h2 id=&#34;i-created-a-suite-of-colab-notebooks-activities-and-assignments-for-fin-335-forecasting&#34;&gt;I created a suite of Colab notebooks, activities, and assignments for FIN 335: Forecasting&lt;/h2&gt;
+&lt;p&gt;&lt;a href=&#34;#list&#34;&gt;Back to top&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;FIN 335: Forecasting methods has been taught by a faculty from our
+department for several years. I taught it for my first time in Spring
+2022, and again in Spring 2023. A challenge with this course is teaching
+the content to the population of Finance majors who have never been
+exposed to a programming language. To this end, I moved all the content
+delivery to Google Colab notebooks, which allow aggregation of text,
+mathematical formulae, images, R code, and output in one cohesive
+document. I also developed in-class activities and assignments in Google
+Colab.&lt;/p&gt;
+&lt;p&gt;For example, the following plot shows how in a notebook I can write the
+code to create a seasonal plot of a time series; execute the R code to
+produce the plot; and ask questions about the plot which students can
+answer in class as they complete their notes:&lt;/p&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;../../media/image20.png&#34; alt=&#34;A screenshot of a graph Description automatically
+generated&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://colab.research.google.com/drive/1EO1pfDixSh1525PgktHBtmr6wB10uwFK?usp=sharing&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;(Full link to
+notebook&lt;/a&gt;)&lt;/p&gt;
+&lt;p&gt;The same structure can be used for in-class activities, as the example
+below illustrates. I can read in and view a data set; give students
+tasks that involve writing and executing code to analyze the data set,
+and have them interpret their output -- all in one place:&lt;/p&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;../../media/image21.png&#34; alt=&#34;A screenshot of a computer Description automatically
+generated&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;p&gt;(&lt;a href=&#34;https://colab.research.google.com/drive/1EO1pfDixSh1525PgktHBtmr6wB10uwFK?usp=sharing&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Full link to
+notebook&lt;/a&gt;)&lt;/p&gt;
+&lt;p&gt;In course evaluations across the two semesters, 43/48 students rated the
+overall course as &amp;ldquo;Excellent&amp;rdquo; or &amp;ldquo;Good.&amp;rdquo; 49/51 students agreed or
+strongly agreed with the statement &amp;ldquo;The use of Colab notebooks
+facilitated my learning.&amp;rdquo; The following are some comments from students
+on what they liked most about the course:&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Activities really help students learn the material taught in the lecture notebooks.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Running the code and writing some basic scripts is helpful to remembering the different methods and concepts.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Felt like the way we went through notebooks was effective to facilitate learning&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;blockquote&gt;
+&lt;p&gt;The notes were extremely valuable&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;blockquote&gt;
+&lt;p&gt;R language is really helpful for me to forecast data.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;blockquote&gt;
+&lt;p&gt;The use of R and collab notebooks.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Learning to code in R, hands on learning.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;blockquote&gt;
+&lt;p&gt;The thorough explanations of the content we were learning and how the code actually worked&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;blockquote&gt;
+&lt;p&gt;The easy understanding of R coding&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;blockquote&gt;
+&lt;p&gt;The clear connect between in class notebooks, activities and homework&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;blockquote&gt;
+&lt;p&gt;How clear the examples and lectures were.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;blockquote&gt;
+&lt;p&gt;well organized, clear expectations AND no busy work!!&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;blockquote&gt;
+&lt;p&gt;The use of interactive learning.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;&lt;a name=&#34;sec6&#34;&gt; &lt;/a&gt;&lt;/p&gt;
+&lt;h2 id=&#34;i-proposed-and-developed-a-brand-new-course----stat-380-advanced-statistical-modeling&#34;&gt;I proposed and developed a brand new course &amp;ndash; STAT 380: Advanced statistical modeling&lt;/h2&gt;
+&lt;p&gt;&lt;a href=&#34;#list&#34;&gt;Back to top&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Beginning Fall 2021, our STAT subgroup identified a gap in our
+curriculum. Not covered deeply in any of our courses are generalized
+linear models, an important family of models used for modeling
+non-quantitative responses, as well as methods for correlated data. I
+spearheaded a proposal for a new course- STAT 380: Advanced Statistical
+Modeling that filled this curricular gap and developed curriculum for
+and taught this course in its first-ever offering Spring 2023.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;https://drive.google.com/drive/folders/1MtK66qty73rHpOMZsxDqo0Rc6BQYGLB_?usp=sharing&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Colab notebooks of course
+notes&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;https://drive.google.com/drive/folders/11xwTwq3WXOwuq-5ilonlnhMRv6Kq-pLg?usp=sharing&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Colab notebooks of in-class
+activities&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;In course evaluations, 13/16 students rated the class as &amp;ldquo;Excellent&amp;rdquo; or
+&amp;ldquo;Good;&amp;rdquo; 16/16 agreed or strongly agreed that the course was challenging;
+13/16 agreed or strongly agreed that the course colab notebooks provided
+them with what they needed to succeed in the course; and 15/16 agreed or
+strongly agreed that the in-class activities helped them understand the
+course material.&lt;/p&gt;
+&lt;p&gt;We will continue offering this class every other year to provide our
+STAT and DSCI majors with a unique elective covering an important subset
+of methodology previously lacking in our curriculum.&lt;/p&gt;
+&lt;p&gt;&lt;a name=&#34;sec7&#34;&gt; &lt;/a&gt;&lt;/p&gt;
+&lt;h2 id=&#34;i-created-a-suite-of-colab-notebooks-activities-and-assignments-for-stat-360-regression-analysis&#34;&gt;I created a suite of Colab notebooks, activities, and assignments for STAT 360: Regression analysis&lt;/h2&gt;
+&lt;p&gt;&lt;a href=&#34;#list&#34;&gt;Back to top&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;STAT 360: Regression analysis is an important core course in our
+curriculum and Fall 2023 was the first semester I&amp;rsquo;ve ever taught it.
+Once again, I moved all the content (course notes, in-class activities,
+and homework assignments) entirely into Google Colab notebooks. The
+following are comments from students on their experience using Colab:&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Easy to keep the notebooks organized and all in one place. I also liked sticking to one coding langauge for the whole class. Classes like DSCI 210 and 325 were hard for me because we would switch programs and syntaxes often.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;blockquote&gt;
+&lt;p&gt;I really like how easy it is! Colab is easy to understand, and is very well structured.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;blockquote&gt;
+&lt;p&gt;I feel like my knowledge of the subject is a lot stronger. By using colab I was very conscious about what I was doing instead of just clicking buttons.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Colab is clean looking and intuitive compared to R studio or Python.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Colab was fun to learn. Had not used it before.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;blockquote&gt;
+&lt;p&gt;made note taking easy and lectures enjoyable&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;blockquote&gt;
+&lt;p&gt;It was an easy-to-learn software due to all the online forums with tips and how-to&#39;s&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;&lt;a name=&#34;sec8&#34;&gt; &lt;/a&gt;&lt;/p&gt;
+&lt;h2 id=&#34;i-continued-a-record-of-being-a-clear-enthusiastic-and-helpful-instructor-in-all-my-courses&#34;&gt;I continued a record of being a clear, enthusiastic, and helpful instructor in all my courses.&lt;/h2&gt;
+&lt;p&gt;&lt;a href=&#34;#list&#34;&gt;Back to top&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;It is very important that I create a classroom environment where
+students can trust me, where they learn from me, where they respect me,
+and where they know that they can seek out help from me at any time and
+that I want them to learn. To make sure I am succeeding in creating this
+environment, on end-of-term course evaluations I ask all students
+whether they strongly agree, agree, disagree, or strongly disagree with
+the following statements:&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;
+&lt;p&gt;The instructor presents the material in a clear manner.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;The instructor exhibits a genuine enthusiasm and enjoys teaching the
+course.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;The instructor&amp;rsquo;s expectations of the student are clear.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;The instructor is willing/able to provide help outside of class.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;The instructor has a thorough knowledge and understanding of the
+subject matter.&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;The figure below shows results for all courses I taught in the last five
+years; there are a total of &lt;strong&gt;472&lt;/strong&gt; student responses summarized:&lt;/p&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;../../media/image22.png&#34; alt=&#34;A graph of different sizes and numbers Description automatically
+generated with medium
+confidence&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;p&gt;I am pleased to see that the responses on the five items continue to be
+very positive, as I see these as some of the most important qualities of
+an effective teacher.&lt;/p&gt;
+&lt;p&gt;The plot below summarizes students&amp;rsquo; responses to the question &lt;em&gt;Which
+word best describes your overall evaluation of the instructor&amp;rsquo;s
+teaching?&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;../../media/image23.png&#34; alt=&#34;A graph of a number of people Description automatically generated with
+medium confidence&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;p&gt;Of the &lt;strong&gt;472&lt;/strong&gt; responses, &lt;strong&gt;423/472 = 90&lt;/strong&gt;% used either &amp;ldquo;excellent&amp;rdquo; or
+&amp;ldquo;good&amp;rdquo; to describe their overall evaluation of my teaching.&lt;/p&gt;
+&lt;p&gt;To conclude my report on Criterion 1, I include comments from students
+taken across the past several years&amp;rsquo; course evaluations.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;The thing I liked most about this course was&amp;hellip;&lt;/strong&gt;&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&lt;em&gt;Professor was accessible in person and even online. It is so cool that Professor Bergen uses teams and chats with you. He gets back to us really quick.&lt;/em&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&lt;em&gt;The professor made class very enjoyable, and I look forward to more DSCI in the future. Learning R was something I was excited to do in this course.&lt;/em&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&lt;em&gt;Professor Bergen - he made the class fun and enjoyable!&lt;/em&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&lt;em&gt;All of the effort my professor put into helping me to the best of my ability... he gave us MANY tools to help us do great&lt;/em&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&lt;em&gt;The enthusiasm that was brought by the professor.&lt;/em&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&lt;em&gt;Professor Bergen, guy is a straight G.&lt;/em&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&lt;em&gt;Silas&amp;rsquo;s nerdy humor&lt;/em&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&lt;em&gt;I really appreciated that Professor Bergen seemed to care about the students. I struggled with the course but he never made me feel bad for seeking out help.&lt;/em&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&lt;em&gt;The professors speaking voice, tone and pace in videos as was clear and energetic.&lt;/em&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&lt;em&gt;Professor Bergen genuinely made the class enjoyable and was very educated on the material.&lt;/em&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&lt;em&gt;I enjoyed this course a lot. The atmosphere of the classroom was great, the pace of the material was appropriate, and I learned a lot. The professor did a great job of being organized, communicating expectations, and appropriately challenging the students.&lt;/em&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&lt;em&gt;I really enjoyed the different data sets that you chose. I thought they were interesting!&lt;/em&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&lt;em&gt;Wonderful course taught by a great professor&lt;/em&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&lt;em&gt;The professor was very understanding and explained things well&lt;/em&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;&lt;a href=&#34;#list&#34;&gt;Back to top&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     
@@ -925,7 +2707,7 @@ data.head()
 
 
 
-&lt;div id=&#34;chart-649813527&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
+&lt;div id=&#34;chart-263758149&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
 &lt;script&gt;
   (function() {
     let a = setInterval( function() {
@@ -935,7 +2717,7 @@ data.head()
       clearInterval( a );
 
       Plotly.d3.json(&#34;./line-chart.json&#34;, function(chart) {
-        Plotly.plot(&#39;chart-649813527&#39;, chart.data, chart.layout, {responsive: true});
+        Plotly.plot(&#39;chart-263758149&#39;, chart.data, chart.layout, {responsive: true});
       });
     }, 500 );
   })();
