@@ -2,11 +2,23 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://silasbergen.github.io/full_promotion/narratives/crit1/</loc>
-    <lastmod>2023-12-19T00:00:00+00:00</lastmod>
+    <loc>https://silasbergen.github.io/full_promotion/narratives/crit2/</loc>
+    <lastmod>2023-12-22T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://silasbergen.github.io/full_promotion/narratives/crit2/</loc>
+    <loc>https://silasbergen.github.io/full_promotion/narratives/crit3/</loc>
+    <lastmod>2023-12-22T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://silasbergen.github.io/full_promotion/narratives/crit4/</loc>
+    <lastmod>2023-12-22T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://silasbergen.github.io/full_promotion/narratives/gradthanks/</loc>
+    <lastmod>2023-12-22T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://silasbergen.github.io/full_promotion/narratives/crit1/</loc>
     <lastmod>2023-12-19T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
@@ -19,7 +31,7 @@
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://silasbergen.github.io/full_promotion/narratives/</loc>
-    <lastmod>2023-12-19T00:00:00+00:00</lastmod>
+    <lastmod>2023-12-22T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://silasbergen.github.io/full_promotion/post/blog-with-jupyter/</loc>
