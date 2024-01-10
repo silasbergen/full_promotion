@@ -5,7 +5,7 @@
     <link>https://silasbergen.github.io/full_promotion/narratives/</link>
       <atom:link href="https://silasbergen.github.io/full_promotion/narratives/index.xml" rel="self" type="application/rss+xml" />
     <description>Narratives</description>
-    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Fri, 22 Dec 2023 00:00:00 +0000</lastBuildDate>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Wed, 10 Jan 2024 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://silasbergen.github.io/full_promotion/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
       <title>Narratives</title>
@@ -13,1147 +13,9 @@
     </image>
     
     <item>
-      <title>Criterion 2: Scholarly or creative achievement or research</title>
-      <link>https://silasbergen.github.io/full_promotion/narratives/crit2/</link>
-      <pubDate>Fri, 22 Dec 2023 00:00:00 +0000</pubDate>
-      <guid>https://silasbergen.github.io/full_promotion/narratives/crit2/</guid>
-      <description>&lt;p&gt;&lt;a name=&#34;list&#34;&gt;&lt;/a&gt;&lt;/p&gt;
-&lt;figure&gt;
-&lt;img src=&#34;../../media/image24.png&#34; width = &#34;50%&#34;&gt;
-&lt;figcaption&gt; &lt;i&gt; Holding a 7-week old bald eagle to be fitted with GPS telemetry device, May 2021&lt;/i&gt;  &lt;/figcaption&gt;
-&lt;/figure&gt; 
-&lt;p&gt;During my time as Associate Professor, I demonstrated scholarly or
-creative achievement or research in the following ways:&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;
-&lt;p&gt;&lt;a href=&#34;#sec1&#34;&gt;I was awarded funding by the American Eagle Foundation to analyze
-bald eagle telemetry data during sabbatical. Based on this work I
-published two articles in peer-reviewed journals and presented at
-national conferences.&lt;/a&gt;&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;&lt;a href=&#34;#sec2&#34;&gt;I co-authored several articles published in peer-reviewed journals.&lt;/a&gt;&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;&lt;a href=&#34;#sec3&#34;&gt;I presented at various national conferences.&lt;/a&gt;&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;&lt;a href=&#34;#sec4&#34;&gt;I wrote an invited book review for The American Statistician.&lt;/a&gt;&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;&lt;a href=&#34;#sec5&#34;&gt;I was awarded funding through the Innovation through COVID-19
-application process and was invited to present a follow-up at Teach
-Together Minnesota.&lt;/a&gt;&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;&lt;a href=&#34;#sec6&#34;&gt;I wrote an invited blog post for the Statistics Teaching and
-Learning Corner.&lt;/a&gt;&lt;/p&gt;
-&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2 id=&#34;i-was-awarded-funding-by-the-american-eagle-foundation-to-analyze-bald-eagle-telemetry-data-during-sabbatical-based-on-this-work-i-published-two-papers-in-peer-reviewed-journals-and-presented-at-national-conferences&#34;&gt;&lt;a name = &#34;sec1&#34;&gt;&lt;/a&gt;
-I was awarded funding by the American Eagle Foundation to analyze bald eagle telemetry data during sabbatical. Based on this work I published two papers in peer-reviewed journals and presented at national conferences.&lt;/h2&gt;
-&lt;p&gt;&lt;a href=&#34;#top&#34;&gt;Back to top&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;I was very grateful to receive a sabbatical during the academic year
-2020-21. I enjoyed the break from teaching and the chance to engage in
-some very interesting applied research with excellent collaborators from
-around the country. My primary sabbatical research project was a major
-collaboration with Dr. Tricia Miller, Dr. Adam Duerr, and Missy Braham
-of Conservation Science Global; and Dr. Todd Katzner and Manuela Huso of
-U.S. Geological Survey. Over the last several years my collaborators had
-collected a large data set containing millions of GPS locations from 79
-Bald Eagles, 30 free-flying birds captured in winter, 5 from
-rehabilitation facilities, and 44 tagged as nestlings. The resulting
-data are measured on very short intervals, as little as every 5 seconds,
-resulting in millions of geospatial and biological measurements. The
-below photos shows the same 7-week old bald eagle from above, after the
-telemetry device was attached and a close-up of the device.&lt;/p&gt;
-&lt;figure&gt;
-&lt;img src=&#34;../../media/image25.png&#34; width = &#34;40%&#34;&gt;
-&lt;/figure&gt; 
-&lt;p&gt;The richness and extent of the data collected by these devices call for
-an automated process to classify and interpret the animal movement data.
-A defining feature of many previous methods developed for interpreting
-animal movement is that they were initially illustrated with telemetry
-data collected at relatively long time intervals. My role in this
-research was to apply statistical methods to that could be used to
-automate classifying risk to eagles from wind turbines using
-short-interval GPS telemetry data. To support my research efforts during
-sabbatical, Dr. Miller and I submitted a grant proposal to the American
-Eagle Foundation for $19,950.27. This was primarily to make up some of
-the income lost due to taking a sabbatical for an entire year. The grant
-was fully awarded.&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;
-&lt;p&gt;&lt;a href=&#34;https://www.dropbox.com/s/zq3fbhcy3kg5b6j/Bergen_Miller_AEF_Cover_Application.pdf?dl=0&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Grant application
-packet&lt;/a&gt;&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;&lt;a href=&#34;https://www.dropbox.com/s/tnos3dwrj0lbzd5/AEF_grant_award.pdf?dl=0&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Grant
-award&lt;/a&gt;&lt;/p&gt;
-&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;The first part of my sabbatical research involved applying a framework
-for using &lt;em&gt;K&lt;/em&gt;-means clustering to classify bird behavior using points
-from short time interval GPS tracks. My efforts on this part of the
-research resulted in an article on which I am first-author in &lt;em&gt;Ecology
-and Evolution.&lt;/em&gt;&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;strong&gt;Bergen, S.,&lt;/strong&gt; Huso, M. M., Duerr, A. E., Braham, M.
-A., Katzner, T. E., Schmuecker, S., &amp;amp; Miller, T.
-A. (2022). Classifying behavior from short-interval biologging data:
-An example with GPS tracking of birds. &lt;em&gt;Ecology and Evolution&lt;/em&gt;, 12,
-e08395. &lt;a href=&#34;https://doi.org/10.1002/ece3.8395&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://doi.org/10.1002/ece3.8395&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;The next step in my work involved classifying behavior using
-environmental features. The behaviors we were interested in classifying
-corresponded to different levels of risk from wind turbines. To carry
-out the classification I used boosted classification trees (BCTs) as
-implemented in the open source XGBoost package. XGBoost is a &amp;ldquo;big data&amp;rdquo;
-analysis tool that is computationally feasible even with billions of
-data observations, affording users a scalable and efficient
-implementation of BCTs with dramatic implications for model training. In
-this part of my research I applied BCT modeling with XGBoost to predict
-three categories of risk of bald eagle colliding with wind turbines in
-Iowa, and compared its predictive performance and computational time to
-other supervised learning methods.&lt;/p&gt;
-&lt;p&gt;I am the lead author on a second article summarizing this work in the
-highly-touted &lt;em&gt;Methods in Ecology and Evolution&lt;/em&gt;.&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;strong&gt;Bergen, S.,&lt;/strong&gt; Huso, M. M., Duerr, A. E., Braham, M.
-A., Schmuecker, S., Miller, T. A., &amp;amp; Katzner, T. E. (2023). A review
-of supervised learning methods for classifying animal behavioural
-states from environmental features. &lt;em&gt;Methods in Ecology and
-Evolution&lt;/em&gt;, 14, 189&amp;ndash;202. &lt;a href=&#34;https://doi.org/10.1111/2041-210X.14019&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://doi.org/10.1111/2041-210X.14019&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;In addition the manuscripts, we submitted an abstract to the 2020 Wind
-Wildlife Research Meeting (that was held virtually Dec 1-4, 2020), which
-was accepted. This presentation centered mostly on the first part of my
-research, using &lt;em&gt;K&lt;/em&gt;-means to cluster bald eagle flight. A video of the
-presentation is available by following the URL linked in the video image
-below.&lt;/p&gt;
-&lt;center&gt; 
-&lt;iframe id=&#34;kaltura_player&#34; type=&#34;text/javascript&#34;  src=&#39;https://cdnapisec.kaltura.com/p/812561/embedPlaykitJs/uiconf_id/52484262?iframeembed=true&amp;entry_id=1_pcw8c5no&amp;config[provider]={&#34;widgetId&#34;:&#34;1_l6kv9kz6&#34;}&amp;config[playback]={&#34;startTime&#34;:0}&#39;  style=&#34;width: 400px;height: 285px;border: 0;&#34; allowfullscreen webkitallowfullscreen mozAllowFullScreen allow=&#34;autoplay *; fullscreen *; encrypted-media *&#34; sandbox=&#34;allow-downloads allow-forms allow-same-origin allow-scripts allow-top-navigation allow-pointer-lock allow-popups allow-modals allow-orientation-lock allow-popups-to-escape-sandbox allow-presentation allow-top-navigation-by-user-activation&#34; title=&#34;WWRM final draft&#34;&gt;&lt;/iframe&gt;
-&lt;/center&gt; 
-&lt;h2 id=&#34;i-co-authored-several-articles-published-in-or-in-preparation-to-submit-to-peer-reviewed-journals&#34;&gt;&lt;a name = &#34;sec2&#34;&gt;&lt;/a&gt;
-I co-authored several articles published in or in preparation to submit to peer-reviewed journals.&lt;/h2&gt;
-&lt;p&gt;&lt;a href=&#34;#top&#34;&gt;Back to top&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;The following are journal articles published in peer-reviewed journals
-while Associate Professor, on which I am a contributing co-author. Most
-of these are projects in which I served as a consulting statistician:&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;
-&lt;p&gt;Varela WL, Mundahl ND, &lt;strong&gt;Bergen S&lt;/strong&gt;, Staples DF, Cochran-Biederman
-J, Weaver CR. Physical and Biological Stream Health in an
-Agricultural Watershed after 30+ Years of Targeted Conservation
-Practices. &lt;em&gt;Water&lt;/em&gt; 15(3475). 2023.
-&lt;a href=&#34;https://doi.org/10.3390/w15193475&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://doi.org/10.3390/w15193475&lt;/a&gt;&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;Nelson HN, Treichel, AJ, Eggum EN , Martell MR, Kaiser AJ, Trudel
-AG, Gronseth JR, Maas ST, &lt;strong&gt;Bergen S&lt;/strong&gt;, Hines JH. Individual
-neuronal subtypes control initial myelin sheath growth and
-stabilization. &lt;em&gt;Neural Dev&lt;/em&gt; 15(12). 2020.
-&lt;a href=&#34;https://doi.org/10.1186/s13064-020-00149-3&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://doi.org/10.1186/s13064-020-00149-3&lt;/a&gt;&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;Frie KJ, Prochnow J, Meiers S, Fiedler T, Jones C, &lt;strong&gt;Bergen S&lt;/strong&gt;. The
-implementation of a dedicated education unit in a public health
-setting. &lt;em&gt;Public Health Nurs&lt;/em&gt;. 37: 789&amp;ndash; 796.
-2020. &lt;a href=&#34;https://doi.org/10.1111/phn.12786&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://doi.org/10.1111/phn.12786&lt;/a&gt;&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;Goslee E, Chesak S, Forsyth DM, Foote J, &lt;strong&gt;Bergen
-S&lt;/strong&gt;. Implementation of a Dedicated Education Unit Model for ADN
-Students in a Rural Primary Care Setting. &lt;em&gt;Nurse Educator&lt;/em&gt;. Volume
-45(2): 97-101. 2020. &lt;a href=&#34;https://doi.org/10.1097/nne.0000000000000711&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://doi.org/10.1097/nne.0000000000000711&lt;/a&gt;&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;Fye HJ, &lt;strong&gt;Bergen S&lt;/strong&gt; and Baltrinic ER. Exploring the Relationship
-Between School Counselors&amp;rsquo; Perceived ASCA National Model
-Implementation, Supervision Satisfaction, and Burnout. &lt;em&gt;Journal of
-Counseling &amp;amp; Development.&lt;/em&gt; 98: 53-62. 2020.
-&lt;a href=&#34;https://doi.org/10.1&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://doi.org/10.1&lt;/a&gt;&lt;/p&gt;
-&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2 id=&#34;i-presented-at-various-national-conferences&#34;&gt;&lt;a name = &#34;sec3&#34;&gt;&lt;/a&gt;
-I presented at various national conferences.&lt;/h2&gt;
-&lt;p&gt;&lt;a href=&#34;#top&#34;&gt;Back to top&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;I have presented and led workshops at a variety of national conferences
-over the past two years, primarily on data visualization education.&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;em&gt;Data visualization: principles and applications in R, Tableau, and
-Python&lt;/em&gt;. Workshop at SDSS 2019. Co-organizer: Todd Iverson.
-&lt;a href=&#34;https://github.com/WSU-DataScience/SDSS19-dataviz-workshop&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://github.com/WSU-DataScience/SDSS19-dataviz-workshop&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;center&gt;
-&lt;image&gt; 
-&lt;figcaption&gt; &lt;i&gt; Tweet from workshop participant &lt;/i&gt; &lt;/figcaption&gt;
-&lt;img src=&#34;../../media/image27.png&#34; width = &#34;70%&#34;&gt; 
-&lt;/image&gt;
-&lt;/center&gt;
-&lt;ul&gt;
-&lt;li&gt;
-&lt;p&gt;&lt;em&gt;Teaching the Gestalt Principles to Help Undergraduate Students
-Design Effective Tables and Graphs&lt;/em&gt;. Contributed refereed
-presentation. SDSS 2020. &lt;a href=&#34;https://bit.ly/3ikEFxv&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://bit.ly/3ikEFxv&lt;/a&gt;&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;&lt;em&gt;Fundamentals of data visualization for education&lt;/em&gt;. Breakout
-session. USCOTS 2021. Co-leaders: Chris Malone and Jerzy Wiezcorek.
-&lt;a href=&#34;https://github.com/DataVizEducation/USCOTS2021&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://github.com/DataVizEducation/USCOTS2021&lt;/a&gt;. Many participants
-mentioned the Gestalt principles (my portion of the breakout) in
-their evaluation of the breakout session, in response to &amp;ldquo;What was
-the most meaningful takeaway from this breakout session?&amp;rdquo;:&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;
-&lt;p&gt;&lt;em&gt;Human perception and Gestalt principles are very important to
-consider when you are thinking about how to communicate a
-message visually.&lt;/em&gt;&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;&lt;em&gt;How our minds naturally &amp;quot;think&amp;quot; about groupings and interpret
-data via visualization - and how to communicate that to our
-students.&lt;/em&gt;&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;&lt;em&gt;Gestalt principles were very eye opening for me!&lt;/em&gt;&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;&lt;em&gt;Gestalt principles. I immediately started noticing it in media
-articles.&lt;/em&gt;&lt;/p&gt;
-&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;&lt;em&gt;Ho to build and sustain a DSCI program&lt;/em&gt;. Topic contributed panel.
-JSM 2022. &lt;a href=&#34;https://rb.gy/wk5zsm&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://rb.gy/wk5zsm&lt;/a&gt;&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;&lt;em&gt;What belongs together? Using elemental groupings and Gestalt
-principles to help students design more insightful data
-visualizations.&lt;/em&gt; Breakout session. USCOTS 2023.
-&lt;a href=&#34;https://rb.gy/50218g&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://rb.gy/50218g&lt;/a&gt;&lt;/p&gt;
-&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;This latter presentation synthesized much of the &lt;a href=&#34;../crit1/#sec4&#34;&gt;conceptual framework&lt;/a&gt;
-I&amp;rsquo;ve been introducing in DSCI 310. One of the participants of this breakout enjoyed the
-session so much he invited me to present the material to faculty at his
-college as a Professional Development session:&lt;/p&gt;
-&lt;p&gt;
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-&lt;figure  &gt;
-  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
-    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;../../media/image28.png&#34; alt=&#34;A close-up of a letter Description automatically
-generated&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
-  &lt;/div&gt;&lt;/figure&gt;
-&lt;/p&gt;
-&lt;h2 id=&#34;i-wrote-an-invited-book-review-for-the-american-statistician&#34;&gt;&lt;a name = &#34;sec4&#34;&gt;&lt;/a&gt;
-I wrote an invited book review for &lt;em&gt;The American Statistician&lt;/em&gt;.&lt;/h2&gt;
-&lt;p&gt;&lt;a href=&#34;#top&#34;&gt;Back to top&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;Dr. Alicia Johnson from Macalester College invited me to review
-&lt;em&gt;Displaying Time Series, Spatial, and Space-Time Data with R, 2nd Edition&lt;/em&gt; by Oscar Perpiñán Lamigueiro, for publication in &lt;em&gt;The
-American Statistician&lt;/em&gt;. Dr. Johnson had this to say about my first
-review draft:&lt;/p&gt;
-&lt;p&gt;
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-&lt;figure  &gt;
-  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
-    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;../../media/image29.png&#34; alt=&#34;Graphical user interface, text, application, email Description
-automatically
-generated&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
-  &lt;/div&gt;&lt;/figure&gt;
-&lt;/p&gt;
-&lt;p&gt;&lt;a href=&#34;https://www.tandfonline.com/doi/full/10.1080/00031305.2019.1641357&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;View published review&lt;/a&gt;&lt;/p&gt;
-&lt;h2 id=&#34;i-was-awarded-funding-through-the-innovation-through-covid-19-application-process-and-was-invited-to-present-a-follow-up-at-teach-together-minnesota&#34;&gt;&lt;a name = &#34;sec5&#34;&gt;&lt;/a&gt;
-I was awarded funding through the Innovation through COVID-19 application process and was invited to present a follow-up at Teach Together Minnesota.&lt;/h2&gt;
-&lt;p&gt;&lt;a href=&#34;#top&#34;&gt;Back to top&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;For several of my introductory statistics classes I have developed
-interactive video quiz lectures that I believe are very effective in
-increasing student engagement with the material. When the Minnesota
-State system office sent out a call for Innovation through COVID-19
-applications, I applied and received funding to create a short
-instructional video on creating and producing these video quizzes.  I created the video below with this grant.&lt;/p&gt;
-&lt;center&gt;
-&lt;iframe id=&#34;kaltura_player&#34; type=&#34;text/javascript&#34;  src=&#39;https://cdnapisec.kaltura.com/p/812561/embedPlaykitJs/uiconf_id/52484262?iframeembed=true&amp;entry_id=1_9zrcuokr&amp;config[provider]={&#34;widgetId&#34;:&#34;1_aqb3lao0&#34;}&amp;config[playback]={&#34;startTime&#34;:0}&#39;  style=&#34;width: 400px;height: 285px;border: 0;&#34; allowfullscreen webkitallowfullscreen mozAllowFullScreen allow=&#34;autoplay *; fullscreen *; encrypted-media *&#34; sandbox=&#34;allow-downloads allow-forms allow-same-origin allow-scripts allow-top-navigation allow-pointer-lock allow-popups allow-modals allow-orientation-lock allow-popups-to-escape-sandbox allow-presentation allow-top-navigation-by-user-activation&#34; title=&#34;Creating interactive lecture video quizzes with Mediaspace or Camtasia&#34;&gt;&lt;/iframe&gt;
-&lt;/center&gt;
-&lt;p&gt;I was later invited to follow up on my video with a live presentation at
-Teach Together Minnesota 2021:&lt;/p&gt;
-&lt;p&gt;
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-&lt;figure  &gt;
-  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
-    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;../../media/image30.png&#34; alt=&#34;Graphical user interface, text, application, email Description
-automatically
-generated&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
-  &lt;/div&gt;&lt;/figure&gt;
-&lt;/p&gt;
-&lt;h2 id=&#34;i-wrote-an-invited-blog-post-for-statistics-teaching-and-learning-corner&#34;&gt;&lt;a name = &#34;sec6&#34;&gt;&lt;/a&gt;
-I wrote an invited blog post for Statistics Teaching and Learning Corner.&lt;/h2&gt;
-&lt;p&gt;&lt;a href=&#34;#top&#34;&gt;Back to top&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;I was invited by the editors of the StatTLC to contribute a &lt;a href=&#34;https://stattlc.com/2021/07/08/making-awesome-tables-and-figures-using-gestalt-principles/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;blog post&lt;/a&gt;
-based on a previous presentation at SDSS.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Criterion 3: Continuing preparation</title>
-      <link>https://silasbergen.github.io/full_promotion/narratives/crit3/</link>
-      <pubDate>Fri, 22 Dec 2023 00:00:00 +0000</pubDate>
-      <guid>https://silasbergen.github.io/full_promotion/narratives/crit3/</guid>
-      <description>&lt;p&gt;During my time as Associate Professor, I demonstrated continuing
-preparation in the following ways:&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;
-&lt;p&gt;&lt;a href=&#34;#sec1&#34;&gt;I took a class on the Python programming language.&lt;/a&gt;&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;&lt;a href=&#34;#sec2&#34;&gt;I took the WeTeach course for effective online course design.&lt;/a&gt;&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;&lt;a href=&#34;#sec3&#34;&gt;I read several books and online resources on data visualization
-design and best practices.&lt;/a&gt;&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;&lt;a href=&#34;#sec4&#34;&gt;I sought out professional data visualizations as inspiration for
-DSCI 310 assignments.&lt;/a&gt;&lt;/p&gt;
-&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;&lt;a name = &#34;sec1&#34;&gt;&lt;/a&gt;&lt;/p&gt;
-&lt;h2 id=&#34;i-took-a-class-on-the-python-programming-language&#34;&gt;I took a class on the Python programming language.&lt;/h2&gt;
-&lt;p&gt;&lt;a href=&#34;#top&#34;&gt;Back to top&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;During Fall 2020 I sat in on Dr. Todd Iverson&amp;rsquo;s course DSCI 330:
-Management of Unstructured Data. This course was taught entirely with
-the Python language, which gave me the chance to gain experience with
-this language. I grew a special appreciation for Python&amp;rsquo;s capability of
-managing strings. Below is a screenshot of one of my &amp;ldquo;homework&amp;rdquo;
-assignments:&lt;/p&gt;
-&lt;p&gt;
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-&lt;figure  &gt;
-  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
-    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;../../media/image31.png&#34; alt=&#34;&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
-  &lt;/div&gt;&lt;/figure&gt;
-&lt;/p&gt;
-&lt;p&gt;&lt;a name = &#34;sec2&#34;&gt;&lt;/a&gt;&lt;/p&gt;
-&lt;h2 id=&#34;i-took-the-weteach-course-for-effective-online-course-design&#34;&gt;I took the WeTeach course for effective online course design.&lt;/h2&gt;
-&lt;p&gt;&lt;a href=&#34;#top&#34;&gt;Back to top&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;I have taught online multiple times and wanted to learn more about
-effective online course design, especially given the growth of online
-teaching especially amidst the COVID-19 pandemic. To that end I
-completed the WeTeach course for effective online/blended course design
-and delivery in Summer 2020.&lt;/p&gt;
-&lt;p&gt;
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-&lt;figure  &gt;
-  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
-    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;../../media/image32.png&#34; alt=&#34;Text Description automatically generated with low
-confidence&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
-  &lt;/div&gt;&lt;/figure&gt;
-&lt;/p&gt;
-&lt;p&gt;One of the best takeaways from this class for me was to create a
-discussion board for students to introduce themselves at the beginning
-of the semester. I have done this in all my online offerings since
-taking WeTeach. I think students appreciate this chance to get to know
-one another, as it helps reduce the isolation that can be an issue in
-online courses. It also gives students a way to find people to work with
-in homework groups if they do not already know someone in the course.&lt;/p&gt;
-&lt;p&gt;&lt;a name = &#34;sec3&#34;&gt;&lt;/a&gt;&lt;/p&gt;
-&lt;h2 id=&#34;i-read-several-books-and-online-resources-on-data-visualization-design-and-best-practices&#34;&gt;I read several books and online resources on data visualization design and best practices.&lt;/h2&gt;
-&lt;p&gt;&lt;a href=&#34;#top&#34;&gt;Back to top&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;I have explored many resources in preparation for teaching DSCI 310:
-Data visualization. As &lt;a href=&#34;../crit1/#sec4&#34;&gt;described in Criterion 1&lt;/a&gt;, I wanted to remake the way I taught DSCI 310 by focusing
-more on the concepts of quality data visualization. This included
-expanding my treatment of visual perception and designing for aesthetics
-and accessibility. The following books and online resources have proved
-hugely instrumental to my course design and thinking on data
-visualization in general and DSCI 310 specifically:&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;
-&lt;p&gt;&lt;em&gt;Show me the Numbers&lt;/em&gt; by Stephen Few&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;&lt;em&gt;Storytelling with Data&lt;/em&gt; by Cole Nussbaumer Knaflic&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;&lt;em&gt;Storytelling with Data: Let&amp;rsquo;s practice!&lt;/em&gt; By Cole Nussbaumer Knaflic&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;&lt;em&gt;The Truthful Art&lt;/em&gt; by Alberto Cairo&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;&lt;em&gt;The Grammar of Graphics&lt;/em&gt; by Leland Wilkinson&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;&lt;em&gt;#MakeoverMonday&lt;/em&gt; by Andy Kriebel and Eva Murray&lt;/p&gt;
-&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;&lt;a name = &#34;sec4&#34;&gt;&lt;/a&gt;&lt;/p&gt;
-&lt;h2 id=&#34;i-sought-out-professional-data-visualizations-as-inspiration-for-dsci-310-assignments&#34;&gt;I sought out professional data visualizations as inspiration for DSCI 310 assignments.&lt;/h2&gt;
-&lt;p&gt;&lt;a href=&#34;#top&#34;&gt;Back to top&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;One way students improve as data visualizers is working to visualize a
-data set, then seeing a very high quality visual perspective on the same
-data. To that end, most of the design tasks I set my students in the
-data visualization course have a published visualization as its
-inspiration, which I show students after they have submitted their final
-drafts. Some examples are below.&lt;/p&gt;
-&lt;figure&gt; 
-	&lt;figcaption&gt; &lt;b&gt; Design task 1: visualizing Brain Drain &lt;/b&gt; &lt;/figcaption&gt;
-		&lt;img src=&#34;../../media/image33.png&#34; width=&#34;50%&#34;&gt;
-	&lt;figcaption&gt; &lt;i&gt; Source: &lt;a href=&#34;https://www.washingtonpost.com/business/2022/09/09/films-assigned-college/&#34;&gt; Washington Post &lt;/a&gt; &lt;/i&gt; &lt;/figcaption&gt;
-&lt;/figure&gt;
-&lt;figure&gt; 
-	&lt;figcaption&gt; &lt;b&gt; Design task 4: minimum wage and cost of living &lt;/b&gt; &lt;/figcaption&gt;
-		&lt;img src=&#34;../../media/image34.png&#34; width=&#34;50%&#34;&gt;
-	&lt;figcaption&gt; &lt;i&gt; Source: &lt;a href=&#34;https://flowingdata.com/2021/03/09/minimum-wage-and-cost-of-living/&#34;&gt; Flowing Data &lt;/a&gt; &lt;/i&gt; &lt;/figcaption&gt;
-&lt;/figure&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Criterion 4: Student growth and development</title>
-      <link>https://silasbergen.github.io/full_promotion/narratives/crit4/</link>
-      <pubDate>Fri, 22 Dec 2023 00:00:00 +0000</pubDate>
-      <guid>https://silasbergen.github.io/full_promotion/narratives/crit4/</guid>
-      <description>&lt;figure&gt;
-&lt;img src=&#34;../../media/image35.jpeg&#34; width = &#34;40%&#34;&gt;
-&lt;figcaption&gt; &lt;i&gt; End-of-year senior celebration at Island City Brewing Co, May 2023&lt;/i&gt;  &lt;/figcaption&gt;
-&lt;/figure&gt; 
-&lt;p&gt;During my time as Associate Professor, I contributed to student growth
-and development in the following ways:&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;
-&lt;p&gt;&lt;a href=&#34;#sec1&#34;&gt;I supervised student capstones and internships.&lt;/a&gt;&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;&lt;a href=&#34;#sec2&#34;&gt;I wrote student letters of recommendation.&lt;/a&gt;&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;&lt;a href=&#34;#sec3&#34;&gt;I served on a student Master&amp;rsquo;s committee.&lt;/a&gt;&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;&lt;a href=&#34;#sec4&#34;&gt;I was invited to and participated in a student-led panel on healthy
-masculinity.&lt;/a&gt;&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;&lt;a href=&#34;#sec5&#34;&gt;I led students on professional development trips.&lt;/a&gt;&lt;/p&gt;
-&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;For additional evidence of my support of student growth and development, please see &lt;a href=&#34;../gradthanks&#34;&gt;notes of thanks from graduates&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a name = &#34;sec1&#34;&gt;&lt;/a&gt;&lt;/p&gt;
-&lt;h2 id=&#34;i-advised-student-capstones-and-internships&#34;&gt;I advised student capstones and internships.&lt;/h2&gt;
-&lt;p&gt;&lt;a href=&#34;#top&#34;&gt;Back to top&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;I advised the following student capstones over the past five years:&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;
-&lt;p&gt;&lt;em&gt;Detecting diabetic retinopathy to prevent blindness: fundus
-photography based deep learning algorithm&lt;/em&gt; by Miko Wieczorek&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;&lt;em&gt;Modeling baseball players&amp;rsquo; chances of induction into the Hall of
-Fame&lt;/em&gt; by Connor Demorest&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;&lt;em&gt;What Advanced Baseball Statistics Factor Most into a Player&amp;rsquo;s Wins
-Above Replacement?&lt;/em&gt; By Sam Wooden&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;&lt;em&gt;Exploring Bald Eagle Data Over Lake Superior&lt;/em&gt; by Dylan Steberg&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;&lt;em&gt;Analyzing the effects of climate change&lt;/em&gt; by Aubrie Ziebell&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;&lt;em&gt;Comparing Methods of Predicting the Outcomes of NBA Finals Series&lt;/em&gt;
-by Peyton Sikkink&lt;/p&gt;
-&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;I also supervised the following student internships:&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;
-&lt;p&gt;Kate Hansen: Betty Hazeldon-Ford&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;Kyle Macief: CROSS Services&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;Dennis Lew: Fastenal&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;Khanh Vo: Wings Financial Credit Union&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;Joe Nagel: CoSIBS&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;Aidan Nutt: Ashley Furniture&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;Luke Coelho: Sentence Data Refinery&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;Payton Simmons: Fastenal&lt;/p&gt;
-&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;&lt;a name = &#34;sec2&#34;&gt;&lt;/a&gt;&lt;/p&gt;
-&lt;h2 id=&#34;i-wrote-student-letters-of-recommendation&#34;&gt;I wrote student letters of recommendation.&lt;/h2&gt;
-&lt;p&gt;&lt;a href=&#34;#top&#34;&gt;Back to top&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;Over the past five years I provided letters of recommendation for a
-number of students.&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;
-&lt;p&gt;Adrianna Kallis &amp;ndash; scholarship application&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;Jimmy Hickey &amp;ndash; graduate school&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;Yulun Xu &amp;ndash; graduate school&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;Stacey Miertschin &amp;ndash; graduate school and subsequent job applications&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;Eva Tourangeau &amp;ndash; graduate school&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;Austin Ellingworth &amp;ndash; graduate school&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;AJ Phillips &amp;ndash; graduate school&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;Adam Funk &amp;ndash; graduate school&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;Connor Demorest &amp;ndash; graduate school&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;Austin Ellingworth - graduate school&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;Nathan Meyer - graduate school&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;Dylan Steberg - graduate school&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;Joe Nagel - graduate school&lt;/p&gt;
-&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;&lt;a name = &#34;sec3&#34;&gt;&lt;/a&gt;&lt;/p&gt;
-&lt;h2 id=&#34;i-served-on-a-student-masters-committee&#34;&gt;I served on a student Master&amp;rsquo;s committee.&lt;/h2&gt;
-&lt;p&gt;&lt;a href=&#34;#top&#34;&gt;Back to top&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;I did some consulting work for Will Varela, a master&amp;rsquo;s student in the
-biology department. This work centered on analyzing quality of the
-Whitewater river using biotic data on fish and invertebrates as well as
-stream characteristics such as temperature and quality of substrates on
-the river bed. Below are some of the plots I provided him to demonstrate
-different levels of quality (as represented by the three clusters; poor,
-moderate, and good) and their spatial distribution across three branches
-of the Whitewater River.&lt;/p&gt;
-&lt;p&gt;
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-&lt;figure  &gt;
-  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
-    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;../../media/image36.png&#34; alt=&#34;Map Description automatically
-generated&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
-  &lt;/div&gt;&lt;/figure&gt;
-&lt;/p&gt;
-&lt;p&gt;I was subsequently invited to serve on his Master&amp;rsquo;s thesis committee, to
-which I agreed. I participated in thesis draft review and sat in on his
-thesis defense.&lt;/p&gt;
-&lt;p&gt;&lt;a name = &#34;sec4&#34;&gt;&lt;/a&gt;&lt;/p&gt;
-&lt;h2 id=&#34;i-was-invited-to-and-participated-in-a-student-led-panel-on-healthy-masculinity&#34;&gt;I was invited to and participated in a student-led panel on healthy masculinity.&lt;/h2&gt;
-&lt;p&gt;&lt;a href=&#34;#top&#34;&gt;Back to top&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;In Fall 2019 a former STAT 110 student invited me to participate in a
-panel on healthy masculinity. The panel was hosted by the RE Initiative.
-I along with six other university faculty/staff/students responded to
-several questions posed by the RE Initiative student leaders. It was a
-valuable experience and I was honored to be invited and participate.&lt;/p&gt;
-&lt;figure&gt;
-&lt;img src=&#34;../../media/image37.jpeg&#34; width = &#34;60%&#34;&gt;
-&lt;figcaption&gt; &lt;i&gt; Healthy masculinity panel&lt;/i&gt;  &lt;/figcaption&gt;
-&lt;/figure&gt; 
-&lt;p&gt;&lt;a name = &#34;sec5&#34;&gt;&lt;/a&gt;&lt;/p&gt;
-&lt;h2 id=&#34;i-led-students-on-professional-development-trips&#34;&gt;I led students on professional development trips.&lt;/h2&gt;
-&lt;p&gt;&lt;a href=&#34;#top&#34;&gt;Back to top&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;While traveling was paused for a couple years during COVID, it picked up
-a bit in the last couple years which was a welcome change. In September
-2022, Dr. Chris Malone and I took students to a Twin Cities ASA chapter
-event &lt;em&gt;Navigating difficult conversations with statistical
-collaborators&lt;/em&gt;. Many of the students who came were in my statistical
-consulting class, and enjoyed a rich and interactive conversation
-regarding potentially difficult communications with clients and
-collaborators.&lt;/p&gt;
-&lt;figure&gt;
-&lt;img src=&#34;../../media/image38.jpeg&#34; width = &#34;60%&#34;&gt;
-&lt;figcaption&gt; &lt;i&gt;The group at Twin Cities ASA event, September 2022&lt;/i&gt;  &lt;/figcaption&gt;
-&lt;/figure&gt; 
-&lt;p&gt;Data analytics competitions, an invaluable learning experience for
-students, also took a pause with COVID but returned in Spring 2023 with
-a collaboration with the Minnesota Twins. MinneMUDAC brought in dozens
-of teams to analyze ticket sales data at Target Field with the goal of
-understanding factors that related to and predicting upcoming season
-prices. I was the faculty advisor for the 3 teams from Winona State that
-participated in the competition.&lt;/p&gt;
-&lt;figure&gt;
-&lt;img src=&#34;../../media/image39.jpeg&#34; width = &#34;60%&#34;&gt;
-&lt;figcaption&gt; &lt;i&gt;The crew at Target Field, March 2023&lt;/i&gt;  &lt;/figcaption&gt;
-&lt;/figure&gt; 
-</description>
-    </item>
-    
-    <item>
-      <title>Criterion 5: Service to the university and community</title>
-      <link>https://silasbergen.github.io/full_promotion/narratives/crit5/</link>
-      <pubDate>Fri, 22 Dec 2023 00:00:00 +0000</pubDate>
-      <guid>https://silasbergen.github.io/full_promotion/narratives/crit5/</guid>
-      <description>&lt;figure&gt;
-&lt;img src=&#34;../../media/image58.jpeg&#34; width = &#34;40%&#34;&gt;
-&lt;figcaption&gt; &lt;i&gt; A photo op on Nick Offerman&#39;s lap, a perk of serving on the &lt;a href=&#34;#lyceum&#34;&gt; Lyceum Committee.&lt;/a&gt; 
-&lt;p&gt;November, 2023 &lt;/i&gt;  &lt;/figcaption&gt;&lt;/p&gt;
-&lt;/figure&gt; 
-&lt;p&gt;&lt;a name=&#34;list&#34;&gt;&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;During my time as Associate professor, I served the university and
-community in the following ways:&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;
-&lt;p&gt;&lt;a href=&#34;#sec1&#34;&gt;I served on the organizing committee of SDSS 2019 and co-organized
-the data visualization track.&lt;/a&gt;&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;&lt;a href=&#34;#sec2&#34;&gt;I designed the university COVID dashboard for reporting on the
-university COVID situation.&lt;/a&gt;&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;&lt;a href=&#34;#sec3&#34;&gt;I served on the City of Winona&amp;rsquo;s COVID-19 community response team.&lt;/a&gt;&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;&lt;a href=&#34;#sec4&#34;&gt;I directed the Statistical Consulting Center.&lt;/a&gt;&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;&lt;a href=&#34;#sec5&#34;&gt;I served as a discussant for the Grant Writing Workshop Series.&lt;/a&gt;&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;&lt;a href=&#34;#sec6&#34;&gt;I gave a college-wide presentation on my sabbatical research during
-STEM admissions day.&lt;/a&gt;&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;&lt;a href=&#34;#sec7&#34;&gt;I served on several department and university-wide committees.&lt;/a&gt;&lt;/p&gt;
-&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;&lt;a name = &#34;sec1&#34;&gt;&lt;/a&gt;&lt;/p&gt;
-&lt;h2 id=&#34;i-served-on-the-organizing-committee-of-sdss-2019-and-co-organized-the-data-visualization-track&#34;&gt;I served on the organizing committee of SDSS 2019 and co-organized the data visualization track.&lt;/h2&gt;
-&lt;p&gt;&lt;a href=&#34;#list&#34;&gt;Back to top&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;At the invitation of Kelly McConville, I co-organized the data
-visualization track at the &lt;a href=&#34;https://ww2.amstat.org/meetings/sdss/2019/index.cfm&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;2019 Symposium for Data Science and
-Statistics&lt;/a&gt; in Bellevue, WA.&lt;/p&gt;
-&lt;p&gt;
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-&lt;figure  &gt;
-  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
-    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;../../media/image46.png&#34; alt=&#34;Text, letter Description automatically
-generated&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
-  &lt;/div&gt;&lt;/figure&gt;
-&lt;/p&gt;
-&lt;p&gt;I agreed to serve on the &lt;a href=&#34;https://ww2.amstat.org/meetings/sdss/2019/committee.cfm&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;organization committee&lt;/a&gt;, which entailed developing invited
-sessions and finding others to lead invited sessions. I organized two
-successful invited sessions, one on visual storytelling and one on data
-visualization education, both containing slates of high-quality
-speakers.&lt;/p&gt;
-&lt;p&gt;
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-&lt;figure  &gt;
-  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
-    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;../../media/image47.png&#34; alt=&#34;Graphical user interface, text, application Description automatically
-generated&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
-  &lt;/div&gt;&lt;/figure&gt;
-&lt;/p&gt;
-&lt;p&gt;
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-&lt;figure  &gt;
-  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
-    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;../../media/image48.png&#34; alt=&#34;Graphical user interface, text, application Description automatically
-generated&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
-  &lt;/div&gt;&lt;/figure&gt;
-&lt;/p&gt;
-&lt;p&gt;&lt;a name = &#34;sec2&#34;&gt;&lt;/a&gt;&lt;/p&gt;
-&lt;h2 id=&#34;i-designed-the-university-covid-dashboard-for-reporting-on-the-university-covid-situation&#34;&gt;I designed the university COVID dashboard for reporting on the university COVID situation.&lt;/h2&gt;
-&lt;p&gt;&lt;a href=&#34;#list&#34;&gt;Back to top&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;In collaboration with the WSU communications staff, I designed a Tableau
-dashboard for reporting on the state of COVID-19 at the university.
-Specifically, the dashboard reported on the number of students
-isolating, quarantining, active cases and cumulative cases. I designed
-the dashboard so that internal staff could update it themselves every
-week without my assistance. This dashboard served an important part of
-the University&amp;rsquo;s communication on COVID-19, remaining on the website
-throughout the 2020-21 academic year.&lt;/p&gt;
-&lt;p&gt;&lt;a name = &#34;sec3&#34;&gt;&lt;/a&gt;&lt;/p&gt;
-&lt;h2 id=&#34;i-served-on-the-city-of-winonas-covid-19-community-response-team&#34;&gt;I served on the City of Winona&amp;rsquo;s COVID-19 community response team.&lt;/h2&gt;
-&lt;p&gt;&lt;a href=&#34;#list&#34;&gt;Back to top&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;Through previous collaboration with city staff, I was invited to serve
-on the City of Winona&amp;rsquo;s COVID-19 community response team. My primary
-effort as part of this group was to create another dashboard that
-updated automatically on a daily basis showing the conditions of Winona
-County and surrounding counties. The City promoted this dashboard on its
-social media pages.&lt;/p&gt;
-&lt;p&gt;
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-&lt;figure  &gt;
-  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
-    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;../../media/image50.png&#34; alt=&#34;Graphical user interface Description automatically
-generated&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
-  &lt;/div&gt;&lt;/figure&gt;
-&lt;/p&gt;
-&lt;p&gt;&lt;a name = &#34;sec4&#34;&gt;&lt;/a&gt;&lt;/p&gt;
-&lt;h2 id=&#34;i-directed-the-statistical-consulting-center&#34;&gt;I directed the Statistical Consulting Center.&lt;/h2&gt;
-&lt;p&gt;&lt;a href=&#34;#list&#34;&gt;Back to top&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;I continued my duties directing the Statistical Consulting Center. I
-took a break during sabbatical and reassumed directing duties beginning
-Summer 2021. I created numerous reports and tutorials for a variety of
-clients. I also had several meetings with clients advising on study
-design and data collection. Below is a partial list of projects in which
-I assisted as director of the SCC:&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;
-&lt;p&gt;Broadening nursing influence through board service&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;
-&lt;p&gt;Clients: Alison Gulden and Fern Deno&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;&lt;a href=&#34;https://www.dropbox.com/s/o153uofcej4wnlu/Gulden-Deno-Report.docx?dl=0&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Report
-link&lt;/a&gt;&lt;/p&gt;
-&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;Interdisciplinary perception across two Dedicated Education Units&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;
-&lt;p&gt;Clients: Ashley Kell and Sarah Yoch&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;&lt;a href=&#34;https://www.dropbox.com/s/hkj5hjyyjlmpk1k/Kell_Yoch_DEU_Report.docx?dl=0&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Report
-link&lt;/a&gt;&lt;/p&gt;
-&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;Change in stress among adolescents after 8-week stress management
-small group&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;
-&lt;p&gt;Client: Chelsey Windl&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;&lt;a href=&#34;https://www.dropbox.com/s/25h0nv3cc0c1zpy/Windl_report.docx?dl=0&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Report
-link&lt;/a&gt;&lt;/p&gt;
-&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;Impact
-of educational intervention on advanced directives&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;
-&lt;p&gt;Clients: Dina Brkic and Marisia Young&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;&lt;a href=&#34;https://www.dropbox.com/s/5c0bqbcvlc91tlv/Brkic_Young_AD_report.docx?dl=0&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Report
-link&lt;/a&gt;&lt;/p&gt;
-&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;Effectiveness of alteplase treatment levels on blood return&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;
-&lt;p&gt;Client: Emily Hill&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;&lt;a href=&#34;https://www.dropbox.com/s/5uf115wbnjkzpnh/Hill_Alteplase_Report.docx?dl=0&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Report
-link&lt;/a&gt;&lt;/p&gt;
-&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;Effectiveness of gratitude on students&amp;rsquo; perceived stress&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;
-&lt;p&gt;Clients: Paige Anderson and Savanna Jackson&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;&lt;a href=&#34;https://www.dropbox.com/s/edwujv1t4avf8zv/gratitude_PSS_report.docx?dl=0&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Report
-link&lt;/a&gt;&lt;/p&gt;
-&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;Effectiveness
-of multicultural counseling education on perceived multicultural
-counseling self-efficacy&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;
-&lt;p&gt;Client: Mary Fawcett&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;&lt;a href=&#34;https://www.dropbox.com/s/o6g315jbv2idzn4/Fawcett_multicultural_report.docx?dl=0&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Report
-link&lt;/a&gt;&lt;/p&gt;
-&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;Below is a letter of thanks from a person I visited with regarding
-statistical consulting:&lt;/p&gt;
-&lt;p&gt;
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-&lt;figure  &gt;
-  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
-    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;../../media/image51.png&#34; alt=&#34;A screenshot of a email Description automatically
-generated&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
-  &lt;/div&gt;&lt;/figure&gt;
-&lt;/p&gt;
-&lt;p&gt;In addition, I visited several classrooms providing review of
-statistical concepts:&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;
-&lt;p&gt;NURS 354 &amp;ndash; Leadership in Research and Evidence-based Practice&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;CMST 380 &amp;ndash; Communication Research Methods&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;NURS 600 &amp;ndash; Scientific and Ethical Foundations&lt;/p&gt;
-&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;For the past 3 summers, I have visited Ed.D students at their College of
-Education Residency providing an overview of the Statistical Consulting
-Center and recommendations for quantitative research. Below is a note of
-appreciation from Dr. Baule.&lt;/p&gt;
-&lt;p&gt;
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-&lt;figure  &gt;
-  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
-    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;../../media/image52.png&#34; alt=&#34;Text, letter Description automatically
-generated&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
-  &lt;/div&gt;&lt;/figure&gt;
-&lt;/p&gt;
-&lt;p&gt;&lt;a name = &#34;sec5&#34;&gt;&lt;/a&gt;&lt;/p&gt;
-&lt;h2 id=&#34;i-served-as-a-discussant-for-the-grant-writing-workshop-series&#34;&gt;I served as a discussant for the Grant Writing Workshop Series.&lt;/h2&gt;
-&lt;p&gt;&lt;a href=&#34;#list&#34;&gt;Back to top&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;On Oct 30 2020 I served as a panelist for the Grant Writing Workshop
-series. I shared about my experience applying for and receiving funding
-from the American Eagle Foundation for my sabbatical work, as well as
-lessons learned along the way.&lt;/p&gt;
-&lt;p&gt;&lt;a name = &#34;sec6&#34;&gt;&lt;/a&gt;&lt;/p&gt;
-&lt;h2 id=&#34;i-gave-a-college-wide-presentation-on-my-sabbatical-research-during-stem-admissions-day&#34;&gt;I gave a college-wide presentation on my sabbatical research during STEM admissions day.&lt;/h2&gt;
-&lt;p&gt;&lt;a href=&#34;#list&#34;&gt;Back to top&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;On Dec 1, 2023, I presented an overview of my &lt;a href=&#34;../crit2/#sec1&#34;&gt;bald eagle sabbatical
-research&lt;/a&gt; to prospective students during the STEM admissions day.&lt;/p&gt;
-&lt;p&gt;
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-&lt;figure  &gt;
-  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
-    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;../../media/image53.png&#34; alt=&#34;A person holding a dog Description automatically
-generated&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
-  &lt;/div&gt;&lt;/figure&gt;
-&lt;/p&gt;
-&lt;p&gt;&lt;a name = &#34;sec7&#34;&gt;&lt;/a&gt;&lt;/p&gt;
-&lt;h2 id=&#34;i-served-on-several-department-and-university-wide-committees&#34;&gt;I served on several department and university-wide committees.&lt;/h2&gt;
-&lt;p&gt;&lt;a href=&#34;#list&#34;&gt;Back to top&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;During Fall 2019-Spring 2020 I chaired our department&amp;rsquo;s recruitment
-committee. One major endeavor of this committee was to host the Fall
-2019 &amp;ldquo;Math in the Real World&amp;rdquo; workshop. We hosted this workshop in
-October 2019 on University Improvement day. The workshop included a
-series of short sessions introducing high school students to how
-math/statistics/data science can be applied. Below is a schedule of the
-workshop:&lt;/p&gt;
-&lt;p&gt;
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-&lt;figure  &gt;
-  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
-    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;../../media/image54.png&#34; alt=&#34;Table Description automatically
-generated&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
-  &lt;/div&gt;&lt;/figure&gt;
-&lt;/p&gt;
-&lt;p&gt;Over 50 students attended from high schools around the region.&lt;/p&gt;
-&lt;p&gt;I also played an active role in the Student Opportunities and Social
-Activities committee. Primary duties included co-hosting a
-student/faculty trivia night with Dr. Brant Deppa. Pre-COVID we held
-trivia live; it was such a hit that we even hosted several virtual
-trivia nights via Zoom during COVID.&lt;/p&gt;
-&lt;figure&gt; 
-&lt;img src=&#34;../../media/image55.jpeg&#34; width=&#34;70%&#34;&gt;
-	&lt;figcaption&gt; &lt;i&gt; An in-person student trivia night, Baldwin Lounge &lt;/i&gt; &lt;/figcaption&gt;
-&lt;/figure&gt;
-&lt;p&gt;As part of SOSA, I also supported the Math/Stat club Friendsgiving by
-smoking a couple turkeys (unfortunately not shown):&lt;/p&gt;
-&lt;figure&gt; 
-&lt;img src=&#34;../../media/image56.jpeg&#34; width=&#34;70%&#34;&gt;
-	&lt;figcaption&gt; &lt;i&gt; Math-Stat club friendsgiving, November 2022 &lt;/i&gt; &lt;/figcaption&gt;
-&lt;/figure&gt;
-&lt;p&gt;&lt;a name=&#34;lyceum&#34;&gt; &lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;I also served on the following university-wide committees during
-2019-2023:&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;
-&lt;p&gt;Grade Appeals Committee&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;Student Affairs Committee&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;Lyceum committee&lt;/p&gt;
-&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;As part of the Lyceum committee I work with a group of Winona State staff, students, and faculty to decide who to bring
-in as our major speakers and help with tear-down after the event.
-Another perk of the job: photo ops with the speakers after the event.&lt;/p&gt;
-&lt;figure&gt; 
-&lt;img src=&#34;../../media/image57.jpeg&#34; width=&#34;40%&#34;&gt;
-	&lt;figcaption&gt; &lt;i&gt; Bill Nye, November 2022 &lt;/i&gt; &lt;/figcaption&gt;
-&lt;/figure&gt;
-&lt;p&gt;&lt;a href=&#34;#list&#34;&gt;Back to top&lt;/a&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Notes from graduates</title>
-      <link>https://silasbergen.github.io/full_promotion/narratives/gradthanks/</link>
-      <pubDate>Fri, 22 Dec 2023 00:00:00 +0000</pubDate>
-      <guid>https://silasbergen.github.io/full_promotion/narratives/gradthanks/</guid>
-      <description>&lt;p&gt;I want to include in my application the following letters from
-graduates. I am especially touched by these thoughtful notes from
-students I&amp;rsquo;ve known and worked with for several years in various
-capacities.&lt;/p&gt;
-&lt;figure&gt;
-&lt;img src=&#34;../../media/image40.jpeg&#34;&gt;
-&lt;figcaption&gt; &lt;i&gt; Connor Demorest, 2020&lt;/i&gt;  &lt;/figcaption&gt;
-&lt;/figure&gt; 
-&lt;figure&gt;
-&lt;img src=&#34;../../media/image41.jpeg&#34;&gt;
-&lt;figcaption&gt; &lt;i&gt; Kate Hansen, 2021&lt;/i&gt;  &lt;/figcaption&gt;
-&lt;/figure&gt; 
-&lt;figure&gt;
-&lt;img src=&#34;../../media/image42.jpeg&#34;&gt;
-&lt;figcaption&gt; &lt;i&gt; Math-Stat class of 2022-2023&lt;/i&gt;  &lt;/figcaption&gt;
-&lt;/figure&gt; 
-&lt;figure&gt;
-&lt;img src=&#34;../../media/image43.jpeg&#34;&gt;
-&lt;figcaption&gt; &lt;i&gt; Carly Vandenhouten, 2022&lt;/i&gt;  &lt;/figcaption&gt;
-&lt;/figure&gt; 
-&lt;figure&gt;
-&lt;img src=&#34;../../media/image44.jpeg&#34;&gt;
-&lt;figcaption&gt; &lt;i&gt; Emily Vodovnik, 2022&lt;/i&gt;  &lt;/figcaption&gt;
-&lt;/figure&gt; 
-&lt;figure&gt;
-&lt;img src=&#34;../../media/image45.jpeg&#34;&gt;
-&lt;figcaption&gt; &lt;i&gt; Dylan Steberg, 2023&lt;/i&gt;  &lt;/figcaption&gt;
-&lt;/figure&gt; 
-</description>
-    </item>
-    
-    <item>
       <title>Criterion 1: Teaching Effectiveness</title>
       <link>https://silasbergen.github.io/full_promotion/narratives/crit1/</link>
-      <pubDate>Tue, 19 Dec 2023 00:00:00 +0000</pubDate>
+      <pubDate>Wed, 10 Jan 2024 00:00:00 +0000</pubDate>
       <guid>https://silasbergen.github.io/full_promotion/narratives/crit1/</guid>
       <description>&lt;figure&gt;
 &lt;img src=&#34;../../media/image1.png&#34; width = &#34;500&#34;&gt;
@@ -2377,6 +1239,1166 @@ taken across the past several years&amp;rsquo; course evaluations.&lt;/p&gt;
 &lt;p&gt;&lt;em&gt;The professor was very understanding and explained things well&lt;/em&gt;&lt;/p&gt;
 &lt;/blockquote&gt;
 &lt;p&gt;&lt;a href=&#34;#list&#34;&gt;Back to top&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Criterion 2: Scholarly or creative achievement or research</title>
+      <link>https://silasbergen.github.io/full_promotion/narratives/crit2/</link>
+      <pubDate>Wed, 10 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>https://silasbergen.github.io/full_promotion/narratives/crit2/</guid>
+      <description>&lt;p&gt;&lt;a name=&#34;list&#34;&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;figure&gt;
+&lt;img src=&#34;../../media/image24.png&#34; width = &#34;50%&#34;&gt;
+&lt;figcaption&gt; &lt;i&gt; Holding a 7-week old bald eagle to be fitted with GPS telemetry device, May 2021&lt;/i&gt;  &lt;/figcaption&gt;
+&lt;/figure&gt; 
+&lt;p&gt;During my time as Associate Professor, I demonstrated scholarly or
+creative achievement or research in the following ways:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;#sec1&#34;&gt;I was awarded funding by the American Eagle Foundation to analyze
+bald eagle telemetry data during sabbatical. Based on this work I
+published two articles in peer-reviewed journals and presented at
+national conferences.&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;#sec2&#34;&gt;I co-authored several articles published in peer-reviewed journals.&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;#sec3&#34;&gt;I presented at various national conferences.&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;#sec4&#34;&gt;I wrote an invited book review for The American Statistician.&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;#sec5&#34;&gt;I was awarded funding through the Innovation through COVID-19
+application process and was invited to present a follow-up at Teach
+Together Minnesota.&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;#sec6&#34;&gt;I wrote an invited blog post for the Statistics Teaching and
+Learning Corner.&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;i-was-awarded-funding-by-the-american-eagle-foundation-to-analyze-bald-eagle-telemetry-data-during-sabbatical-based-on-this-work-i-published-two-papers-in-peer-reviewed-journals-and-presented-at-national-conferences&#34;&gt;&lt;a name = &#34;sec1&#34;&gt;&lt;/a&gt;
+I was awarded funding by the American Eagle Foundation to analyze bald eagle telemetry data during sabbatical. Based on this work I published two papers in peer-reviewed journals and presented at national conferences.&lt;/h2&gt;
+&lt;p&gt;&lt;a href=&#34;#top&#34;&gt;Back to top&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;I was very grateful to receive a sabbatical during the academic year
+2020-21. I enjoyed the break from teaching and the chance to engage in
+some very interesting applied research with excellent collaborators from
+around the country. My primary sabbatical research project was a major
+collaboration with Dr. Tricia Miller, Dr. Adam Duerr, and Missy Braham
+of Conservation Science Global; and Dr. Todd Katzner and Manuela Huso of
+U.S. Geological Survey. Over the last several years my collaborators had
+collected a large data set containing millions of GPS locations from 79
+Bald Eagles, 30 free-flying birds captured in winter, 5 from
+rehabilitation facilities, and 44 tagged as nestlings. The resulting
+data are measured on very short intervals, as little as every 5 seconds,
+resulting in millions of geospatial and biological measurements. The
+below photos shows the same 7-week old bald eagle from above, after the
+telemetry device was attached and a close-up of the device.&lt;/p&gt;
+&lt;figure&gt;
+&lt;img src=&#34;../../media/image25.png&#34; width = &#34;40%&#34;&gt;
+&lt;/figure&gt; 
+&lt;p&gt;The richness and extent of the data collected by these devices call for
+an automated process to classify and interpret the animal movement data.
+A defining feature of many previous methods developed for interpreting
+animal movement is that they were initially illustrated with telemetry
+data collected at relatively long time intervals. My role in this
+research was to apply statistical methods to that could be used to
+automate classifying risk to eagles from wind turbines using
+short-interval GPS telemetry data. To support my research efforts during
+sabbatical, Dr. Miller and I submitted a grant proposal to the American
+Eagle Foundation for $19,950.27. This was primarily to make up some of
+the income lost due to taking a sabbatical for an entire year. The grant
+was fully awarded.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.dropbox.com/s/zq3fbhcy3kg5b6j/Bergen_Miller_AEF_Cover_Application.pdf?dl=0&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Grant application
+packet&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.dropbox.com/s/tnos3dwrj0lbzd5/AEF_grant_award.pdf?dl=0&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Grant
+award&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;The first part of my sabbatical research involved applying a framework
+for using &lt;em&gt;K&lt;/em&gt;-means clustering to classify bird behavior using points
+from short time interval GPS tracks. My efforts on this part of the
+research resulted in an article on which I am first-author in &lt;em&gt;Ecology
+and Evolution.&lt;/em&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Bergen, S.,&lt;/strong&gt; Huso, M. M., Duerr, A. E., Braham, M.
+A., Katzner, T. E., Schmuecker, S., &amp;amp; Miller, T.
+A. (2022). Classifying behavior from short-interval biologging data:
+An example with GPS tracking of birds. &lt;em&gt;Ecology and Evolution&lt;/em&gt;, 12,
+e08395. &lt;a href=&#34;https://doi.org/10.1002/ece3.8395&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://doi.org/10.1002/ece3.8395&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;The next step in my work involved classifying behavior using
+environmental features. The behaviors we were interested in classifying
+corresponded to different levels of risk from wind turbines. To carry
+out the classification I used boosted classification trees (BCTs) as
+implemented in the open source XGBoost package. XGBoost is a &amp;ldquo;big data&amp;rdquo;
+analysis tool that is computationally feasible even with billions of
+data observations, affording users a scalable and efficient
+implementation of BCTs with dramatic implications for model training. In
+this part of my research I applied BCT modeling with XGBoost to predict
+three categories of risk of bald eagle colliding with wind turbines in
+Iowa, and compared its predictive performance and computational time to
+other supervised learning methods.&lt;/p&gt;
+&lt;p&gt;I am the lead author on a second article summarizing this work in the
+highly-touted &lt;em&gt;Methods in Ecology and Evolution&lt;/em&gt;.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Bergen, S.,&lt;/strong&gt; Huso, M. M., Duerr, A. E., Braham, M.
+A., Schmuecker, S., Miller, T. A., &amp;amp; Katzner, T. E. (2023). A review
+of supervised learning methods for classifying animal behavioural
+states from environmental features. &lt;em&gt;Methods in Ecology and
+Evolution&lt;/em&gt;, 14, 189&amp;ndash;202. &lt;a href=&#34;https://doi.org/10.1111/2041-210X.14019&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://doi.org/10.1111/2041-210X.14019&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;In addition the manuscripts, we submitted an abstract to the 2020 Wind
+Wildlife Research Meeting (that was held virtually Dec 1-4, 2020), which
+was accepted. This presentation centered mostly on the first part of my
+research, using &lt;em&gt;K&lt;/em&gt;-means to cluster bald eagle flight. A video of the
+presentation is available below.&lt;/p&gt;
+&lt;center&gt; 
+&lt;iframe id=&#34;kaltura_player&#34; type=&#34;text/javascript&#34;  src=&#39;https://cdnapisec.kaltura.com/p/812561/embedPlaykitJs/uiconf_id/52484262?iframeembed=true&amp;entry_id=1_pcw8c5no&amp;config[provider]={&#34;widgetId&#34;:&#34;1_l6kv9kz6&#34;}&amp;config[playback]={&#34;startTime&#34;:0}&#39;  style=&#34;width: 400px;height: 285px;border: 0;&#34; allowfullscreen webkitallowfullscreen mozAllowFullScreen allow=&#34;autoplay *; fullscreen *; encrypted-media *&#34; sandbox=&#34;allow-downloads allow-forms allow-same-origin allow-scripts allow-top-navigation allow-pointer-lock allow-popups allow-modals allow-orientation-lock allow-popups-to-escape-sandbox allow-presentation allow-top-navigation-by-user-activation&#34; title=&#34;WWRM final draft&#34;&gt;&lt;/iframe&gt;
+&lt;/center&gt; 
+&lt;h2 id=&#34;i-co-authored-several-articles-published-in-or-in-preparation-to-submit-to-peer-reviewed-journals&#34;&gt;&lt;a name = &#34;sec2&#34;&gt;&lt;/a&gt;
+I co-authored several articles published in or in preparation to submit to peer-reviewed journals.&lt;/h2&gt;
+&lt;p&gt;&lt;a href=&#34;#top&#34;&gt;Back to top&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;The following are journal articles published in peer-reviewed journals
+while Associate Professor, on which I am a contributing co-author. Most
+of these are projects in which I served as a consulting statistician:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;Varela WL, Mundahl ND, &lt;strong&gt;Bergen S&lt;/strong&gt;, Staples DF, Cochran-Biederman
+J, Weaver CR. Physical and Biological Stream Health in an
+Agricultural Watershed after 30+ Years of Targeted Conservation
+Practices. &lt;em&gt;Water&lt;/em&gt; 15(3475). 2023.
+&lt;a href=&#34;https://doi.org/10.3390/w15193475&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://doi.org/10.3390/w15193475&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Nelson HN, Treichel, AJ, Eggum EN , Martell MR, Kaiser AJ, Trudel
+AG, Gronseth JR, Maas ST, &lt;strong&gt;Bergen S&lt;/strong&gt;, Hines JH. Individual
+neuronal subtypes control initial myelin sheath growth and
+stabilization. &lt;em&gt;Neural Dev&lt;/em&gt; 15(12). 2020.
+&lt;a href=&#34;https://doi.org/10.1186/s13064-020-00149-3&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://doi.org/10.1186/s13064-020-00149-3&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Frie KJ, Prochnow J, Meiers S, Fiedler T, Jones C, &lt;strong&gt;Bergen S&lt;/strong&gt;. The
+implementation of a dedicated education unit in a public health
+setting. &lt;em&gt;Public Health Nurs&lt;/em&gt;. 37: 789&amp;ndash; 796.
+2020. &lt;a href=&#34;https://doi.org/10.1111/phn.12786&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://doi.org/10.1111/phn.12786&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Goslee E, Chesak S, Forsyth DM, Foote J, &lt;strong&gt;Bergen
+S&lt;/strong&gt;. Implementation of a Dedicated Education Unit Model for ADN
+Students in a Rural Primary Care Setting. &lt;em&gt;Nurse Educator&lt;/em&gt;. Volume
+45(2): 97-101. 2020. &lt;a href=&#34;https://doi.org/10.1097/nne.0000000000000711&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://doi.org/10.1097/nne.0000000000000711&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Fye HJ, &lt;strong&gt;Bergen S&lt;/strong&gt; and Baltrinic ER. Exploring the Relationship
+Between School Counselors&amp;rsquo; Perceived ASCA National Model
+Implementation, Supervision Satisfaction, and Burnout. &lt;em&gt;Journal of
+Counseling &amp;amp; Development.&lt;/em&gt; 98: 53-62. 2020.
+&lt;a href=&#34;https://doi.org/10.1&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://doi.org/10.1&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;i-presented-at-various-national-conferences&#34;&gt;&lt;a name = &#34;sec3&#34;&gt;&lt;/a&gt;
+I presented at various national conferences.&lt;/h2&gt;
+&lt;p&gt;&lt;a href=&#34;#top&#34;&gt;Back to top&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;I have presented and led workshops at a variety of national conferences
+over the past two years, primarily on data visualization education.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;em&gt;Data visualization: principles and applications in R, Tableau, and
+Python&lt;/em&gt;. Workshop at SDSS 2019. Co-organizer: Todd Iverson.
+&lt;a href=&#34;https://github.com/WSU-DataScience/SDSS19-dataviz-workshop&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://github.com/WSU-DataScience/SDSS19-dataviz-workshop&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;center&gt;
+&lt;image&gt; 
+&lt;figcaption&gt; &lt;i&gt; Tweet from workshop participant &lt;/i&gt; &lt;/figcaption&gt;
+&lt;img src=&#34;../../media/image27.png&#34; width = &#34;70%&#34;&gt; 
+&lt;/image&gt;
+&lt;/center&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;em&gt;Teaching the Gestalt Principles to Help Undergraduate Students
+Design Effective Tables and Graphs&lt;/em&gt;. Contributed refereed
+presentation. SDSS 2020. &lt;a href=&#34;https://bit.ly/3ikEFxv&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://bit.ly/3ikEFxv&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;em&gt;Fundamentals of data visualization for education&lt;/em&gt;. Breakout
+session. USCOTS 2021. Co-leaders: Chris Malone and Jerzy Wiezcorek.
+&lt;a href=&#34;https://github.com/DataVizEducation/USCOTS2021&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://github.com/DataVizEducation/USCOTS2021&lt;/a&gt;. Many participants
+mentioned the Gestalt principles (my portion of the breakout) in
+their evaluation of the breakout session, in response to &amp;ldquo;What was
+the most meaningful takeaway from this breakout session?&amp;rdquo;:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;em&gt;Human perception and Gestalt principles are very important to
+consider when you are thinking about how to communicate a
+message visually.&lt;/em&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;em&gt;How our minds naturally &amp;quot;think&amp;quot; about groupings and interpret
+data via visualization - and how to communicate that to our
+students.&lt;/em&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;em&gt;Gestalt principles were very eye opening for me!&lt;/em&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;em&gt;Gestalt principles. I immediately started noticing it in media
+articles.&lt;/em&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;em&gt;Ho to build and sustain a DSCI program&lt;/em&gt;. Topic contributed panel.
+JSM 2022. &lt;a href=&#34;https://rb.gy/wk5zsm&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://rb.gy/wk5zsm&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;em&gt;What belongs together? Using elemental groupings and Gestalt
+principles to help students design more insightful data
+visualizations.&lt;/em&gt; Breakout session. USCOTS 2023.
+&lt;a href=&#34;https://rb.gy/50218g&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://rb.gy/50218g&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;This latter presentation synthesized much of the &lt;a href=&#34;../crit1/#sec4&#34;&gt;conceptual framework&lt;/a&gt;
+I&amp;rsquo;ve been introducing in DSCI 310. One of the participants of this breakout enjoyed the
+session so much he invited me to present the material to faculty at his
+college as a Professional Development session:&lt;/p&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;../../media/image28.png&#34; alt=&#34;A close-up of a letter Description automatically
+generated&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;h2 id=&#34;i-wrote-an-invited-book-review-for-the-american-statistician&#34;&gt;&lt;a name = &#34;sec4&#34;&gt;&lt;/a&gt;
+I wrote an invited book review for &lt;em&gt;The American Statistician&lt;/em&gt;.&lt;/h2&gt;
+&lt;p&gt;&lt;a href=&#34;#top&#34;&gt;Back to top&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Dr. Alicia Johnson from Macalester College invited me to review
+&lt;em&gt;Displaying Time Series, Spatial, and Space-Time Data with R, 2nd Edition&lt;/em&gt; by Oscar Perpiñán Lamigueiro, for publication in &lt;em&gt;The
+American Statistician&lt;/em&gt;. Dr. Johnson had this to say about my first
+review draft:&lt;/p&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;../../media/image29.png&#34; alt=&#34;Graphical user interface, text, application, email Description
+automatically
+generated&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.tandfonline.com/doi/full/10.1080/00031305.2019.1641357&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;View published review&lt;/a&gt;&lt;/p&gt;
+&lt;h2 id=&#34;i-was-awarded-funding-through-the-innovation-through-covid-19-application-process-and-was-invited-to-present-a-follow-up-at-teach-together-minnesota&#34;&gt;&lt;a name = &#34;sec5&#34;&gt;&lt;/a&gt;
+I was awarded funding through the Innovation through COVID-19 application process and was invited to present a follow-up at Teach Together Minnesota.&lt;/h2&gt;
+&lt;p&gt;&lt;a href=&#34;#top&#34;&gt;Back to top&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;For several of my introductory statistics classes I have developed
+interactive video quiz lectures that I believe are very effective in
+increasing student engagement with the material. When the Minnesota
+State system office sent out a call for Innovation through COVID-19
+applications, I applied and received funding to create a short
+instructional video on creating and producing these video quizzes.  I created the video below with this grant.&lt;/p&gt;
+&lt;center&gt;
+&lt;iframe id=&#34;kaltura_player&#34; type=&#34;text/javascript&#34;  src=&#39;https://cdnapisec.kaltura.com/p/812561/embedPlaykitJs/uiconf_id/52484262?iframeembed=true&amp;entry_id=1_9zrcuokr&amp;config[provider]={&#34;widgetId&#34;:&#34;1_aqb3lao0&#34;}&amp;config[playback]={&#34;startTime&#34;:0}&#39;  style=&#34;width: 400px;height: 285px;border: 0;&#34; allowfullscreen webkitallowfullscreen mozAllowFullScreen allow=&#34;autoplay *; fullscreen *; encrypted-media *&#34; sandbox=&#34;allow-downloads allow-forms allow-same-origin allow-scripts allow-top-navigation allow-pointer-lock allow-popups allow-modals allow-orientation-lock allow-popups-to-escape-sandbox allow-presentation allow-top-navigation-by-user-activation&#34; title=&#34;Creating interactive lecture video quizzes with Mediaspace or Camtasia&#34;&gt;&lt;/iframe&gt;
+&lt;/center&gt;
+&lt;p&gt;I was later invited to follow up on my video with a live presentation at
+Teach Together Minnesota 2021:&lt;/p&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;../../media/image30.png&#34; alt=&#34;Graphical user interface, text, application, email Description
+automatically
+generated&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;h2 id=&#34;i-wrote-an-invited-blog-post-for-statistics-teaching-and-learning-corner&#34;&gt;&lt;a name = &#34;sec6&#34;&gt;&lt;/a&gt;
+I wrote an invited blog post for Statistics Teaching and Learning Corner.&lt;/h2&gt;
+&lt;p&gt;&lt;a href=&#34;#top&#34;&gt;Back to top&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;I was invited by the editors of the StatTLC to contribute a &lt;a href=&#34;https://stattlc.com/2021/07/08/making-awesome-tables-and-figures-using-gestalt-principles/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;blog post&lt;/a&gt;
+based on a previous presentation at SDSS.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Criterion 3: Continuing preparation</title>
+      <link>https://silasbergen.github.io/full_promotion/narratives/crit3/</link>
+      <pubDate>Wed, 10 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>https://silasbergen.github.io/full_promotion/narratives/crit3/</guid>
+      <description>&lt;p&gt;During my time as Associate Professor, I demonstrated continuing
+preparation in the following ways:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;#sec1&#34;&gt;I took a class on the Python programming language.&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;#sec2&#34;&gt;I took the WeTeach course for effective online course design.&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;#sec3&#34;&gt;I read several books and online resources on data visualization
+design and best practices.&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;#sec4&#34;&gt;I sought out professional data visualizations as inspiration for
+DSCI 310 assignments.&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;a name = &#34;sec1&#34;&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;h2 id=&#34;i-took-a-class-on-the-python-programming-language&#34;&gt;I took a class on the Python programming language.&lt;/h2&gt;
+&lt;p&gt;&lt;a href=&#34;#top&#34;&gt;Back to top&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;During Fall 2020 I sat in on Dr. Todd Iverson&amp;rsquo;s course DSCI 330:
+Management of Unstructured Data. This course was taught entirely with
+the Python language, which gave me the chance to gain experience with
+this language. I grew a special appreciation for Python&amp;rsquo;s capability of
+managing strings. Below is a screenshot of one of my &amp;ldquo;homework&amp;rdquo;
+assignments:&lt;/p&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;../../media/image31.png&#34; alt=&#34;&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;p&gt;&lt;a name = &#34;sec2&#34;&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;h2 id=&#34;i-took-the-weteach-course-for-effective-online-course-design&#34;&gt;I took the WeTeach course for effective online course design.&lt;/h2&gt;
+&lt;p&gt;&lt;a href=&#34;#top&#34;&gt;Back to top&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;I have taught online multiple times and wanted to learn more about
+effective online course design, especially given the growth of online
+teaching especially amidst the COVID-19 pandemic. To that end I
+completed the WeTeach course for effective online/blended course design
+and delivery in Summer 2020.&lt;/p&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;../../media/image32.png&#34; alt=&#34;Text Description automatically generated with low
+confidence&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;p&gt;One of the best takeaways from this class for me was to create a
+discussion board for students to introduce themselves at the beginning
+of the semester. I have done this in all my online offerings since
+taking WeTeach. I think students appreciate this chance to get to know
+one another, as it helps reduce the isolation that can be an issue in
+online courses. It also gives students a way to find people to work with
+in homework groups if they do not already know someone in the course.&lt;/p&gt;
+&lt;p&gt;&lt;a name = &#34;sec3&#34;&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;h2 id=&#34;i-read-several-books-and-online-resources-on-data-visualization-design-and-best-practices&#34;&gt;I read several books and online resources on data visualization design and best practices.&lt;/h2&gt;
+&lt;p&gt;&lt;a href=&#34;#top&#34;&gt;Back to top&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;I have explored many resources in preparation for teaching DSCI 310:
+Data visualization. As &lt;a href=&#34;../crit1/#sec4&#34;&gt;described in Criterion 1&lt;/a&gt;, I wanted to remake the way I taught DSCI 310 by focusing
+more on the concepts of quality data visualization. This included
+expanding my treatment of visual perception and designing for aesthetics
+and accessibility. The following books and online resources have proved
+hugely instrumental to my course design and thinking on data
+visualization in general and DSCI 310 specifically:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;em&gt;Show me the Numbers&lt;/em&gt; by Stephen Few&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;em&gt;Storytelling with Data&lt;/em&gt; by Cole Nussbaumer Knaflic&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;em&gt;Storytelling with Data: Let&amp;rsquo;s practice!&lt;/em&gt; By Cole Nussbaumer Knaflic&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;em&gt;The Truthful Art&lt;/em&gt; by Alberto Cairo&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;em&gt;The Grammar of Graphics&lt;/em&gt; by Leland Wilkinson&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;em&gt;#MakeoverMonday&lt;/em&gt; by Andy Kriebel and Eva Murray&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;a name = &#34;sec4&#34;&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;h2 id=&#34;i-sought-out-professional-data-visualizations-as-inspiration-for-dsci-310-assignments&#34;&gt;I sought out professional data visualizations as inspiration for DSCI 310 assignments.&lt;/h2&gt;
+&lt;p&gt;&lt;a href=&#34;#top&#34;&gt;Back to top&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;One way students improve as data visualizers is working to visualize a
+data set, then seeing a very high quality visual perspective on the same
+data. To that end, most of the design tasks I set my students in the
+data visualization course have a published visualization as its
+inspiration, which I show students after they have submitted their final
+drafts. Some examples are below.&lt;/p&gt;
+&lt;figure&gt; 
+	&lt;figcaption&gt; &lt;b&gt; Design task 1: visualizing Brain Drain &lt;/b&gt; &lt;/figcaption&gt;
+		&lt;img src=&#34;../../media/image33.png&#34; width=&#34;50%&#34;&gt;
+	&lt;figcaption&gt; &lt;i&gt; Source: &lt;a href=&#34;https://www.washingtonpost.com/business/2022/09/09/films-assigned-college/&#34;&gt; Washington Post &lt;/a&gt; &lt;/i&gt; &lt;/figcaption&gt;
+&lt;/figure&gt;
+&lt;figure&gt; 
+	&lt;figcaption&gt; &lt;b&gt; Design task 4: minimum wage and cost of living &lt;/b&gt; &lt;/figcaption&gt;
+		&lt;img src=&#34;../../media/image34.png&#34; width=&#34;50%&#34;&gt;
+	&lt;figcaption&gt; &lt;i&gt; Source: &lt;a href=&#34;https://flowingdata.com/2021/03/09/minimum-wage-and-cost-of-living/&#34;&gt; Flowing Data &lt;/a&gt; &lt;/i&gt; &lt;/figcaption&gt;
+&lt;/figure&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Criterion 4: Student growth and development</title>
+      <link>https://silasbergen.github.io/full_promotion/narratives/crit4/</link>
+      <pubDate>Wed, 10 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>https://silasbergen.github.io/full_promotion/narratives/crit4/</guid>
+      <description>&lt;figure&gt;
+&lt;img src=&#34;../../media/image55.png&#34; width = &#34;80%&#34;&gt;
+&lt;figcaption&gt; &lt;i&gt; Students Dylan Steberg (left) and David Larson (right) present their capstone research at the 
+Ramaley Research Celebration Day  &lt;/i&gt;  &lt;/figcaption&gt;
+&lt;/figure&gt; 
+&lt;p&gt;During my time as Associate Professor, I contributed to student growth
+and development in the following ways:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;#sec1&#34;&gt;I supervised student capstones and internships.&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;#sec2&#34;&gt;I wrote student letters of recommendation.&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;#sec3&#34;&gt;I served on a student Master&amp;rsquo;s committee.&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;#sec4&#34;&gt;I was invited to and participated in a student-led panel on healthy
+masculinity.&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;#sec5&#34;&gt;I led students on professional development trips.&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;For additional evidence of my support of student growth and development, please see &lt;a href=&#34;../gradthanks&#34;&gt;notes of thanks from graduates&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a name = &#34;sec1&#34;&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;h2 id=&#34;i-advised-student-capstones-and-internships&#34;&gt;I advised student capstones and internships.&lt;/h2&gt;
+&lt;p&gt;&lt;a href=&#34;#top&#34;&gt;Back to top&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;I advised the following student capstones over the past five years:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;em&gt;Detecting diabetic retinopathy to prevent blindness: fundus
+photography based deep learning algorithm&lt;/em&gt; by Miko Wieczorek&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;em&gt;Modeling baseball players&amp;rsquo; chances of induction into the Hall of
+Fame&lt;/em&gt; by Connor Demorest&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;em&gt;What Advanced Baseball Statistics Factor Most into a Player&amp;rsquo;s Wins
+Above Replacement?&lt;/em&gt; By Sam Wooden&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;em&gt;Exploring Bald Eagle Data Over Lake Superior&lt;/em&gt; by Dylan Steberg&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;em&gt;Analyzing the effects of climate change&lt;/em&gt; by Aubrie Ziebell&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;em&gt;Comparing Methods of Predicting the Outcomes of NBA Finals Series&lt;/em&gt;
+by Peyton Sikkink&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;I also supervised the following student internships:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;Kate Hansen: Betty Hazeldon-Ford&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Kyle Macief: CROSS Services&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Dennis Lew: Fastenal&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Khanh Vo: Wings Financial Credit Union&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Joe Nagel: CoSIBS&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Aidan Nutt: Ashley Furniture&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Luke Coelho: Sentence Data Refinery&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Payton Simmons: Fastenal&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;a name = &#34;sec2&#34;&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;h2 id=&#34;i-wrote-student-letters-of-recommendation&#34;&gt;I wrote student letters of recommendation.&lt;/h2&gt;
+&lt;p&gt;&lt;a href=&#34;#top&#34;&gt;Back to top&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Over the past five years I provided letters of recommendation for a
+number of students.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;Adrianna Kallis &amp;ndash; scholarship application&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Jimmy Hickey &amp;ndash; graduate school&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Yulun Xu &amp;ndash; graduate school&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Stacey Miertschin &amp;ndash; graduate school and subsequent job applications&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Eva Tourangeau &amp;ndash; graduate school&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Austin Ellingworth &amp;ndash; graduate school&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;AJ Phillips &amp;ndash; graduate school&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Adam Funk &amp;ndash; graduate school&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Connor Demorest &amp;ndash; graduate school&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Austin Ellingworth - graduate school&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Nathan Meyer - graduate school&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Dylan Steberg - graduate school&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Joe Nagel - graduate school&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;a name = &#34;sec3&#34;&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;h2 id=&#34;i-served-on-a-student-masters-committee&#34;&gt;I served on a student Master&amp;rsquo;s committee.&lt;/h2&gt;
+&lt;p&gt;&lt;a href=&#34;#top&#34;&gt;Back to top&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;I did some consulting work for Will Varela, a master&amp;rsquo;s student in the
+biology department. This work centered on analyzing quality of the
+Whitewater river using biotic data on fish and invertebrates as well as
+stream characteristics such as temperature and quality of substrates on
+the river bed. Below are some of the plots I provided him to demonstrate
+different levels of quality (as represented by the three clusters; poor,
+moderate, and good) and their spatial distribution across three branches
+of the Whitewater River.&lt;/p&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;../../media/image36.png&#34; alt=&#34;Map Description automatically
+generated&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;p&gt;I was subsequently invited to serve on his Master&amp;rsquo;s thesis committee, to
+which I agreed. I participated in thesis draft review and sat in on his
+thesis defense.&lt;/p&gt;
+&lt;p&gt;&lt;a name = &#34;sec4&#34;&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;h2 id=&#34;i-was-invited-to-and-participated-in-a-student-led-panel-on-healthy-masculinity&#34;&gt;I was invited to and participated in a student-led panel on healthy masculinity.&lt;/h2&gt;
+&lt;p&gt;&lt;a href=&#34;#top&#34;&gt;Back to top&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;In Fall 2019 a former STAT 110 student invited me to participate in a
+panel on healthy masculinity. The panel was hosted by the RE Initiative.
+I along with six other university faculty/staff/students responded to
+several questions posed by the RE Initiative student leaders. It was a
+valuable experience and I was honored to be invited and participate.&lt;/p&gt;
+&lt;figure&gt;
+&lt;img src=&#34;../../media/image37.jpeg&#34; width = &#34;60%&#34;&gt;
+&lt;figcaption&gt; &lt;i&gt; Healthy masculinity panel&lt;/i&gt;  &lt;/figcaption&gt;
+&lt;/figure&gt; 
+&lt;p&gt;&lt;a name = &#34;sec5&#34;&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;h2 id=&#34;i-led-students-on-professional-development-trips&#34;&gt;I led students on professional development trips.&lt;/h2&gt;
+&lt;p&gt;&lt;a href=&#34;#top&#34;&gt;Back to top&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;While traveling was paused for a couple years during COVID, it picked up
+a bit in the last couple years which was a welcome change. In September
+2022, Dr. Chris Malone and I took students to a Twin Cities ASA chapter
+event &lt;em&gt;Navigating difficult conversations with statistical
+collaborators&lt;/em&gt;. Many of the students who came were in my statistical
+consulting class, and enjoyed a rich and interactive conversation
+regarding potentially difficult communications with clients and
+collaborators.&lt;/p&gt;
+&lt;figure&gt;
+&lt;img src=&#34;../../media/image38.jpeg&#34; width = &#34;60%&#34;&gt;
+&lt;figcaption&gt; &lt;i&gt;The group at Twin Cities ASA event, September 2022&lt;/i&gt;  &lt;/figcaption&gt;
+&lt;/figure&gt; 
+&lt;p&gt;Data analytics competitions, an invaluable learning experience for
+students, also took a pause with COVID but returned in Spring 2023 with
+a collaboration with the Minnesota Twins. MinneMUDAC brought in dozens
+of teams to analyze ticket sales data at Target Field with the goal of
+understanding factors that related to and predicting upcoming season
+prices. I was the faculty advisor for the 3 teams from Winona State that
+participated in the competition.&lt;/p&gt;
+&lt;figure&gt;
+&lt;img src=&#34;../../media/image39.jpeg&#34; width = &#34;60%&#34;&gt;
+&lt;figcaption&gt; &lt;i&gt;The crew at Target Field, March 2023&lt;/i&gt;  &lt;/figcaption&gt;
+&lt;/figure&gt; 
+</description>
+    </item>
+    
+    <item>
+      <title>Criterion 5: Service to the university and community</title>
+      <link>https://silasbergen.github.io/full_promotion/narratives/crit5/</link>
+      <pubDate>Wed, 10 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>https://silasbergen.github.io/full_promotion/narratives/crit5/</guid>
+      <description>&lt;figure&gt;
+&lt;img src=&#34;../../media/image58.jpeg&#34; width = &#34;40%&#34;&gt;
+&lt;figcaption&gt; &lt;i&gt; A photo op on Nick Offerman&#39;s lap, a perk of serving on the &lt;a href=&#34;#lyceum&#34;&gt; Lyceum Committee.&lt;/a&gt; 
+&lt;p&gt;November, 2023 &lt;/i&gt;  &lt;/figcaption&gt;&lt;/p&gt;
+&lt;/figure&gt; 
+&lt;p&gt;&lt;a name=&#34;list&#34;&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;During my time as Associate professor, I served the university and
+community in the following ways:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;#sec1&#34;&gt;I served on the organizing committee of SDSS 2019 and co-organized
+the data visualization track.&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;#sec2&#34;&gt;I designed the university COVID dashboard for reporting on the
+university COVID situation.&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;#sec3&#34;&gt;I served on the City of Winona&amp;rsquo;s COVID-19 community response team.&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;#sec4&#34;&gt;I directed the Statistical Consulting Center.&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;#sec5&#34;&gt;I served as a discussant for the Grant Writing Workshop Series.&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;#sec6&#34;&gt;I gave a college-wide presentation on my sabbatical research during
+STEM admissions day.&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;#sec7&#34;&gt;I served on several department and university-wide committees.&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;a name = &#34;sec1&#34;&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;h2 id=&#34;i-served-on-the-organizing-committee-of-sdss-2019-and-co-organized-the-data-visualization-track&#34;&gt;I served on the organizing committee of SDSS 2019 and co-organized the data visualization track.&lt;/h2&gt;
+&lt;p&gt;&lt;a href=&#34;#list&#34;&gt;Back to top&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;At the invitation of Kelly McConville, I co-organized the data
+visualization track at the &lt;a href=&#34;https://ww2.amstat.org/meetings/sdss/2019/index.cfm&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;2019 Symposium for Data Science and
+Statistics&lt;/a&gt; in Bellevue, WA.&lt;/p&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;../../media/image46.png&#34; alt=&#34;Text, letter Description automatically
+generated&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;p&gt;I agreed to serve on the &lt;a href=&#34;https://ww2.amstat.org/meetings/sdss/2019/committee.cfm&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;organization committee&lt;/a&gt;, which entailed developing invited
+sessions and finding others to lead invited sessions. I organized two
+successful invited sessions, one on visual storytelling and one on data
+visualization education, both containing slates of high-quality
+speakers.&lt;/p&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;../../media/image47.png&#34; alt=&#34;Graphical user interface, text, application Description automatically
+generated&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;../../media/image48.png&#34; alt=&#34;Graphical user interface, text, application Description automatically
+generated&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;p&gt;&lt;a name = &#34;sec2&#34;&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;h2 id=&#34;i-designed-the-university-covid-dashboard-for-reporting-on-the-university-covid-situation&#34;&gt;I designed the university COVID dashboard for reporting on the university COVID situation.&lt;/h2&gt;
+&lt;p&gt;&lt;a href=&#34;#list&#34;&gt;Back to top&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;In collaboration with the WSU communications staff, I designed a Tableau
+dashboard for reporting on the state of COVID-19 at the university.
+Specifically, the dashboard reported on the number of students
+isolating, quarantining, active cases and cumulative cases. I designed
+the dashboard so that internal staff could update it themselves every
+week without my assistance. This dashboard served an important part of
+the University&amp;rsquo;s communication on COVID-19, remaining on the website
+throughout the 2020-21 academic year.&lt;/p&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;../../media/image49.png&#34; alt=&#34;&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;p&gt;&lt;a name = &#34;sec3&#34;&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;h2 id=&#34;i-served-on-the-city-of-winonas-covid-19-community-response-team&#34;&gt;I served on the City of Winona&amp;rsquo;s COVID-19 community response team.&lt;/h2&gt;
+&lt;p&gt;&lt;a href=&#34;#list&#34;&gt;Back to top&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Through previous collaboration with city staff, I was invited to serve
+on the City of Winona&amp;rsquo;s COVID-19 community response team. My primary
+effort as part of this group was to create another dashboard that
+updated automatically on a daily basis showing the conditions of Winona
+County and surrounding counties. The City promoted this dashboard on its
+social media pages.&lt;/p&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;../../media/image50.png&#34; alt=&#34;Graphical user interface Description automatically
+generated&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;p&gt;&lt;a name = &#34;sec4&#34;&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;h2 id=&#34;i-directed-the-statistical-consulting-center&#34;&gt;I directed the Statistical Consulting Center.&lt;/h2&gt;
+&lt;p&gt;&lt;a href=&#34;#list&#34;&gt;Back to top&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;I continued my duties directing the Statistical Consulting Center. I
+took a break during sabbatical and reassumed directing duties beginning
+Summer 2021. I created numerous reports and tutorials for a variety of
+clients. I also had several meetings with clients advising on study
+design and data collection. Below is a partial list of projects in which
+I assisted as director of the SCC:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;Broadening nursing influence through board service&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;Clients: Alison Gulden and Fern Deno&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.dropbox.com/s/o153uofcej4wnlu/Gulden-Deno-Report.docx?dl=0&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Report
+link&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Interdisciplinary perception across two Dedicated Education Units&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;Clients: Ashley Kell and Sarah Yoch&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.dropbox.com/s/hkj5hjyyjlmpk1k/Kell_Yoch_DEU_Report.docx?dl=0&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Report
+link&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Change in stress among adolescents after 8-week stress management
+small group&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;Client: Chelsey Windl&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.dropbox.com/s/25h0nv3cc0c1zpy/Windl_report.docx?dl=0&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Report
+link&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Impact
+of educational intervention on advanced directives&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;Clients: Dina Brkic and Marisia Young&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.dropbox.com/s/5c0bqbcvlc91tlv/Brkic_Young_AD_report.docx?dl=0&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Report
+link&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Effectiveness of alteplase treatment levels on blood return&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;Client: Emily Hill&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.dropbox.com/s/5uf115wbnjkzpnh/Hill_Alteplase_Report.docx?dl=0&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Report
+link&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Effectiveness of gratitude on students&amp;rsquo; perceived stress&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;Clients: Paige Anderson and Savanna Jackson&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.dropbox.com/s/edwujv1t4avf8zv/gratitude_PSS_report.docx?dl=0&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Report
+link&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Effectiveness
+of multicultural counseling education on perceived multicultural
+counseling self-efficacy&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;Client: Mary Fawcett&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.dropbox.com/s/o6g315jbv2idzn4/Fawcett_multicultural_report.docx?dl=0&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Report
+link&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Below is a letter of thanks from a person I visited with regarding
+statistical consulting:&lt;/p&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;../../media/image51.png&#34; alt=&#34;A screenshot of a email Description automatically
+generated&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;p&gt;Please also see a &lt;a href=&#34;../../uploads/BergenRecommendation.pdf&#34;&gt;letter of support&lt;/a&gt; from Dr. Neal Mundahl (WSU biology) attesting to my statistical consulting support for him and his students.&lt;/p&gt;
+&lt;p&gt;In addition, I visited several classrooms providing review of
+statistical concepts:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;NURS 354 &amp;ndash; Leadership in Research and Evidence-based Practice&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;CMST 380 &amp;ndash; Communication Research Methods&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;NURS 600 &amp;ndash; Scientific and Ethical Foundations&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;For the past 3 summers, I have visited Ed.D students at their College of
+Education Residency providing an overview of the Statistical Consulting
+Center and recommendations for quantitative research. Below is a note of
+appreciation from Dr. Baule.&lt;/p&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;../../media/image52.png&#34; alt=&#34;Text, letter Description automatically
+generated&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;p&gt;&lt;a name = &#34;sec5&#34;&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;h2 id=&#34;i-served-as-a-discussant-for-the-grant-writing-workshop-series&#34;&gt;I served as a discussant for the Grant Writing Workshop Series.&lt;/h2&gt;
+&lt;p&gt;&lt;a href=&#34;#list&#34;&gt;Back to top&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;On Oct 30 2020 I served as a panelist for the Grant Writing Workshop
+series. I shared about my experience applying for and receiving funding
+from the American Eagle Foundation for my sabbatical work, as well as
+lessons learned along the way.&lt;/p&gt;
+&lt;p&gt;&lt;a name = &#34;sec6&#34;&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;h2 id=&#34;i-gave-a-college-wide-presentation-on-my-sabbatical-research-during-stem-admissions-day&#34;&gt;I gave a college-wide presentation on my sabbatical research during STEM admissions day.&lt;/h2&gt;
+&lt;p&gt;&lt;a href=&#34;#list&#34;&gt;Back to top&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;On Dec 1, 2023, I presented an overview of my &lt;a href=&#34;../crit2/#sec1&#34;&gt;bald eagle sabbatical
+research&lt;/a&gt; to prospective students during the STEM admissions day.&lt;/p&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;../../media/image53.png&#34; alt=&#34;A person holding a dog Description automatically
+generated&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;p&gt;&lt;a name = &#34;sec7&#34;&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;h2 id=&#34;i-served-on-several-department-and-university-wide-committees&#34;&gt;I served on several department and university-wide committees.&lt;/h2&gt;
+&lt;p&gt;&lt;a href=&#34;#list&#34;&gt;Back to top&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;During Fall 2019-Spring 2020 I chaired our department&amp;rsquo;s recruitment
+committee. One major endeavor of this committee was to host the Fall
+2019 &amp;ldquo;Math in the Real World&amp;rdquo; workshop. We hosted this workshop in
+October 2019 on University Improvement day. The workshop included a
+series of short sessions introducing high school students to how
+math/statistics/data science can be applied. Below is a schedule of the
+workshop:&lt;/p&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;../../media/image54.png&#34; alt=&#34;Table Description automatically
+generated&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;p&gt;Over 50 students attended from high schools around the region.&lt;/p&gt;
+&lt;p&gt;I also played an active role in the Student Opportunities and Social
+Activities committee. Primary duties included co-hosting a
+student/faculty trivia night with Dr. Brant Deppa. Pre-COVID we held
+trivia live; it was such a hit that we even hosted several virtual
+trivia nights via Zoom during COVID.&lt;/p&gt;
+&lt;figure&gt; 
+&lt;img src=&#34;../../media/image55.jpeg&#34; width=&#34;70%&#34;&gt;
+	&lt;figcaption&gt; &lt;i&gt; An in-person student trivia night, Baldwin Lounge &lt;/i&gt; &lt;/figcaption&gt;
+&lt;/figure&gt;
+&lt;p&gt;As part of SOSA, I also supported the Math/Stat club Friendsgiving by
+smoking a couple turkeys (unfortunately not shown):&lt;/p&gt;
+&lt;figure&gt; 
+&lt;img src=&#34;../../media/image56.jpeg&#34; width=&#34;70%&#34;&gt;
+	&lt;figcaption&gt; &lt;i&gt; Math-Stat club friendsgiving, November 2022 &lt;/i&gt; &lt;/figcaption&gt;
+&lt;/figure&gt;
+&lt;p&gt;&lt;a name=&#34;lyceum&#34;&gt; &lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;I also served on the following university-wide committees during
+2019-2023:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;Grade Appeals Committee&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Student Affairs Committee&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Lyceum committee&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;As part of the Lyceum committee I work with a group of Winona State staff, students, and faculty to decide who to bring
+in as our major speakers and help with tear-down after the event.
+Another perk of the job: photo ops with the speakers after the event.&lt;/p&gt;
+&lt;figure&gt; 
+&lt;img src=&#34;../../media/image57.jpeg&#34; width=&#34;40%&#34;&gt;
+	&lt;figcaption&gt; &lt;i&gt; Bill Nye, November 2022 &lt;/i&gt; &lt;/figcaption&gt;
+&lt;/figure&gt;
+&lt;p&gt;&lt;a href=&#34;#list&#34;&gt;Back to top&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Notes from graduates</title>
+      <link>https://silasbergen.github.io/full_promotion/narratives/gradthanks/</link>
+      <pubDate>Fri, 22 Dec 2023 00:00:00 +0000</pubDate>
+      <guid>https://silasbergen.github.io/full_promotion/narratives/gradthanks/</guid>
+      <description>&lt;p&gt;I want to include in my application the following letters from
+graduates. I am especially touched by these thoughtful notes from
+students I&amp;rsquo;ve known and worked with for several years in various
+capacities.&lt;/p&gt;
+&lt;figure&gt;
+&lt;img src=&#34;../../media/image40.jpeg&#34;&gt;
+&lt;figcaption&gt; &lt;i&gt; Connor Demorest, 2020&lt;/i&gt;  &lt;/figcaption&gt;
+&lt;/figure&gt; 
+&lt;figure&gt;
+&lt;img src=&#34;../../media/image41.jpeg&#34;&gt;
+&lt;figcaption&gt; &lt;i&gt; Kate Hansen, 2021&lt;/i&gt;  &lt;/figcaption&gt;
+&lt;/figure&gt; 
+&lt;figure&gt;
+&lt;img src=&#34;../../media/image42.jpeg&#34;&gt;
+&lt;figcaption&gt; &lt;i&gt; Math-Stat class of 2022-2023&lt;/i&gt;  &lt;/figcaption&gt;
+&lt;/figure&gt; 
+&lt;figure&gt;
+&lt;img src=&#34;../../media/image43.jpeg&#34;&gt;
+&lt;figcaption&gt; &lt;i&gt; Carly Vandenhouten, 2022&lt;/i&gt;  &lt;/figcaption&gt;
+&lt;/figure&gt; 
+&lt;figure&gt;
+&lt;img src=&#34;../../media/image44.jpeg&#34;&gt;
+&lt;figcaption&gt; &lt;i&gt; Emily Vodovnik, 2022&lt;/i&gt;  &lt;/figcaption&gt;
+&lt;/figure&gt; 
+&lt;figure&gt;
+&lt;img src=&#34;../../media/image45.jpeg&#34;&gt;
+&lt;figcaption&gt; &lt;i&gt; Dylan Steberg, 2023&lt;/i&gt;  &lt;/figcaption&gt;
+&lt;/figure&gt; 
 </description>
     </item>
     
